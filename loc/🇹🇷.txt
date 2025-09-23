@@ -2,10 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.123.101.241:990#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvQzljMWtQa1lia2c%3D@83.217.9.210:443#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAzQDE4NS4xMjMuMTAxLjI0MTo5OTA=#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpUZlBNUDZMd1B5V1I2ZGNHTnJMTHp1@h110vpntr.outlinekeys.net:65262#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://e265fc78-e269-46b2-9b6a-85f573dab3d5@ardagulerturk.gojustore.site:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=www.telewebion.com&sid=16b6cda7ab793526#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://ee2a2581-ac81-4a3d-9650-c2f03d6cb3ab@ytr.amiraizo.com:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=cloudflare.com&sid=e41865e506628f44#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://0e2253a9-5ef3-4094-b33d-f51c48593216@ytr.amiraizo.com:2560?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&spx=%2F&type=tcp&sni=www.cloudflare.com&sid=e41865e506628f44#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://e105e56a-5f81-41a2-ab44-bfffc9b00674@45.12.143.191:20329?security=reality&encryption=none&pbk=Lj3MXlg16CTFHtU88acSS-ACfGnwJ_xkU6dC6k8OeDo&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4602ee9f9f36#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
