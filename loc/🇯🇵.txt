@@ -4,5 +4,7 @@
 
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M%3D@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 ss://YWVzLTEyOC1nY206MTAwODZAMTUzLjEyMS41MS4yMTQ6MTAwODc=#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://b65f4df7-f6af-42b2-877a-cef33f21675e@150.230.5.34:45681?allowInsecure=0&sni=kejiland.freewarp.eu.org&type=ws&host=kejiland.freewarp.eu.org&path=/snippets/ip=proxyip.fxxk.dedyn.io:443?ed=2560fp=chrome&security=tls#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://01998131-dee6-1989-144d-45545dada75a@138.2.32.76:15821?path=%2Fsnippets%2Fip%3Dproxyip.fxxk.dedyn.io%3A443%3Fed%3D2560&security=tls&encryption=none&host=kejiland.freewarp.eu.org&type=ws&sni=kejiland.freewarp.eu.org#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
