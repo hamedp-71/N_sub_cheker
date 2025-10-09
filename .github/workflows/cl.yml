@@ -3,7 +3,6 @@ name: Auto Sub Checker
 on:
   # اجازه اجرای دستی از طریق رابط کاربری گیت‌هاب
   workflow_dispatch:
-  # هر 5 دقیقه اجرا شود. (مطمئن شوید که شاخه main شما default branch است.)
   schedule:
     # اجرا هر 4 ساعت یکبار
     - cron: '0 */4 * * *'
@@ -29,7 +28,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11' # نسخه دقیق پایتون
+          python-version: '3.12' # نسخه دقیق پایتون
 
       # --- کش کردن وابستگی‌ها برای سرعت بیشتر و پایداری (بسیار توصیه می‌شود) ---
       - name: Set weekly cache key
