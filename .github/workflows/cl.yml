@@ -66,6 +66,7 @@ jobs:
         run: python cl.py
 
       - name: Commit and push if there are changes
+        id: commit_and_push # این id برای استفاده از خروجی لازم است
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -77,6 +78,8 @@ jobs:
             git commit -m "chore: Update subscription results [skip ci]"
             git pull --rebase
             git push
+            echo "committed=true" >> $GITHUB_OUTPUT # <--- جایگزین شد
           else
             echo "No changes to commit."
+            echo "committed=false" >> $GITHUB_OUTPUT # <--- جایگزین شد
           fi
