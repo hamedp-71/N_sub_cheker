@@ -1792,108 +1792,107 @@ def ping_all():
                 return update_ip_addresses(value,t)
             return value
         return {key: update_value(value) for key, value in input_dict.items()}
-    def process_ping(i:str, t,counter=2) :
-        global FIN_CONF
-        print(i)
-        while t > 100:
-            t-=100
-        path_test_file=f"xray/config_test_ping{'' if t==0 else str(t)}.json"
-        hy2_path_test_file=f"hy2/config{'' if t==0 else str(t)}.yaml"
-        result="-1"
-        is_wrong = False
-        with open(path_test_file, "w") as f:
-            try:
-                if not is_dict:
-                    f.write(parse_configs(i, cv=t+2, hy2_path=hy2_path_test_file))
-                else:
-                    json.dump(update_ip_addresses(i, t+2), f)
-            except Exception as E:
-                is_wrong = True
-                print(E)
-        if not is_wrong:
-            with open(path_test_file, "r") as f:
-                temp3 = json.load(f)
-            port = temp3["inbounds"][1]["port"]
+# این تابع در فایل cl.py شما وجود دارد، آن را با این نسخه جایگزین کنید
+
+def process_ping(i:str, t,counter=2) :
+    global FIN_CONF
+    print(f"  [Thread-{t}] Starting to process: {i.strip()[:50]}...") # لاگ اولیه برای هر کانفیگ
+    
+    while t > 100:
+        t-=100
+    path_test_file=f"xray/config_test_ping{'' if t==0 else str(t)}.json"
+    hy2_path_test_file=f"hy2/config{'' if t==0 else str(t)}.yaml"
+    result="-1"
+    is_wrong = False
+    
+    with open(path_test_file, "w") as f:
+        try:
             if not is_dict:
-                if i.startswith("hy2://") or i.startswith("hysteria2://"):
-                    th3h = threading.Thread(target=s_hy2,args=(hy2_path_test_file,t,))
-                    th3h.start()
-            th3 = threading.Thread(target=s_xray,args=(path_test_file,t,))
-            th3.start()
-            time.sleep(3)
+                f.write(parse_configs(i, cv=t+2, hy2_path=hy2_path_test_file))
+            else:
+                json.dump(update_ip_addresses(i, t+2), f)
+        except Exception as E:
+            is_wrong = True
+            print(f"  [Thread-{t}] ERROR creating config file: {E}")
+            
+    if not is_wrong:
+        with open(path_test_file, "r") as f:
+            temp3 = json.load(f)
+        port = temp3["inbounds"][1]["port"]
+        
+        if not is_dict:
+            if i.startswith("hy2://") or i.startswith("hysteria2://"):
+                th3h = threading.Thread(target=s_hy2,args=(hy2_path_test_file,t,))
+                th3h.start()
+                
+        th3 = threading.Thread(target=s_xray,args=(path_test_file,t,))
+        th3.start()
+        
+        print(f"  [Thread-{t}] Xray/Hysteria process started. Waiting for 3 seconds...")
+        time.sleep(3)
+        
+        if os.path.exists(path_test_file):
             os.remove(path_test_file)
-            if os.path.exists(hy2_path_test_file):
-                os.remove(hy2_path_test_file)
-            proxies = {"http": f"http://127.0.0.{t+2}:{port}",
-                            "https": f"http://127.0.0.{t+2}:{port}"}
-            @retry(stop_max_attempt_number=3, wait_fixed=500, retry_on_exception=lambda x: isinstance(x, Exception))
-            def pingg():
-                try:
-                    url = test_link_
-                    headers = {"Connection": "close"}
-                    start = time.time()
-                    response = requests.get(url, proxies=proxies, timeout=10, headers=headers)
-                    elapsed = (time.time() - start) * 1000
-                    if response.status_code == 204 or (response.status_code == 200 and len(response.content) == 0):
-                        return f"{int(elapsed)}"
-                    else:
-                        if response.status_code == 503:
-                            raise IOError("Connection test error, check your connection or ping again ...")
-                        else:
-                            raise IOError(f"Connection test error, status code: {response.status_code}")
-                except RequestException as e:
-                    print(f"testConnection RequestException: {e}")
-                    return "-1"
-                except Exception as e:
-                    print(f"testConnection Exception: {e}")
-                    return "-1"
+        if os.path.exists(hy2_path_test_file):
+            os.remove(hy2_path_test_file)
+            
+        proxies = {"http": f"http://127.0.0.{t+2}:{port}",
+                        "https": f"http://127.0.0.{t+2}:{port}"}
+        
+        @retry(stop_max_attempt_number=3, wait_fixed=500, retry_on_exception=lambda x: isinstance(x, Exception))
+        def pingg():
             try:
-                result = pingg()
-            except Exception:
-                result = "-1"
-            if result !="-1":
-                if CHECK_LOC:
-                    public_ip = get_public_ipv4(t+2, port)
-                    if CHECK_IRAN:
-                        if is_ip_accessible_from_iran_via_check_host(public_ip,proxies):
-                            get_ip_details(public_ip,i,proxies)
+                # لاگ قبل از پینگ
+                print(f"    [Thread-{t}] Attempting to ping via proxy...")
+                url = test_link_
+                headers = {"Connection": "close"}
+                start = time.time()
+                response = requests.get(url, proxies=proxies, timeout=10, headers=headers)
+                elapsed = (time.time() - start) * 1000
+                if response.status_code == 204 or (response.status_code == 200 and len(response.content) == 0):
+                    return f"{int(elapsed)}"
+                else:
+                    if response.status_code == 503:
+                        raise IOError("Connection test error, check your connection or ping again ...")
                     else:
+                        raise IOError(f"Connection test error, status code: {response.status_code}")
+            except RequestException as e:
+                print(f"    [Thread-{t}] Ping RequestException: {e}")
+                return "-1"
+            except Exception as e:
+                print(f"    [Thread-{t}] Ping Exception: {e}")
+                return "-1"
+        try:
+            result = pingg()
+        except Exception:
+            result = "-1"
+            
+        if result !="-1":
+            if CHECK_LOC:
+                print(f"  [Thread-{t}] Ping successful ({result}ms). Getting public IP...")
+                public_ip = get_public_ipv4(t+2, port)
+                if CHECK_IRAN:
+                    print(f"  [Thread-{t}] Public IP is {public_ip}. Checking accessibility from Iran...")
+                    if is_ip_accessible_from_iran_via_check_host(public_ip,proxies):
+                        print(f"  [Thread-{t}] IP {public_ip} is accessible. Getting details...")
                         get_ip_details(public_ip,i,proxies)
                 else:
-                    if CHECK_IRAN:
-                        public_ip = get_public_ipv4(t+2, port)
-                        if is_ip_accessible_from_iran_via_check_host(public_ip,proxies):
-                            FIN_CONF.append(i)
-                    else:
+                    get_ip_details(public_ip,i,proxies)
+            else:
+                if CHECK_IRAN:
+                    print(f"  [Thread-{t}] Ping successful ({result}ms). Getting public IP for Iran check...")
+                    public_ip = get_public_ipv4(t+2, port)
+                    print(f"  [Thread-{t}] Public IP is {public_ip}. Checking accessibility from Iran...")
+                    if is_ip_accessible_from_iran_via_check_host(public_ip,proxies):
                         FIN_CONF.append(i)
-            if not is_dict:
-                if i.startswith("hy2://") or i.startswith("hysteria2://"):
-                    process_manager.stop_process(f"hysteria_{t}")
-            process_manager.stop_process(f"xray_{t}")
-    sun_nms, is_dict = load_config()
-    copy_in_sus_nms=sun_nms
-    with ThreadPoolExecutor(max_workers=TH_MAX_WORKER) as executor:
-        futures = [executor.submit(process_ping, i, t) for t, i in enumerate(sun_nms)]
-    if is_dict:
-        with open(TEXT_PATH, "w") as f:
-            json.dump(copy_in_sus_nms, f, indent=2, ensure_ascii=False)
-    else:
-        with open(TEXT_PATH, "w") as f:
-            f.writelines(f"{line}\n" for line in copy_in_sus_nms)
-if  len(LINK_PATH) != 0:
-    with open(TEXT_PATH, "w") as f:
-        f.write("")
-    for link  in LINK_PATH:
-        if link.startswith("http://") or link.startswith("https://"):
-                response = requests.get(link, timeout=15)
-                response.raise_for_status()
-                try:
-                    json_data = response.json()
-                    content_to_write = json.dumps(json_data, indent=4, ensure_ascii=False)
-                except requests.exceptions.JSONDecodeError:
-                    content_to_write = response.text
-                with open(TEXT_PATH, "a") as f:
-                    f.write("\n"+content_to_write)
+                else:
+                    FIN_CONF.append(i)
+                    
+    print(f"  [Thread-{t}] Finished processing. Cleaning up processes...")
+    if not is_dict:
+        if i.startswith("hy2://") or i.startswith("hysteria2://"):
+            process_manager.stop_process(f"hysteria_{t}")
+    process_manager.stop_process(f"xray_{t}")
 
 # ==============================================================================
 # بخش جدید برای پیش‌پردازش، تست و ذخیره‌سازی فایل‌ها
@@ -2105,6 +2104,7 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
 
 
