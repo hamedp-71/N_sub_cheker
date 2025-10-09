@@ -1,9 +1,8 @@
-name: ch
+name: Auto Sub Checker
 
 on:
   workflow_dispatch:
   schedule:
-    # ! مشکل ۲: اصلاح زمان‌بندی به هر ۵ دقیقه
     - cron: '*/5 * * * *'
 
 concurrency:
@@ -11,7 +10,6 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
-  # ! مشکل ۱: این دسترسی حیاتی است
   contents: write
   workflows: write
 
@@ -48,8 +46,6 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # نکته بهبود: جلوگیری از کامیت شدن خود فایل yml
-          git reset .github/workflows/cl.yml
           git add .
           
           if ! git diff --staged --quiet; then
