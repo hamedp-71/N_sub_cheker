@@ -1,16 +1,19 @@
 name: Auto Sub Checker
 
 on:
+  # اجازه اجرای دستی از طریق رابط کاربری گیت‌هاب
   workflow_dispatch:
+  # هر 5 دقیقه اجرا شود. (مطمئن شوید که شاخه main شما default branch است.)
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/5 * * * *' 
 
+# جلوگیری از اجرای همزمان اکشن برای حل قطعی مشکل Merge Conflict
 concurrency:
   group: ${{ github.workflow }}
   cancel-in-progress: true
 
 permissions:
-  contents: write
+  contents: write # مجوز نوشتن برای کامیت و پوش کردن لازم است
 
 jobs:
   deploy:
@@ -18,18 +21,38 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        # این گزینه برای 'git pull --rebase' حیاتی است تا تاریخچه کامل Git را داشته باشد.
+        with:
+          fetch-depth: 0 
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: '3.11' # نسخه دقیق پایتون
+
+      # --- کش کردن وابستگی‌ها برای سرعت بیشتر و پایداری (بسیار توصیه می‌شود) ---
+      - name: Set weekly cache key
+        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+
+      - name: Cache dependencies
+        uses: actions/cache@v4
+        with:
+          key: pip-cache-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-${{ hashFiles('**/requirements.txt') }}-${{ env.cache_id }}
+          path: ~/.cache/pip
+          restore-keys: |
+            pip-cache-${{ runner.os }}-${{ steps.setup-python.outputs.python-version }}-
+            # یک کلید بازگشتی عمومی‌تر برای مواقعی که key دقیقاً match نمی‌کند
+      # --- پایان بخش کش ---
 
       - name: Install dependencies
+        # اگر فایل requirements.txt دارید، بهتر است از آن استفاده کنید: run: pip install -r requirements.txt
         run: pip install requests psutil retrying PyYaml
 
+      # تمیز کردن نتایج قدیمی برای شروعی تازه در هر اجرا
       - name: Clean up old results
         run: |
           rm -f final.txt final_b64.txt vless*.txt vmess*.txt trojan*.txt ss*.txt hy2*.txt wireguard*.txt socks*.txt
+          # اطمینان از حذف دایرکتوری 'loc'
           rm -rf loc/
 
       - name: Set execute permissions
@@ -41,17 +64,25 @@ jobs:
         run: python cl.py
 
       - name: Commit and push if there are changes
+        id: commit_and_push # اضافه کردن id برای این مرحله
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          # تنظیمات Git برای این اجرا (نه به صورت سراسری)
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
+          # اضافه کردن همه فایل‌های تغییر یافته یا جدید به staging area
           git add .
           
+          # بررسی اینکه آیا تغییراتی برای کامیت وجود دارد یا خیر
           if ! git diff --staged --quiet; then
             echo "Changes detected. Committing and pushing..."
             git commit -m "chore: Update subscription results [skip ci]"
-            git pull --rebase
-            git push
+            # کشیدن آخرین تغییرات و ریبیس کردن قبل از پوش برای جلوگیری از تداخل
+            git pull --rebase origin main 
+            # صریحاً به شاخه main روی origin پوش شود
+            git push origin HEAD:main 
+            echo "::set-output name=committed::true" # خروجی برای استفاده در مراحل بعدی
           else
             echo "No changes to commit."
+            echo "::set-output name=committed::false" # خروجی برای استفاده در مراحل بعدی
           fi
