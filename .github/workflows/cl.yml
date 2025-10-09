@@ -18,12 +18,14 @@ permissions:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    # اضافه کردن تایم‌اوت کلی برای کل Job
+    timeout-minutes: 240 # 4 ساعت
     steps:
+      # ... بقیه مراحل شما بدون تغییر باقی می‌مانند ...
       - name: Checkout code
         uses: actions/checkout@v4
-        # این گزینه برای 'git pull --rebase' حیاتی است تا تاریخچه کامل Git را داشته باشد.
         with:
-          fetch-depth: 0 
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
