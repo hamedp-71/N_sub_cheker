@@ -66,25 +66,17 @@ jobs:
         run: python cl.py
 
       - name: Commit and push if there are changes
-        id: commit_and_push # اضافه کردن id برای این مرحله
         run: |
-          # تنظیمات Git برای این اجرا (نه به صورت سراسری)
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # اضافه کردن همه فایل‌های تغییر یافته یا جدید به staging area
           git add .
           
-          # بررسی اینکه آیا تغییراتی برای کامیت وجود دارد یا خیر
           if ! git diff --staged --quiet; then
             echo "Changes detected. Committing and pushing..."
             git commit -m "chore: Update subscription results [skip ci]"
-            # کشیدن آخرین تغییرات و ریبیس کردن قبل از پوش برای جلوگیری از تداخل
-            git pull --rebase origin main 
-            # صریحاً به شاخه main روی origin پوش شود
-            git push origin HEAD:main 
-            echo "::set-output name=committed::true" # خروجی برای استفاده در مراحل بعدی
+            git pull --rebase
+            git push
           else
             echo "No changes to commit."
-            echo "::set-output name=committed::false" # خروجی برای استفاده در مراحل بعدی
           fi
