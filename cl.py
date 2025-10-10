@@ -1756,7 +1756,6 @@ def get_ip_details(ip_address: Optional[str], original_config_str: str,proxies_t
         
         FIN_CONF.append(final_config_string)
 
-
 def load_config():
     """
     کانفیگ‌ها را از فایل normal.txt می‌خواند و تمیز می‌کند.
@@ -1998,3 +1997,4 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
