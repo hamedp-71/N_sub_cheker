@@ -3,7 +3,7 @@ name: Sub Checker Creator
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '0 */3 * * *'
 
 concurrency:
   group: ${{ github.workflow }}
@@ -23,7 +23,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           # استفاده از نسخه پایدار 3.12
-          python-version: '3.12'
+          python-version: '3.13'
 
       - name: Install Python dependencies
         run: pip install requests psutil retrying PyYaml
