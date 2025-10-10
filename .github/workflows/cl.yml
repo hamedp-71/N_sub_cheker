@@ -22,7 +22,8 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.14'
+          # تغییر به نسخه پایدار 3.12 برای جلوگیری از خطای پیدا نشدن نسخه
+          python-version: '3.12'
 
       - name: Install Python dependencies
         run: pip install requests psutil retrying PyYaml
@@ -45,7 +46,8 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          git add .
+          # رفع خطای اصلی: فقط فایل‌های نتیجه به کامیت اضافه می‌شوند
+          git add final.txt final_b64.txt vless*.txt vmess*.txt trojan*.txt ss*.txt hy2*.txt wireguard*.txt socks*.txt loc/
           
           if ! git diff --staged --quiet; then
             echo "Changes detected. Committing and pushing..."
