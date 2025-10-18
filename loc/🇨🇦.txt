@@ -2,11 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@142.4.216.225:80#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKSWhONnJCS2thRWJvTE5YVlN2NXJx@ca225.vpnbook.com:80#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@79.127.233.170:990#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh6jwn4emIiwiYWRkIjoiamFtZWtrLm9yZyIsInBvcnQiOiI0NDMiLCJ0eXBlIjoibm9uZSIsImlkIjoiMDNmY2M2MTgtYjkzZC02Nzk2LTZhZWQtOGEzOGM5NzVkNTgxIiwiYWlkIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Imxpbmt2d3MiLCJob3N0IjoiamFtZWtrLm9yZyIsInRscyI6InRscyJ9
-vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=%2Fvless%2F&security=&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://89b4b3b1-f8f3-45e8-b320-813890725a63@146.19.106.108:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=RLnn_xv-bEz-EyKftk39W7X9dcCPUKQVHesIib6JxDo&sid=7f82332c5128e55f&type=tcp&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://89b4b3b1-f8f3-45e8-b320-813890725a63@146.19.106.108:443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=RLnn_xv-bEz-EyKftk39W7X9dcCPUKQVHesIib6JxDo&sid=7f82332c5128e55f&type=grpc&serviceName=5eee08e1346edbbd0750c731#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://677615f7-87d5-5019-a44d-4fc3ff8d59d7@81.19.140.131:443?security=reality&encryption=none&pbk=18otPJIOnisNtfhP_PxpdJgPYqFbkYQAM-pecy90xwk&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=vk.cc&sid=5ec229f9#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@45.131.5.189:2053?path=%2F&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://08cb0591-5193-4a0c-9105-ceb09fba67fe@185.174.138.47:2053?path=%2F&security=tls&encryption=none&host=AeEye-52235.zephorium.uk&fp=chrome&type=ws&sni=AeEye-52235.zephorium.uk#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+vless://cef1e956-e92b-4dbb-999a-6524679f8a40@51.222.158.206:80?path=%2Fvless%2F&security=&encryption=none&host=---%40External_Net---%40External_Net---%40External_Net---%40External_Net---%40External_Net&type=ws#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%A6
