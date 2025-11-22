@@ -2,24 +2,17 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIbVpmZEduZjJMQmRraWRpdks0VjM5@81.90.31.219:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKQzFCREVYT2RZbmM3N2NIMGl1UUFP@81.90.31.219:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?mode=gun&security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.109:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638959783653647289.lahijan-blkaft-aaao.info:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@108.162.192.75:443?security=tls&sni=638991523882288916.impreza-amsia.info&fp=chrome&type=ws&path=/ybkqtgws&host=638991523882288916.impreza-amsia.info&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@173.245.58.75:443?security=tls&sni=638991523882288916.impreza-amsia.info&fp=chrome&type=ws&path=/ybkqtgws&host=638991523882288916.impreza-amsia.info&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@172.64.32.75:443?security=tls&sni=638991523882288916.impreza-amsia.info&fp=chrome&type=ws&path=/ybkqtgws&host=638991523882288916.impreza-amsia.info&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=%2Fybkqtgws&security=tls&encryption=none&host=638991523882288916.impreza-amsia.info&type=ws&sni=638991523882288916.impreza-amsia.info#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIbVpmZEduZjJMQmRraWRpdks0VjM5@81.90.31.219:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443/?type=ws&encryption=none&flow=&host=zcreat.ethervpn.fun&path=%2Fwebsocketpl%3Fed%3D2047&security=tls&sni=zcreat.ethervpn.fun&alpn=h2%2Chttp%2F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://f61a4285-7264-4d07-9408-7b9ba1922c26@5.42.220.253:8443?encryption=none&security=tls&sni=gaosir.unfeeling.sbs&fp=chrome&allowInsecure=1&type=ws&host=gaosir.unfeeling.sbs&path=%2Fx%40%E8%8A%82%E7%82%B9%E7%8B%82%E9%AD%94#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.246:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@638971626453013983.gorgan-blkaft-aaax.info:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://df0680ca-e43c-498d-ed86-8e196eedd012@185.231.205.181:8880?security=&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@108.162.192.75:443?encryption=none&type=ws&host=638991523882288916.impreza-amsia.info&path=%2Fybkqtgws&security=tls&fp=chrome&sni=638991523882288916.impreza-amsia.info#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://d42c146e-2ded-4b4a-8592-6459ac636910@spb.ru.srv.oplcdn.link:8443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ign.com&sid=6ba85179e30d4fc2&note=Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---Telegram---@Raiv2mmr---#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443?path=%2Fwebsocketpl%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=zcreat.ethervpn.fun&fp=chrome&type=ws&allowInsecure=0&sni=zcreat.ethervpn.fun#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://cbf1ec03-2cff-4b1f-9eb5-5929c13fc20c@wolfy.ufavpn.ru:27121?security=reality&encryption=none&pbk=QNLEBa5tV9JCrubA4hlAWhho06ddr2dtsT8LKZsGTgA&headerType=none&fp=chrome&type=tcp&sni=www.ok.ru&sid=fdc8125ea6f61323#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
