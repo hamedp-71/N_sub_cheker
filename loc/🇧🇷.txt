@@ -8,4 +8,3 @@ trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotco
 trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 trojan://9Hf6Xm7juWw.BsqI@216.238.122.246:10849/?type=tcp&security=tls&sni=hotcoffee.angrypiano.click#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
 trojan://V8cbmRo4T2Qd+JwW@216.238.120.105:16555/?type=tcp&security=tls&sni=qdsbwfvjal.zwodhfgqaps.click#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vmess://eyJhZGQiOiI0NS4yMzEuMTMyLjQ2IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiIyM2JkZjZkZi1jNDgyLTQ2ZDAtYzBmNC01YTk4ZDUzNGVhMTEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvdGVzdCIsInBvcnQiOjQ1OTc5LCJwcyI6ImhhbWVkcDcxOjrwn4en8J+HtyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
