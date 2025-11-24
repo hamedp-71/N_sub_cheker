@@ -3,26 +3,15 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@185.126.239.250:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5QUx0eUF0SGZidzFWdTRwcWg2d1Vj@5.129.201.43:23256#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WUxpRTBMT3NyMEN3SWpiaUNTTHky@147.45.235.63:49115#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@45.159.250.190:990#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3SFE4dzFZV01kTmpxNjhiWnQxdE5mcERITEZBMUJQQQ%3D%3D@45.144.31.24:443#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWVmxBZmY3N0NuQVU0M0FvYzVqMTVZ@90.156.203.62:5112#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@172.64.32.75:443/?type=ws&encryption=none&flow=&host=638991523882288916.impreza-amsia.info&path=%2Fybkqtgws&security=tls&sni=638991523882288916.impreza-amsia.info&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://404273a3-7485-49ef-aa12-2742924808eb@delilah.ns.cloudflare.com:443?path=%2Fomnabkws&security=tls&encryption=none&type=ws&sni=638994561038736679.golf-amsie.info#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443?flow=&type=ws&host=zcreat.ethervpn.fun&path=/websocketpl?ed%3D2047&security=tls&sni=zcreat.ethervpn.fun&alpn=http/1.1,h2&fp=chrome&allowInsecure=0#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://404273a3-7485-49ef-aa12-2742924808eb@delilah.ns.cloudflare.com:443?encryption=none&security=tls&sni=638994561038736679.golf-amsie.info&type=ws&host=638994561038736679.golf-amsie.info&path=/omnabkws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443?path=/websocketpl?ed=2047&security=tls&alpn=h2,http/1.1&encryption=none&host=zcreat.ethervpn.fun&fp=chrome&type=ws&sni=zcreat.ethervpn.fun#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@betty.ns.cloudflare.com:443?path=%2Fybkqtgws&security=tls&encryption=none&host=638991523882288916.impreza-amsia.info&type=ws&sni=638991523882288916.impreza-amsia.info#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@108.162.192.75:443?security=tls&sni=638991523882288916.impreza-amsia.info&fp=chrome&type=ws&path=/ybkqtgws&host=638991523882288916.impreza-amsia.info&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@172.64.32.75:443?security=tls&sni=638991523882288916.impreza-amsia.info&fp=chrome&type=ws&path=/ybkqtgws&host=638991523882288916.impreza-amsia.info&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@173.245.58.75:443?security=tls&sni=638991523882288916.impreza-amsia.info&fp=chrome&type=ws&path=/ybkqtgws&host=638991523882288916.impreza-amsia.info&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://481c5606-b586-44d7-bc2e-d8ef30d67f62@176.120.72.63:38339?security=reality&sni=dl.google.com&allowInsecure=1&fp=chrome&pbk=o0MFuznHh_Wztg0FTAMhFXm3hjAqOJAJIIVNn-_A9WA&sid=e16883e511&type=tcp&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://65a83fe9-195f-4bae-9334-f3b1b792fdb3@betty.ns.cloudflare.com:443?encryption=none&security=tls&sni=638993742374437889.legacy-amsid.info&type=ws&host=638993742374437889.legacy-amsid.info&path=/ulccigws#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443/?type=ws&encryption=none&flow=&host=zcreat.ethervpn.fun&path=%2Fwebsocketpl%3Fed%3D2047&security=tls&sni=zcreat.ethervpn.fun&alpn=h2%2Chttp%2F1.1&fp=chrome#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://vpn@109.205.56.37:5000/?type=ws&encryption=none&flow=&host=ozon.ru&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://42a833ca-be47-434b-a45a-8c5dcb4ae4fa@108.162.192.75:443?encryption=none&type=ws&host=638991523882288916.impreza-amsia.info&path=%2Fybkqtgws&security=tls&fp=chrome&sni=638991523882288916.impreza-amsia.info#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://65a83fe9-195f-4bae-9334-f3b1b792fdb3@betty.ns.cloudflare.com:443?encryption=none&type=ws&host=638993742374437889.legacy-amsid.info&path=%2Fulccigws&security=tls&sni=638993742374437889.legacy-amsid.info#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://404273a3-7485-49ef-aa12-2742924808eb@delilah.ns.cloudflare.com:443?encryption=none&type=ws&host=638994561038736679.golf-amsie.info&path=%2Fomnabkws&security=tls&sni=638994561038736679.golf-amsie.info#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443?path=%2Fwebsocketpl%3Fed%3D2047&security=tls&encryption=none&alpn=h2%2Chttp%2F1.1&host=zcreat.ethervpn.fun&fp=chrome&type=ws&sni=zcreat.ethervpn.fun#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://a47595a8-1add-401a-8189-e6799f8d8628@zcreat.ethervpn.fun:8443?encryption=none&type=ws&host=zcreat.ethervpn.fun&path=%2Fwebsocketpl%3Fed%3D2047&security=tls&alpn=h2%2Chttp%2F1.1&fp=chrome&sni=zcreat.ethervpn.fun#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://vpn@109.205.56.37:5000?encryption=none&type=ws&host=ozon.ru&path=%2F&security=none#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
