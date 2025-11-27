@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyQ0s5VkRBSFBpbm5wWVJhcExtRjJz@h110vpntr.outlinekeys.net:65262#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkZXBqU2JqdjJVcWw2VzRWZ2U3c0Rm@185.39.204.189:34085#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://94bbcfcc-fd3c-4bf7-a23c-95713854707d@napanel.mreza1088.com:31374?security=reality&encryption=none&pbk=49JyOdKP7qgl4PRdrg7AASv1p8uvq5FDBywMYOV43QY&headerType=&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.apple.com&sid=b6#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
