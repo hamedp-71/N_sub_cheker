@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://be3b4d70-9922-4f58-83f3-e767a9c809ce@62.133.63.18:31599?security=reality&encryption=none&pbk=NppMSXpIT34fvmvoUYHUJUiY101cXqTb9ElNiNIFWGE&headerType=none&fp=chrome&spx=%2F---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET---Join---PLANB_NET&type=tcp&sni=yandex.ru&sid=299f242bde816695#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://267e5284-8c31-42ed-9807-2182a88ca78b@45.92.219.50:443?security=reality&encryption=none&pbk=9F7JxyyP-TNLt0dY2xOB0_34I8W0xXIpFY7rZ7-L0Gg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ozon.ru&sid=19aa22f681923dc8#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
