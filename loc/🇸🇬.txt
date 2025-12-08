@@ -6,6 +6,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvait
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwSnRERlhNZmRXOVZOZEpwYWY0ZTJMZkZrWGRXZ3hyeg==@167.150.100.115:443#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@38.89.142.56:990#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 trojan://76d630f2af6619c4a5de0ef953df3c6a@160.16.233.76:507?allowInsecure=0&sni=www.nintendogames.net#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7jwn4esIiwiYWRkIjoiNTQuMTc5LjE3My4xNjMiLCJwb3J0IjoiNDY1NzYiLCJ0eXBlIjoibm9uZSIsImlkIjoiYmY0NjViNWYtYTllYi00NjE1LWQyNGItNDY5YTIzY2Q3OWIxIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii9iZjQ2NWI1ZiIsImhvc3QiOiIiLCJ0bHMiOiIifQ
 vmess://eyJhZGQiOiI2Mi4xNDYuMjM1LjE5MyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJjZmM1YTg3Zi0zYzEzLTRlMjUtYjU1Ni0xNzZjZGQ2YjVjNmEiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjI4MDExIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJwcyI6ImhhbWVkcDcxOjrwn4e48J+HrCJ9
+vless://ff831988-b64a-4bc3-93dd-58389c91a03a@sg.fluxcommunity.my.id:2082?encryption=none&type=ws&host=sg.fluxcommunity.my.id&path=%2Fvless&security=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://ef4d7a6a-a7f0-48e1-8c77-cd305fdca732@38.134.189.186:443?encryption=none&type=grpc&serviceName=8959780c31813fd40c6beecf&security=reality&fp=safari&pbk=F4KWtAmQsQrJ0AyVED81hZQq5GQL64pXHG2SWBEpfFg&sni=www.microsoft.com&sid=b2580c3d0fae6019#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://7ec108c5-5c08-4a9f-ad1b-bf60328792d4@news.zoom.us:2096?encryption=none&type=ws&path=%2Ffree-server.techsonic.cloud&security=tls&alpn=h3&sni=free-server.techsonic.cloud#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
