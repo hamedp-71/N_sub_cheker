@@ -2,11 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2VWNHWDFFdVY2TnN0bmZUM0xKZWRh@62.210.88.22:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvM3NpSndBdU9IcjZ1Mkpxc0pSVjRj@62.210.88.22:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3MWJjNWIwNC1iMGI5LTQyYjMtYjY1Yy0zMWQ3ODdhOTYwZWQ=@silwu1.donghui.tech:58915#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.2:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@62.210.91.10:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://82f9beee-a609-47f2-9142-14c25258dc0b@51.91.98.254:4655?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053/?type=ws&encryption=none&flow=&host=fr.api-music-fa.com&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=fr.api-music-fa.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://edb3d24d-1a55-42f7-8752-6ae216f18cf4@86.104.74.158:4443?security=reality&type=tcp&sni=github.com&fp=chrome&flow=xtls-rprx-vision&sid=aa7e96542880027a&pbk=5XB_N3ATilH-6tp_MXht-84_y5YaJnx_Z7MbuY2otHE&encryption=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?path=%2FJ5aLQOY1R9ONWYCM&security=tls&encryption=none&insecure=0&host=fr.api-music-fa.com&fp=chrome&type=ws&allowInsecure=0&sni=fr.api-music-fa.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e4dbde8d-b194-4a64-afe0-093ffd258e8e@69.84.182.13:443?&security=tls&fp=chrome&sni=fr-1-fr-1.aiopen.sbs&type=ws&headerType=none&host=fr-1-fr-1.aiopen.sbs&path=%2Fkbjc%2Ffr1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://e3c95719-d6ff-4bd6-87ba-80c1d0c975a9@fr.api-music-fa.com:2053?encryption=none&type=ws&host=fr.api-music-fa.com&path=%2FJ5aLQOY1R9ONWYCM&security=tls&sni=fr.api-music-fa.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
