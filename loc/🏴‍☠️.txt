@@ -3,8 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@171.22.254.17:990#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vmess://eyJhZGQiOiI5NS44MS4xMTQuMjUyIiwiaG9zdCI6ImltYWZha2UubG9ja2VyIiwic25pIjoiaW1hZmFrZS5sb2NrZXIiLCJpZCI6ImUxY2MyNmIzLWRmMGItNDc3Yi1hZmIwLTUzNjU5YTI1ZTk3OCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0Ijo0NDc0OSwicHMiOiJoYW1lZHA3MTo68J+PtOKAjeKYoO+4jyIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@ovhwuxian.pai50288.uk:8443?path=%2F57ba2ab1&security=tls&encryption=none&host=ovhwuxian.pai50288.uk&fp=random&type=ws&sni=ovhwuxian.pai50288.uk#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?security=none&type=ws&path=%2Fhttp#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://57ba2ab1-a283-42eb-82ee-dc3561a805b8@172.67.153.156:8443?security=tls&sni=ovhwuxian.pai50288.uk&allowInsecure=1&fp=chrome&type=ws&path=/57ba2ab1&host=ovhwuxian.pai50288.uk&packetEncoding=xudp&encryption=none#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
-vless://3483b7de-3970-4844-86be-7899768f2107@axe.soyet2j.ir:443?encryption=none&type=ws&host=menu.gejeh683bm.ir&path=%2F77d76f3d-5da8-4198-b5d2-9634d3059ad0&security=tls&alpn=h2&fp=chrome&sni=menu.gejeh683bm.ir#hamedp71%3A%3A%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F
+vmess://eyJhZGQiOiI5NS44MS4xMTQuMjUyIiwiaG9zdCI6ImltYWZha2UubG9ja2VyIiwic25pIjoiaW1hZmFrZS5sb2NrZXIiLCJpZCI6IjZkNjAwODY0LTMyZGEtNDlmZC1iYWY0LTdkZjA1MTc2MjQ1NCIsIm5ldCI6IndzIiwicGF0aCI6Ii9zcGVlZHRlc3QiLCJwb3J0Ijo0NDc0OSwicHMiOiJoYW1lZHA3MTo68J+PtOKAjeKYoO+4jyIsInRscyI6InRscyIsImZwIjoiY2hyb21lIiwidiI6MiwiYWlkIjowLCJ0eXBlIjoibm9uZSJ9
