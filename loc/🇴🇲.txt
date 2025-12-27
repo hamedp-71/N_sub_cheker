@@ -4,3 +4,4 @@
 
 vless://d1623c84-541c-4c49-aea7-0e19b9fe0307@s1.tun.cloudnsas.ir:443?security=&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B4%F0%9F%87%B2
 vless://d1623c84-541c-4c49-aea7-0e19b9fe0307@s1.tun.cloudnsas.ir:443?encryption=none&security=none&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B4%F0%9F%87%B2
+vless://d1623c84-541c-4c49-aea7-0e19b9fe0307@s1.tun.cloudnsas.ir:443?security=none&encryption=none&headerType=none&type=tcp#hamedp71%3A%3A%F0%9F%87%B4%F0%9F%87%B2
