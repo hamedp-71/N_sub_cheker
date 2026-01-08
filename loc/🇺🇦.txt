@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://cc5fff47-133f-4c4b-bf53-a6783b55232a@okr.westirooni.ir:3838?security=reality&encryption=none&pbk=Eh6It5d0R9qcqSu7nctNNeA1uysA0ytgLnsrjAqu-VY&headerType=none&fp=chrome&type=tcp&sni=refersion.com&sid=1efd473460f73d68#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
+vless://cc5fff47-133f-4c4b-bf53-a6783b55232a@okr.westirooni.ir:3838?security=reality&type=tcp&sni=refersion.com&fp=chrome&sid=1efd473460f73d68&pbk=Eh6It5d0R9qcqSu7nctNNeA1uysA0ytgLnsrjAqu-VY&encryption=none#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
