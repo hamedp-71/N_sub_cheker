@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 vless://99351e9e-ea57-4b85-9985-072ab7512cfb@cfcdn.zopli.ir:443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=cdn-it.fxcdn.ir#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
