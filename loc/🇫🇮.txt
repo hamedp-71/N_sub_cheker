@@ -2,21 +2,18 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5WG9pRURGTVZvckdVZUtsYTc3azdzRVhDZVNFNXIyQQ==@45.15.127.49:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkQUhNMXBtOGFnN0tkbHJVeWxRaTZ0@38.244.136.233:443#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 trojan://Pe_dQrCQ4QbnntuVrqHN3dsKhCBpqvxr@fi2.nnvpn.io:443/?type=tcp&security=tls&sni=fi2.nnvpn.io&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 trojan://Pe_dQrCQ4QbnntuVrqHN3dsKhCBpqvxr@fi2.nnvpn.io:443/?type=tcp&amp%3Bsecurity=tls&amp%3Bsni=fi2.nnvpn.io&amp%3Balpn=h2%2Chttp/1.1&amp%3BallowInsecure=1&amp%3Bfp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn19.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn19.suio.me&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@85.192.48.156:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn10.suio.me&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://02fb468f-21f2-460e-bfa1-ef52ae5e627f@ficdn2.suio.me:443/?type=tcp&encryption=none&flow=&security=tls&sni=ficdn2.suio.me&allowInsecure=1&fp=chrome#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://20d41fce-f96c-4f0e-9111-5c911369f4e5@162.159.152.4:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=cellf.parhamm1.ir&fp=chrome&type=ws&allowInsecure=0&sni=cell.parhamm1.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://f0693080-e004-4baf-a1e9-258025a134a7@8.6.112.0:2096?path=%2F&security=tls&encryption=none&alpn=http/1.1&host=rb11.fasst11.shop&fp=chrome&allowinsecure=0&type=ws&sni=rb11.fasst11.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://1d819aab-2593-40e0-a537-f1b48a6fd069@162.159.152.4:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rb11.fasst11.shop&fp=chrome&type=ws&sni=rb11.fasst11.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://7b148add-4438-426e-a583-50f11e7bd0e4@65.109.178.83:443?mode=gun&security=none&encryption=none&type=grpc#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://309fa273-6579-4cb2-9143-7cad50401eba@46.62.128.207:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&sid=7cad5040&packetEncoding=xudp#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://f0693080-e004-4baf-a1e9-258025a134a7@8.6.112.0:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rb11.fasst11.shop&fp=chrome&type=ws&sni=rb11.fasst11.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?encryption=none&type=httpupgrade&host=hiifof.parsvpskm.fun&path=%2F%3Fed%3D2095&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://1d819aab-2593-40e0-a537-f1b48a6fd069@162.159.152.4:2096?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&host=rb11.fasst11.shop&fp=chrome&type=ws&sni=rb11.fasst11.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://0924cf0c-72b8-44b2-ac3a-287717e32608@8.6.112.0:2096?encryption=none&type=ws&host=fn.ip4store.ir&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=fn.ip4store.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://1d819aab-2593-40e0-a537-f1b48a6fd069@162.159.152.4:2096?encryption=none&type=ws&host=rb11.fasst11.shop&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=rb11.fasst11.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://90162f4d-1b10-4f7c-aca9-198e4dd4faa9@104.18.32.47:443?encryption=none&type=ws&host=sv1.software2025.ir&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=sv1.software2025.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://e927758e-3149-450b-b9a0-45321c946315@lg.tehdrantolidi.ir:2095?encryption=none&type=httpupgrade&host=hiifof.parsvpskm.fun&path=%2F%3Fed%3D2095&security=none#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://a41550c8-daee-4f2c-b5a8-e66b314c99b1@45.144.53.166:443?encryption=none&type=grpc&security=reality&fp=chrome&pbk=XnSTGadTQ3R3qGd5lk7l8gZMuZUQH7fu1tItRmH6CEY&sni=hel1.hitori.cloud&sid=e9d19fd1ca5ca23c#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://f0693080-e004-4baf-a1e9-258025a134a7@8.6.112.0:2096?encryption=none&type=ws&host=rb11.fasst11.shop&path=%2F&security=tls&alpn=http%2F1.1&fp=chrome&sni=rb11.fasst11.shop#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://90162f4d-1b10-4f7c-aca9-198e4dd4faa9@104.18.32.47:443?encryption=none&type=ws&host=sv1.software2025.ir&path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=sv1.software2025.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://85015c5f-924a-48ce-b8bb-523414caa26c@8.6.112.0:443?encryption=none&type=ws&host=fn.ip4store.ir&path=%2Fpage&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&fp=chrome&sni=fn.ip4store.ir#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
