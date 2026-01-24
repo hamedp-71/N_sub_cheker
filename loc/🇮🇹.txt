@@ -4,5 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@38.180.195.193:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTd1RTaFhZU1FkNDA0RklTczhORmVK@promo19v.bystrivpn.ru:443#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&serviseName=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
-vless://1cc1fa50-ad16-4e22-81a0-e416f7a35f60@83.136.107.171:443?security=reality&alpn=h2&encryption=none&pbk=ckRcueERkPqqjZABwxqni_J_Nbb70Q6k5fEEUAjoImw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=aws.com#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
