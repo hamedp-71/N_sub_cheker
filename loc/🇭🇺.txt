@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
-
-vless://2e27ac27-c360-489a-86ea-8b9659de6763@cdnjs.com:443?path=%2Fjztpmbws%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=639057258094935446.corolla-perma.info&fp=chrome&type=ws&allowInsecure=0&sni=639057258094935446.corolla-perma.info#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA
-vless://2e27ac27-c360-489a-86ea-8b9659de6763@cdnjs.com:443?encryption=none&type=ws&host=639057258094935446.corolla-perma.info&path=%2Fjztpmbws%3Fed%3D2560&security=tls&fp=chrome&sni=639057258094935446.corolla-perma.info#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%BA

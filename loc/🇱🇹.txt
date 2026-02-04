@@ -4,4 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ%3D%3D@185.237.185.89:990#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
 vless://e108f3eb-4d3a-4e20-a09b-7008e333bc23@ltu01-vlr01.tcp-reset-club.net:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=mLmBhbVFfNuo2eUgBh6r9-5Koz9mUCn3aSzlR6IejUg&security=reality&sid=86e999a2cdc2&sni=hls-svod.itunes.apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://1004c163-26ea-5662-b5b2-40df01176f8b@2.59.162.100:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=eH6HWGKJUtp4VmC9KxtdcyxtLI0O52vhAmZx1ybOtUs&security=reality&sid=ffffffffff&sni=apple.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B1%F0%9F%87%B9
