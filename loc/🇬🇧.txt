@@ -2,22 +2,19 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://YWVzLTI1Ni1nY206OEpDc1Bzc2ZnUzh0aVJ3aU1saEFSZz09@15.204.247.49:12000#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVh@57.129.129.139:29183#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5M1Nvd3FVa3J0MWNibTQ4N2c3NEFj@78.129.140.11:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplNWMzZjkwM2U4MWQ1ZDRl@57.128.190.194:10013#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://7LBbob9IutFObLxLf9Svc1HaV@hl-freedom-1.undef.network:443?allowInsecure=1&host=hl-freedom-1.undef.network&path=%2Ff2fc2a1f&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://7LBbob9IutFObLxLf9Svc1HaV@45.89.111.142:443?allowInsecure=1&path=%2Ff2fc2a1f&sni=hl-freedom-1.undef.network&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?allowInsecure=1&path=%2Ff2fc2a1f&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://7LBbob9IutFObLxLf9Svc1HaV@hl-freedom-1.undef.network:443?type=ws&host=hl-freedom-1.undef.network&path=%2Ff2fc2a1f&security=tls#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?type=ws&host=hl-freedom-0.undef.network&path=%2Ff2fc2a1f&security=tls#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 trojan://Tn2Bf0iRwJkJQgDk6gX6x81RB@hl-freedom-2.undef.network:443?type=ws&path=%2Ff2fc2a1f&security=tls#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-trojan://76yTlnTIsjCTlmqnUJ5Tzc1rM@hl-freedom-0.undef.network:443?allowInsecure=1&amp;host=hl-freedom-0.undef.network&amp;path=/f2fc2a1f&amp;security=tls&amp;sni=hl-freedom-0.undef.network&amp;type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLmNvbSIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 vmess://eyJhZGQiOiIxOC4xNjguMTI0LjU4IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmZjdiZTQyZC03ZDA5LTQ0NWUtYjg5Zi05NmQ3NzEyZWI0YmYiLCJuZXQiOiJ3cyIsInBhdGgiOiIvZ3JhcGhxbCIsInBvcnQiOjgwLCJwcyI6ImhhbWVkcDcxOjrwn4es8J+HpyIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJhdXRvIn0
 vmess://eyJhZGQiOiIxOC4xNjguMTI0LjU4IiwiaWQiOiJmZjdiZTQyZC03ZDA5LTQ0NWUtYjg5Zi05NmQ3NzEyZWI0YmYiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiIiLCJwYXRoIjoiL2dyYXBocWwiLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo68J+HrPCfh6cifQ
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?allowInsecure=1&encryption=none&host=o00o.snip.qzz.io&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&sni=o00o.snip.qzz.io&type=ws#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721?security=reality&encryption=none&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=df8611c07d#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?encryption=none&type=ws&host=google.com&path=%2Fvless%2F&security=none#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?encryption=none&type=ws&host=o00o.snip.qzz.io&path=%2Fproxyip%3Dsjc.o00o.ooo&security=tls&fp=chrome&sni=o00o.snip.qzz.io#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://3321a819-889d-40b3-b8fa-f34208827ef1@57.129.137.56:443?path=/proxyip=sjc.o00o.ooo&security=tls&encryption=none&insecure=0&host=o00o.snip.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=o00o.snip.qzz.io#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
