@@ -5,4 +5,5 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.58:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://fb27b6f5-bb5c-45a6-8bc2-265fcfd2b658@es2.vpnbyvinarsky.ru:443?path=/chat&security=tls&encryption=none&insecure=0&host=es2.vpnbyvinarsky.ru&fp=chrome&type=ws&allowInsecure=0&sni=es2.vpnbyvinarsky.ru#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://8009bc13-0c64-4ae9-9a74-24ce12cc71e8@79.137.175.44:8443?type=tcp&security=reality&headerType=none&fp=chrome&sni=m.vk.ru&flow=xtls-rprx-vision&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=04bf0403f96e5b4b#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
