@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+
+vless://2e82cda5-e020-4c63-8271-e58a00831447@tw2.miyazono-kaori.com:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.apple.com&fp=qq&pbk=cJc4dNsluJs9LimkkO6uVVafilOvr6H8Jx2uM9JnhEE&sid=129271&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
