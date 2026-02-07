@@ -2,9 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443?encryption=none&type=httpupgrade&path=%2F&security=tls&sni=ru.cheburnetnastalgia1998.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://e4f5077b-3628-450c-92f9-b129b8a641a7@212.113.123.230:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.denditop.site&fp=chrome&security=reality&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&sid=9c2378562188c3cb#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@89.208.230.173:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade&encryption=none&flow=&security=tls&sni=ru.cheburnetnastalgia1998.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://e4f5077b-3628-450c-92f9-b129b8a641a7@212.113.123.230:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ru.denditop.site&fp=chrome&security=reality&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&sid=9c2378562188c3cb#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@88.210.6.236:2053?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&encryption=none&insecure=1&host=sni.111000.indevs.in&type=ws&allowInsecure=1&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443?encryption=none&type=httpupgrade&path=%2F&security=tls&sni=ru.cheburnetnastalgia1998.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://156b9230-fe89-4ca3-b4c6-40291ee582f0@212.233.76.209:8444?sni=api-maps.yandex.ru&sid=a2a7e5d7e789100a&security=reality&encryption=none&headerType=none&fp=ios&type=tcp&pbk=Tzb4NDJqmHWemhGhQTDzGnlzeWEwTjQJdUbV03u0mRg&spx=/EsFW64PrEq0L7B6&flow=xtls-rprx-vision#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
