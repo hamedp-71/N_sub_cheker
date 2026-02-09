@@ -4,3 +4,4 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplYWZhZDk2ODI2Yzc5ZGRk@163.171.137.76:47394#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZDAwODRjNmU0NTAyYWI3@163.171.137.76:48436#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
+vless://e6ec1d89-17fc-4de7-af89-81cd51022526@ua.griffon-guard.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=chrome&security=reality&pbk=IBvNLerjNLpF4OpUX-wGJp8YDZrnKoh-gEItUDNT_Bg&sid=#hamedp71%3A%3A%F0%9F%87%BA%F0%9F%87%A6
