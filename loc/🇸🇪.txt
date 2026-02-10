@@ -2,16 +2,21 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&insecure=0&host=sweden.vmaxpanel.com&type=ws&allowInsecure=0&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+trojan://T9BpZIVMNv@v1.dabache.top:8443?path=%2Famd&security=tls&host=sweden.vmaxpanel.com&type=ws&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+trojan://T9BpZIVMNv@v1.dabache.top:8443?type=ws&host=sweden.vmaxpanel.com&path=%2Famd&security=tls&sni=sweden.vmaxpanel.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:504?mode=gun&security=reality&encryption=none&pbk=aNLPNNyjIC7QYLe7MpF4nxxHhO421dBSZaQgsDd1szs&fp=chrome&type=grpc&serviceName=JNIR&sni=nobitex.ir&sid=1d64e9805b4f9ae3#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42122/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233?path=%2F&security=tls&encryption=none&insecure=1&host=sub.mot.ip-ddns.com&type=ws&allowInsecure=1&sni=sub.mot.ip-ddns.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42622?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:42944/?type=ws&encryption=none&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383?path=%2F&security=tls&encryption=none&host=sub.mot.ip-ddns.com&type=ws&sni=sub.mot.ip-ddns.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://95e118b4-4352-4218-8493-f20cc7fc467a@46.246.98.74:443?security=reality&encryption=none&pbk=nBJICh1KzfMblaXtSxpTiPIHGg2TKP5PF8nq-89Q6jg&headerType=none&fp=firefox&type=tcp&sni=learn.microsoft.com&sid=6ed3324b#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://95e118b4-4352-4218-8493-f20cc7fc467a@46.246.98.74:443/?type=tcp&encryption=none&flow=&sni=learn.microsoft.com&fp=chrome&security=reality&pbk=nBJICh1KzfMblaXtSxpTiPIHGg2TKP5PF8nq-89Q6jg&sid=6ed3324b#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://a861157a-e465-44bf-8a81-338cf1aa030b@162.159.152.4:2083?path=%2Fpath&security=tls&encryption=none&host=panel.captainsparo.ir&type=ws&sni=panel.captainsparo.ir#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43393/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43383/?type=ws&encryption=none&flow=&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://31701b5d-ca95-92f9-d684-dae3706161ea@dd.openaccessnode.com:50/?type=tcp&encryption=none&flow=#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://a861157a-e465-44bf-8a81-338cf1aa030b@162.159.152.4:2083/?type=ws&encryption=none&flow=&host=panel.captainsparo.ir&path=%2Fpath&security=tls&sni=panel.captainsparo.ir&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://a861157a-e465-44bf-8a81-338cf1aa030b@162.159.152.4:2083?encryption=none&type=ws&host=panel.captainsparo.ir&path=%2Fpath&security=tls&sni=panel.captainsparo.ir#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://7fc7bfe4-59f3-4ea8-adde-5060a47a77b5@yellowbluegreenred.worldwebhunter.com:2053?encryption=none&type=xhttp&mode=auto&path=%2F%3Fed%3D2052&security=reality&fp=chrome&pbk=Gpv_AaRch9HK6yeA8mreBlFlZZbPDs3ujm5yNoAfFgY&sni=microsoft.com&sid=b408ee2f83a8#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://00000000-0000-4000-8000-000000000000@159.69.162.184:43233?encryption=none&type=ws&host=sub.mot.ip-ddns.com&path=%2F&security=tls&sni=sub.mot.ip-ddns.com#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://a861157a-e465-44bf-8a81-338cf1aa030b@162.159.152.4:2083?encryption=none&security=tls&sni=panel.captainsparo.ir&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=panel.captainsparo.ir&path=/path#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://a861157a-e465-44bf-8a81-338cf1aa030b@162.159.152.4:2083?path=/path&security=tls&encryption=none&host=panel.captainsparo.ir&type=ws&sni=panel.captainsparo.ir#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
