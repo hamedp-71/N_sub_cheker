@@ -2,12 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMnFCS2ZzYmQwUmpPMHZxRWhnc2FjY3dw@basic-ru-1.undef.network:33386#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vmess://eyJhZGQiOiI5NC4xNTYuMTgxLjE5MCIsImhvc3QiOiJpbWFmYWtlLmxvY2tlciIsInNuaSI6ImltYWZha2UubG9ja2VyIiwiaWQiOiJiMmRhOTkyMC1iMGE3LTQzNTQtOWUyNi0zODMzYWI4ZDAwZDAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvc3BlZWR0ZXN0IiwicG9ydCI6NDYxMDMsInBzIjoiaGFtZWRwNzE6OvCfh7fwn4e6IiwidGxzIjoidGxzIiwiZnAiOiJjaHJvbWUiLCJ2IjoyLCJhaWQiOjAsInR5cGUiOiJub25lIn0
 vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.14:1488?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@178.250.243.97:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&security=reality&sid=f69d7af2d5fc5e0c&sni=eh.vk.com&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://88e148ba-1e39-45e9-8aef-6b207411435a@193.163.203.36:18570?&security=tls&fp=chrome&type=ws&headerType=none&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@109.120.190.203:1488?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&security=reality&sni=ads.x5.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://88e148ba-1e39-45e9-8aef-6b207411435a@193.163.203.36:18570?encryption=none&security=tls&type=ws&path=%2F#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@89.208.230.173:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.166:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.14:1488/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://7bc30425-1c2f-4823-b629-90f599a4cbfe@109.120.188.166:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443/?type=httpupgrade&encryption=none&flow=&path=%2F&security=tls&sni=ru.cheburnetnastalgia1998.com&allowInsecure=1#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://d42a623b-4dbd-4523-ab4e-adedf7b95a6f@ru.cheburnetnastalgia1998.com:443?encryption=none&type=httpupgrade&path=%2F&security=tls&sni=ru.cheburnetnastalgia1998.com#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
