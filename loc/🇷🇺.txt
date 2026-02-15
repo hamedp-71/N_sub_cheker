@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozNjBlMjFkMjE5NzdkYzEx@45.139.24.24:57456#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://1abaa2b6-ab8c-4525-8c91-b73bc2ab2b37@185.174.136.244:8080?security=reality&encryption=none&pbk=iPjWLvXWt7ABJaSRRwzjgLrvlJlwoYQZN8zF-G3D-Qs&host=---@External_Net---@External_Net---@External_Net---@External_Net---@External_Net&headerType=none&fp=chrome&type=tcp&sni=yandex.com&sid=27cfa05000c23cc4#Blindvpn%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@rus3.worldunlocked.org:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus3.worldunlocked.org&type=ws&allowInsecure=1&sni=rus3.worldunlocked.org#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@85.239.37.168:443?security=reality&encryption=none&pbk=Otp6rARZ7jSowG_Y7AyU7H_5KoEmmSipWNMW6cHOMmU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=0d33e856#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://d7eaaf8f-0fbc-4763-a8ca-c5dea5ac229d@zolinder.online:8443?security=reality&encryption=none&pbk=2566-27FWlgHXfhcbxCIZ2RTD_rqHzLhWfcvNuNpuGc&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=sun6-21.userapi.com&sid=baa01fe9c8c418fc#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
