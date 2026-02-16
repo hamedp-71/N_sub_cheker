@@ -27,7 +27,7 @@ with open(CONF_PATH,"r") as file_client_set:
         f=json.load(file_client_set)
         test_link_=f["core"]["test_url"]
 TEXT_PATH="normal.txt"
-LINK_PATH=[ "https://raw.githubusercontent.com/hans-thomas/v2ray-subscription/refs/heads/master/servers.txt"]
+LINK_PATH=[ "https://raw.githubusercontent.com/hans-thomas/v2ray-subscription/refs/heads/master/servers.txt" , "https://raw.githubusercontent.com/liMilCo/v2r/refs/heads/main/new_configs.txt" ]
 FIN_PATH="final.txt"
 FILE_HEADER_TEXT = """//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 //profile-update-interval: 1
@@ -2105,5 +2105,6 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
 
