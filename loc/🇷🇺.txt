@@ -2,7 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://fd058cd3-55fa-43ce-a634-1920b7d12c45@104.128.134.181:34816?security=&encryption=none&headerType=&type=tcp#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://0e4865bf-811e-44e8-90ce-233ecf209b0b@rus3.worldunlocked.org:8443?path=%2Fws-vless%2F&security=tls&encryption=none&insecure=1&host=rus3.worldunlocked.org&type=ws&allowInsecure=1&sni=rus3.worldunlocked.org#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://c343f67e-8781-4a8e-97e4-e74ab137eb1c@85.239.37.168:443?security=reality&encryption=none&pbk=Otp6rARZ7jSowG_Y7AyU7H_5KoEmmSipWNMW6cHOMmU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=0d33e856#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@85.192.32.30:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=f69d7af2d5fc5e0c#hamedp71%3A%3A%F0%9F%87%B7%F0%9F%87%BA
