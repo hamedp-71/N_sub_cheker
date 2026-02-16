@@ -1,0 +1,7 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
+
+vless://b8ecd8ed-31a1-4a6a-853e-4a739e130791@185.96.163.15:843?security=reality&sni=yahoo.com&type=tcp&fp=chrome&pbk=z9b-IBdLSPMrMtRaToQtl92GobAYygfJRJ0ymOK6m0U&sid=7a810118da#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.192.174.175:2053?security=tls&sni=sni.111000.indevs.in&allowInsecure=1&type=ws&path=/?ed=2560&host=sni.111000.indevs.in&encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://75193bef-8d8f-e823-41e0-2dd083dc1399@dd.openaccessnode.com:2197?security=reality&encryption=none&pbk=ECxm-BdHYhxYK9MtN33NkkrFSdFZXp-OB-yhN8AleRY&headerType=none&fp=chrome&type=tcp&sni=api.push.apple.com&sid=a62d513cd709744a#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AA
