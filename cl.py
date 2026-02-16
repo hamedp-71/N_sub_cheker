@@ -31,11 +31,11 @@ LINK_PATH=[ "https://raw.githubusercontent.com/hans-thomas/v2ray-subscription/re
 FIN_PATH="final.txt"
 FILE_HEADER_TEXT = """//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 //profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1767212999
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 """
 FIN_CONF=[]
 CHECK_LOC=True
-CHECK_IRAN=True
+CHECK_IRAN=False
 CHECK_HOST_IRANIAN_NODES = [
     "ir1.node.check-host.net",  # Tehran, AS44244 Mobile Communication Company of Iran (MCI)
     "ir2.node.check-host.net",  # Tehran, AS12880 Telecommunication Infrastructure Company (TIC زیرساخت)
@@ -2105,4 +2105,5 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
