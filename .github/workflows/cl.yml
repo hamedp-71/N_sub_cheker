@@ -1,4 +1,4 @@
-name: Sub Checker Creator
+name: N_Sub_Checker
 
 on:
   workflow_dispatch:
