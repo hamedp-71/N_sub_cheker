@@ -4,4 +4,3 @@
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://7d22cf6b-2d14-455c-bd9e-e0b24f286e8f@s3.plan-vpn.ru:443?flow=xtls-rprx-vision&security=reality&encryption=none&sni=s3.plan-vpn.ru&fp=chrome&pbk=jWqot3VkePiX8XYqgBNokg55WJJ5nTis3XzX6p2uaWQ&sid=7e348aa57a53b203&type=tcp&path=%2f#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8

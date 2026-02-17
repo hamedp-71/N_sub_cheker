@@ -2,6 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-hysteria2://b02b9065-defa-495a-bef1-cd55c67dbdf6@alhy.maocf1.top:20101?insecure=1&sni=alhy.maocf1.top#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=1#hamedp71%3A%3A%E2%9D%93
 hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36300?security=tls&obfs=salamander&obfs-password=Yet-Another-Public-Config-1&insecure=0&sni=YAPC-1.afshin.ir#hamedp71%3A%3A%E2%9D%93
+hysteria2://6dfbef3b-f718-4053-806f-c9657e2fd943@212.192.12.146:12344?insecure=1&obfs=salamander&obfs-password=ZWI4MWQ5YmMzOWY2NzlhMA%3D%3D&sni=hkfree.jljd.xyz&fastopen=1#hamedp71%3A%3A%F0%9F%87%AD%F0%9F%87%B0
