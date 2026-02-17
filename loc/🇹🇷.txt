@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://525e49c0-8396-4dac-bb2d-36412723e5cb@84.252.136.245:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://54a41073-e798-488b-af16-28533e612ec1@tr.fasti.win:443?encryption=none&flow=xtls-rprx-vision&security=reality&fp=chrome&pbk=CL1sSD1RH6k_68fMSltXd2-GhJQ-CX02VSBryK6rjmo&sid=12393b8b177a063d&type=tcp&headerType=none#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://4191549c-9d71-4d30-b9dd-65ffa41b17e7@tr.connectv.net:443?security=reality&encryption=none&pbk=vegx20Xc9XIkr8nfdEB7LZnficXNURVnDbB8_ND97Dw&host=TELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=tr.connectv.net#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OvCfh7nwn4e3IiwiYWRkIjoiNDUuMTQxLjE0OC4xNDMiLCJwb3J0IjoiNTA1OSIsImlkIjoiZTcyMGQyYjYtODBkZC00NjY0LWI2NGUtNmNjNzg0YmNlMzI5IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6ImJtaS5pciIsInBhdGgiOiIvIiwidGxzIjoiIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIn0
