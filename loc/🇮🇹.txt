@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://eb071647-72a6-46be-8e89-ff3d228d52f6@217.12.219.51:443?security=reality&flow=xtls-rprx-vision&sni=ozon.ru&type=tcp&fp=chrome&pbk=FkmYFobwxLMLEktYXywmjthuEYCZggITsxwPNasTKUg&sid=43df3983229a1c73#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.152:443?security=tls&sni=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pAriSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://2f466a3b-5093-4556-8759-c87c8511c753@104.18.32.47:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9
+vless://2f466a3b-5093-4556-8759-c87c8511c753@69.84.182.20:443?security=tls&sni=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&allowInsecure=1&fp=chrome&type=ws&path=/ws&host=rAyAn-cOnFiG-it-1.pArSa.dPdNs.oRg&encryption=none#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%B9

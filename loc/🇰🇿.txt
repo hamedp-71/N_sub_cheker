@@ -3,8 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
 vless://eb071647-72a6-46be-8e89-ff3d228d52f6@pvl.cdn.stun.su:443?security=reality&encryption=none&pbk=TvWJyoXLia5sOkNEQFXyOBquJJZ3MR06vi_9y9LT5Rw&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=pvl.cdn.stun.su&sid=13c84f9d95d681d4#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
-vless://a8214f18-5d5b-409f-a98a-458a85bce22b@91.224.74.147:8443?type=xhttp&security=reality&fp=chrome&pbk=vnjp7zIK2H3CGdjSis_79KXqS6IG-opmpbETPUD-EC8&sid=15affa0af66dfc79&sni=deepl.com&path=&host=&mode=auto#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?security=reality&encryption=none&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=2001#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
-vless://44e4d068-22ca-4a82-bc7b-774ea879abc5@45.138.157.25:8443?security=reality&encryption=none&pbk=ZwKaXjLLamsHDmkPmUwvfnmx-Om4Drtmz97Mi16z6R0&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.2gis.kz&sid=88f48f30271d#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjYzI3YTMwMTJkODFhNDRj@213.156.137.142:43660#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@109.61.39.28:990#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODIwMWJiZDc0MDQyMGJi@213.156.137.142:43659#hamedp71%3A%3A%F0%9F%87%B0%F0%9F%87%BF
