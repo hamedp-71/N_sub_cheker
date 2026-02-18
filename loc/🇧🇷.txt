@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443?security=reality&encryption=none&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=99#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
-vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxOjrwn4en8J+HtyIsImFkZCI6InBxLWJyYXppbDEuMDl2cG4uY29tIiwicG9ydCI6ODAsImlkIjoiYzA0YzNiMzQtNzBmZC00ZmVjLTk2M2UtYzEyZDA5ZjM2YmVmIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInR5cGUiOm51bGwsImhvc3QiOm51bGwsImFscG4iOm51bGwsInBhdGgiOiIvdm1lc3MvIiwidGxzIjpudWxsLCJzbmkiOm51bGwsImZwIjpudWxsfQ
-vless://8a77b19a-36be-43ff-ace0-bc322aa4f1e3@br.pineappled.org:443?security=reality&encryption=none&pbk=CKxzpUtdHkJYJDpogsZSGCz9J6nlOTWdsOMz3sARDVI&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=99#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphN2MyMDU2NDJiMzAyYzIw@5.188.4.103:11203#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5N2ZlNmIwN2NiZmFmN2U3@157.185.173.60:18424#hamedp71%3A%3A%F0%9F%87%A7%F0%9F%87%B7

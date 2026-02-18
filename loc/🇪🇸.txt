@@ -2,7 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@188.214.157.30:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-vless://829ce713-8748-4049-ba76-be56e60bc449@158.160.223.36:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://d35900ef-0dbc-4e38-bab3-d6169b180c96@87.239.106.153:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@154.70.207.97:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@37.143.130.203:990#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://d35900ef-0dbc-4e38-bab3-d6169b180c96@79.137.175.44:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=m.vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://6bf5e1f0-a8e8-40f0-935e-5ca5333734a7@87.239.106.153:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=28047c78b3f5ee2c&sni=m.vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://6bf5e1f0-a8e8-40f0-935e-5ca5333734a7@79.137.175.44:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=04bf0403f96e5b4b&sni=m.vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://6bf5e1f0-a8e8-40f0-935e-5ca5333734a7@79.137.175.44:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=04bf0403f96e5b4b&sni=m.vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://6bf5e1f0-a8e8-40f0-935e-5ca5333734a7@37.139.34.145:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&security=reality&sid=48fccabc158a4c22&sni=m.vk.ru&type=tcp#hamedp71%3A%3A%F0%9F%87%AA%F0%9F%87%B8
