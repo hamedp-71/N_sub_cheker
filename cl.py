@@ -27,19 +27,24 @@ with open(CONF_PATH,"r") as file_client_set:
         f=json.load(file_client_set)
         test_link_=f["core"]["test_url"]
 TEXT_PATH="normal.txt"
-LINK_PATH=[ "https://raw.githubusercontent.com/hans-thomas/v2ray-subscription/refs/heads/master/servers.txt" , "https://raw.githubusercontent.com/liMilCo/v2r/refs/heads/main/new_configs.txt" ]
+LINK_PATH=[ "https://raw.githubusercontent.com/hans-thomas/v2ray-subscription/refs/heads/master/servers.txt" , "https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/iran_top100_checked.txt" , "https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/irancell_top100.txt" , "https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/mci_top100.txt" , "https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/others_top100.txt" , "https://raw.githubusercontent.com/sakha1370/OpenRay/refs/heads/main/output_iran/tci_top100.txt" ]
 FIN_PATH="final.txt"
 FILE_HEADER_TEXT = """//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
 //profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 """
 FIN_CONF=[]
 CHECK_LOC=True
-CHECK_IRAN=False
+CHECK_IRAN=True
 CHECK_HOST_IRANIAN_NODES = [
     "ir1.node.check-host.net",  # Tehran, AS44244 Mobile Communication Company of Iran (MCI)
     "ir2.node.check-host.net",  # Tehran, AS12880 Telecommunication Infrastructure Company (TIC زیرساخت)
     "ir3.node.check-host.net",  # Tehran, AS58224 Rightel
+    "ir4.node.check-host.net",  # GreenWeb (گرین‌وب - مشهد) #"ir2.node.check-host.net",  # TCI / Webdade (مخابرات)
+    "ir5.node.check-host.net",  # Afranet / Web Dadeh (افرانت)
+    "ir6.node.check-host.net",  # Hamed Shirvani (معمولاً سمت همراه اول/MCI دیده می‌شود - تبریز)
+    "ir7.node.check-host.net",  # Pishgaman / Mahan Cloud (پیشگامان)
+    "ir8.node.check-host.net",  # Respina / Pasargad (رسپینا)
 ]
 def remove_empty_strings(input_list):
     return [item for item in input_list if item and item != "\n" ]
@@ -2105,6 +2110,7 @@ if __name__ == "__main__":
     process_manager.stop_all()
     print("All tasks finished successfully.")
     sys.exit()
+
 
 
 
