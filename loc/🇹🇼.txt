@@ -1,7 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1787212999
-
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@203.69.248.40:10443?path=%2F%3Fed%3D2560%26Telegram%F0%9F%87%A8%F0%9F%87%B3%20%40WangCai2&security=tls&encryption=none&host=sni.111000.indevs.in&type=ws&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
-vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJoYW1lZHA3MTo68J+HufCfh7wiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
-vless://570d1a03-6acf-40ca-819e-1049906235d9@38.207.130.145:48816?security=reality&type=tcp&allowInsecure=1&sni=www.python.org&fp=random&flow=xtls-rprx-vision&sid=21280d81&pbk=fk4uHkIWXJ5MbcsFASbAhKlC5gV9m-XovXftmIDSuxo#hamedp71%3A%3A%F0%9F%87%B9%F0%9F%87%BC
