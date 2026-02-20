@@ -364,9 +364,9 @@ vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryp
 
 vless://4c97ec3e-3527-48c5-80ff-b715463896ba@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=kIndhEArTeD-PARkb5Rjo2juEr.sPorTLaNd.COMpAny.&type=ws#hamedp71
 
-vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#hamedp71
-
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#hamedp71
+
+vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#hamedp71
 
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#hamedp71
 
@@ -400,7 +400,7 @@ vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiIxNS4yMzUuNDEuMjAwIiwicG9ydCI6
 
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org&type=ws#hamedp71
 
-vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwicG9ydCI6IjQ0MyIsImlkIjoiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ3cyIsInYiOiIyIiwicHMiOiJoYW1lZHA3MSIsImhvc3QiOiJzZ2FsLmRhZ3JhdGUuZXUub3JnIiwicGF0aCI6Ii8iLCJ0bHMiOiJ0cnVlIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIifQ
+vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiaWQiOiIyOTBjYzY5MS0zYWM2LTQzODctOThhMS0yNWM4ZWI4Y2EyZWEiLCJwb3J0IjoiNDQzIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBhdGgiOiIvIiwidGxzIjoidGxzIiwiYWxwbiI6IiIsImZwIjoiIiwic25pIjoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBzIjoiaGFtZWRwNzEifQ
 
 vless://c5fbb5dd-83bb-43ce-a799-e3e5c29e25da@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=gLeEfuL-GrassMcKS7Sr4kw.wiNdleR.co.Uk.&type=ws#hamedp71
 
@@ -446,9 +446,9 @@ trojan://iwangjie@141.94.68.216:2053/?type=ws&path=%2F%3Fed%3D2560&security=tls&
 
 vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80?host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F%3Fed%3D2048&type=ws#hamedp71
 
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.17.25.173:80?host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F%3Fed%3D2048&type=ws#hamedp71
-
 vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.21.7.133:80?host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F%3Fed%3D2048&type=ws#hamedp71
+
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.17.25.173:80?host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F%3Fed%3D2048&type=ws#hamedp71
 
 trojan://iwangjie@141.94.68.216:2053?type=ws&security=tls&path=%252F%253Fed%253D2560&host=nodes.830901.xyz&sni=nodes.830901.xyz&allowInsecure=1#hamedp71
 
