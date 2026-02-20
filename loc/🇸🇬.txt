@@ -3,6 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://d10b0612-2b05-47c2-99c1-53f0b109d07d@158.178.234.153:18757?type=ws&amp;fp=chrome&amp;security=none&amp;path=/&amp;encryption=none#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLkAzLjEuMTk1LjE0ODo4MzE5#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLkAzLjEuMTk1LjE0ODo4MzEz#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwiYWlkIjowLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsImlkIjoiMjkwY2M2OTEtM2FjNi00Mzg3LTk4YTEtMjVjOGViOGNhMmVhIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOjQ0MywicHMiOiJoYW1lZHA3MTo68J+HuPCfh6wiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOmZhbHNlLCJzbmkiOiJzZ2FsLmRhZ3JhdGUuZXUub3JnIn0
