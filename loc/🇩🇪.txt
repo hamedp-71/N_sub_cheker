@@ -4,7 +4,6 @@
 
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.124.178.227:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=sni.111000.indevs.in&fp=chrome&type=ws&allowInsecure=0&sni=sni.111000.indevs.in#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://00dd814b-8e7c-401a-a06b-a3b4aaf78b16@de.vpnone.ru:8443?security=reality&encryption=none&pbk=PycIxLERS3Kg4Kh7TQuiD1Kf9pNySxp5jMKEaIb_PjU&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ya.ru&sid=4216490519225e#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://3dcd6767-ec3e-4eeb-9fa6-c70b8661072f@212.192.246.57:2087?security=reality&encryption=none&pbk=DwNl_pR9JMgEQoq_cdx4HuZRPyapUBn4FkLZs1U3fXQ&headerType=&fp=chrome&type=tcp&sni=refersion.com&sid=e004#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f74d98a4-9198-4f78-b921-47d4f4950953@185.236.26.58:443?security=tls&encryption=none&insecure=1&headerType=&type=tcp&allowInsecure=1&flow=xtls-rprx-vision&sni=de3.teleport.lat#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@vip2.kaixincloud.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
