@@ -2,4 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+vless://12cb9911-a48d-4147-85cc-68dd678e94c6@64.188.64.59:443?security=reality&encryption=none&pbk=iv8v94q9qxkMw5WSUc0obloyLVFNTsfyy9Y3FaGlj1k&headerType=&fp=chrome&type=tcp&sni=yandex.ru&sid=efd29b2d25#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@vip2.kaixincloud.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.18.185.26:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@v1.dabache.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://07cd9dbe-21ac-4871-817d-c772687e4b7c@89.106.89.112:2053?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=WckOSneVajAzpH0sZSAFAWPnmwuuEXKZrTICNj5_hHU&sid=4a5b6c7d&sni=www.ibm.com#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
