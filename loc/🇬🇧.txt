@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLkAzLjExMi4xMzAuNTM6ODMxMw==#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprYVFIM2hHZGNQODBYRURJ@admin.c2.havij.co:443#hamedp71%3A%3A%F0%9F%87%AC%F0%9F%87%A7
