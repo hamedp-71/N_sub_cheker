@@ -368,9 +368,9 @@ vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=%2F%3Fed&secur
 
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#hamedp71
 
-vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71
-
 trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#hamedp71
+
+vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?mode=gun&security=none&encryption=none&type=grpc#hamedp71
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiI0Ny4yNDIuMTkyLjIzMyIsInBvcnQiOiI1MjE5MCIsInR5cGUiOiJub25lIiwiaWQiOiI5ODY4OTcyNC1kZWIyLTRhM2QtYjgzYi02MDIyMjE5OTViYWYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0
 
@@ -434,11 +434,11 @@ vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@104.26.13.31:80?host=floral-term-d2
 
 vless://fe665bb7-a558-42bc-9ba7-a59288ee4b93@ip.sb:80?encryption=none&security=none&type=ws&host=floral-term-d21f.wafajax493.workers.dev#hamedp71
 
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.17.25.173:80?host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F%3Fed%3D2048&type=ws#hamedp71
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.21.7.133:80?host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F%3Fed%3D2048&type=ws#hamedp71
 
 vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.18.185.26:80?host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F%3Fed%3D2048&type=ws#hamedp71
 
-vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.21.7.133:80?host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F%3Fed%3D2048&type=ws#hamedp71
+vless://93526fcb-8dbf-442e-a656-eb304f1da4ef@104.17.25.173:80?host=lucky-voice-d6f3.difat89954-0c6.workers.dev&path=%2F%3Fed%3D2048&type=ws#hamedp71
 
 vless://f667a096-5231-4cfb-8759-92bb32473139@77.91.68.70:55983?security=reality&encryption=none&pbk=nWQ7b9l9X6N3PrXLgIzOvMM8iSYrqjVHEb9ikWxqYSg&headerType=none&fp=chrome&spx=/@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-@V2WRAY-?ed=2560&type=tcp&sni=yahoo.com&sid=0e#hamedp71
 
