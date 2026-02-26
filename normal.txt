@@ -374,15 +374,15 @@ vless://0b93fd13-de5c-4ca5-8530-435bfa2a0955@025.electrocellco-cf-025.workers.de
 
 vless://ae0a43bc-6189-456e-9b8a-a93f39af336e@38.180.144.156:8443?encryption=none&security=reality&sni=www.microsoft.com&fp=safari&pbk=76Cfr5qNl9BCrSb6jdkrgj0HbwfyCwj4oF6JJVhKD0s&sid=42d7234d875308a2&type=tcp&flow=xtls-rprx-vision#hamedp71
 
-vless://e4824193-4f54-453b-d037-88368e85ef0e@chatgpt.com:443?encryption=none&security=tls&sni=pqh30v4.carwashipdir.shop&fp=chrome&type=grpc&mode=gun#hamedp71
-
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#hamedp71
+
+vless://e4824193-4f54-453b-d037-88368e85ef0e@chatgpt.com:443?encryption=none&security=tls&sni=pqh30v4.carwashipdir.shop&fp=chrome&type=grpc&mode=gun#hamedp71
 
 vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@s1.db-link.in:443?&security=tls&fp=chrome&alpn=h3,h2&sni=s6.oboob.cn&type=ws&headerType=none&host=s6.oboob.cn&path=%2Fdb10248afdcb0daf#hamedp71
 
-vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?security=reality&encryption=none&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yahoo.com&sid=1a24af87#hamedp71
-
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiIxNS4yMzUuNDEuMjAwIiwicG9ydCI6IjgwIiwidHlwZSI6Im5vbmUiLCJpZCI6IjU4ZmUxNTQyLTUyOTAtNDBhZC04MTVhLTc3NzA3YTgxYWZlNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvSU9lYmhMTWhsMUNUYkZIYkw5NW15ZlJYMiIsImhvc3QiOiIxNS4yMzUuNDEuMjAwIiwidGxzIjoiIn0
+
+vless://53cd8178-2ee6-43d9-a2a7-881f287fd408@172.234.130.82:10001?security=reality&encryption=none&pbk=kKX1o7FhJLyDaVE6sqXUcYpUIuFUgij_ueRYc_E4JhM&headerType=none&fp=chrome&allowinsecure=0&type=tcp&sni=yahoo.com&sid=1a24af87#hamedp71
 
 trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org&type=ws#hamedp71
 
