@@ -286,9 +286,9 @@ vless://03ea79e8-3e62-4fb0-9947-b64286e6b26d@br-m247-01.com:8443?security=realit
 
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxIiwiYWRkIjoiOC4yMTguMTkuMTAxIiwicG9ydCI6NDQzLCJpZCI6IjQ2OWU5YTM4LWI2NGUtNDZjMy05NzkzLTIzNDE1ODk0MmQzYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibjE3NjEyMTQ5MDIud3BnMjcueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuMTc2MTIxNDkwMi53cGcyNy54eXoiLCJmcCI6bnVsbCwibmFtZSI6IvCfh63wn4ewIEhLIDMifQ
 
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#hamedp71
-
 trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#hamedp71
+
+vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#hamedp71
 
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.gossipglove.com#hamedp71
 
@@ -360,9 +360,9 @@ vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&
 
 vless://0b93fd13-de5c-4ca5-8530-435bfa2a0955@025.electrocellco-cf-025.workers.dev:2053?encryption=none&security=tls&sni=025.ELEcTROcELLco-Cf-025.wORkeRS.DeV&type=ws&host=025.ELEcTROcELLco-Cf-025.wORkeRS.DeV&path=%2FeyJqdW5rIjoiblpnQTM1U2tMRVNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOltdfQ%3D%3D%3Fed%3D2560#hamedp71
 
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#hamedp71
-
 vless://e4824193-4f54-453b-d037-88368e85ef0e@chatgpt.com:443?encryption=none&security=tls&sni=pqh30v4.carwashipdir.shop&fp=chrome&type=grpc&mode=gun#hamedp71
+
+trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#hamedp71
 
 vless://305419ed-4ef5-3e5a-8d48-b803c58853d3@s1.db-link.in:443?&security=tls&fp=chrome&alpn=h3,h2&sni=s6.oboob.cn&type=ws&headerType=none&host=s6.oboob.cn&path=%2Fdb10248afdcb0daf#hamedp71
 
@@ -424,15 +424,15 @@ vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5j
 
 vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@v1.dabache.top:2096?&security=tls&fp=chrome&sni=ca.adobe-connect.top&type=ws&headerType=none&host=ca.adobe-connect.top&path=%2F#hamedp71
 
-vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#hamedp71
-
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjQ0ODY3LCJwcyI6ImhhbWVkcDcxIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
+
+vless://686c62d9-17a7-43c9-a40a-f6747df60a9f@104.16.250.22:2096?security=tls&sni=ca.adobe-connect.top&type=ws&host=ca.adobe-connect.top&path=%2F&fp=chrome#hamedp71
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwicG9ydCI6IjQzMDYzIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIn0
 
-vmess://eyJhZGQiOiI4LjIxMC4xNjUuMTA5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc2MTIxNDkxOC43NHF4di50b3AiLCJpZCI6ImIxNDE4MDNhLTIwOWMtNDdiZC1iZTZlLTE0ZDZiYzFlOTZiZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJoYW1lZHA3MSIsInNjeSI6ImF1dG8iLCJzbmkiOiJuMTc2MTIxNDkxOC43NHF4di50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
-
 vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?security=reality&encryption=none&pbk=gZGVp5PUdafgsmi1gawa1yLuha_XhXRc_W9SvPiGmTY&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=7cad5040#hamedp71
+
+vmess://eyJhZGQiOiI4LjIxMC4xNjUuMTA5IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJuMTc2MTIxNDkxOC43NHF4di50b3AiLCJpZCI6ImIxNDE4MDNhLTIwOWMtNDdiZC1iZTZlLTE0ZDZiYzFlOTZiZSIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJoYW1lZHA3MSIsInNjeSI6ImF1dG8iLCJzbmkiOiJuMTc2MTIxNDkxOC43NHF4di50b3AiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii92bWVzcy8ifQ
 
