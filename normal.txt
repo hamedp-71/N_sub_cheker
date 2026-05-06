@@ -350,9 +350,9 @@ vless://309fa273-6579-4cb2-9143-7cad50401eba@188.34.193.153:443?security=reality
 
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjQ0ODY3LCJwcyI6ImhhbWVkcDcxIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
 
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii92bWVzcy8ifQ
-
 vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=TY6w1zP-qUFKVCAQdQT2ZEJsZBrPO4hZjZYBSS6h6DU&sid=1aab45#hamedp71
+
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii92bWVzcy8ifQ
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwicG9ydCI6IjQzMDYzIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIn0
 
@@ -462,9 +462,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwicG9ydCI6
 
 trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?security=tls&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#hamedp71
 
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@labeller.neonime83.workers.dev:443?encryption=none&security=tls&sni=labeller.neonime83.workers.dev&type=ws&host=labeller.neonime83.workers.dev&path=%2F%3Fed%3D2560#hamedp71
-
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.97.3:443?encryption=none&security=tls&sni=labeller.neonime83.workers.dev&allowInsecure=true&type=ws&host=labeller.neonime83.workers.dev&path=/&packetEncoding=xudp#hamedp71
+
+vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@labeller.neonime83.workers.dev:443?encryption=none&security=tls&sni=labeller.neonime83.workers.dev&type=ws&host=labeller.neonime83.workers.dev&path=%2F%3Fed%3D2560#hamedp71
 
 vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#hamedp71
 
