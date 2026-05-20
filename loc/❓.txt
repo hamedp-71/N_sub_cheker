@@ -2,12 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#hamedp71%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJwb3J0IjoiODAiLCJzY3kiOiJhdXRvIiwidiI6IjIiLCJuZXQiOiJ3cyIsImhvc3QiOiJnb29nbGUuY29tIiwicGF0aCI6Ii92bWVzcy8iLCJ0bHMiOiJub25lIiwicHMiOiJoYW1lZHA3MTo64p2TIn0
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzE6OuKdkyIsImFkZCI6IjM4LjEwNy4yMzQuNTciLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL3ZtZXNzLyJ9
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@www.speedtest.net:443?path=/CmtD3y72juVnvSxU?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv#hamedp71%3A%3A%E2%9D%93
 trojan://trojan@22b.net:2087?path=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&security=tls&type=ws&sni=store.timimi.dpdns.org#hamedp71%3A%3A%E2%9D%93
-vless://49d598ee-4dfc-4001-95ca-99a5b6002e3c@tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev:443?encryption=none&security=tls&sni=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&type=ws&host=tiny-leaf-f59f.my-lla-s-a-njo-s-e.workers.dev&path=ws#hamedp71%3A%3A%E2%9D%93
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.98.134:443?path=/yraL4HRbwB8cMc0F?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=o94yv7LiF0-AnxIsd9EFehVvs7mXn6bh.z-UlE-ikA-d-e-nE-k-E.WorkeRs.dEv#hamedp71%3A%3A%E2%9D%93
-trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?security=tls&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#hamedp71%3A%3A%E2%9D%93
-vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#hamedp71%3A%3A%E2%9D%93
+vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71%3A%3A%E2%9D%93
