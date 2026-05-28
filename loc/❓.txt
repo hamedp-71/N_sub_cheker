@@ -2,7 +2,11 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#hamedp71%3A%3A%E2%9D%93
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#hamedp71%3A%3A%E2%9D%93
+vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjQ0ODY3LCJwcyI6ImhhbWVkcDcxOjrinZMiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
+vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTNlM2E3MTAtNzlmOC00YWUwLWI4M2MtNjA3YWFiNDBkMTk3IiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzE6OuKdkyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiLS0tIiwidiI6IjIifQ
 trojan://trojan@22b.net:2087?path=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&security=tls&type=ws&sni=store.timimi.dpdns.org#hamedp71%3A%3A%E2%9D%93
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.199:8080#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#hamedp71%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJRQDgyLjM4LjMxLjE5OTo4MDgw#hamedp71%3A%3A%E2%9D%93
