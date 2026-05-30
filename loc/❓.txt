@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-trojan://humanity@188.114.98.0:443?type=ws&host=www.creationlong.org&path=/assignment&security=tls&sni=www.creationlong.org#hamedp71%3A%3A%E2%9D%93
-trojan://trojan@22b.net:2087?path=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&security=tls&type=ws&sni=store.timimi.dpdns.org#hamedp71%3A%3A%E2%9D%93
-vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.multiplydose.com#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71%3A%3A%E2%9D%93
+trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#hamedp71%3A%3A%E2%9D%93
+vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#hamedp71%3A%3A%E2%9D%93

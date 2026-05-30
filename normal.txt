@@ -296,9 +296,9 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calm
 
 trojan://humanity@www.multiplydose.com:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#hamedp71
 
-trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#hamedp71
-
 vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#hamedp71
+
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&alpn=h2,http/1.1&type=ws&path=/assignment#hamedp71
 
 trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.creationlong.org&fp=chrome&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71
 
@@ -309,8 +309,6 @@ trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&fp=chrome&typ
 vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&fp=chrome#hamedp71
 
 vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&sid=#hamedp71
-
-trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#hamedp71
 
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#hamedp71
 
@@ -344,8 +342,6 @@ vless://e16a35ea-6715-4e75-9845-d20358bd0876@94.232.247.168:41360/?type=tcp&encr
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii92bWVzcy8ifQ
 
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwicG9ydCI6IjQzMDYzIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIn0
-
 vless://b2c47b38-23bf-4469-b477-e52206bbb8c1@www.speedtest.net:8443?encryption=none&security=tls&sni=aged-sun-9128.danicng13.workers.dev&alpn=h2,http/1.1&fp=chrome&type=ws&host=aged-sun-9128.danicng13.workers.dev&path=/v9lthtdhp1hvnyc0/ynbilnlvdxnlzi5pc2vnyxjvlmnvbq==?ed=2560#hamedp71
 
 vless://ba49d874-fe02-465d-82d3-ed981dc7694f@www.speedtest.net:443?path=/CmtD3y72juVnvSxU?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv#hamedp71
@@ -364,8 +360,6 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576/?type=tcp&encry
 
 vless://a5e746f7-328f-4b65-a65f-e2e2a4a5b1a9@midorinote.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=tradingview.com&fp=random&security=reality&pbk=wNcFqVd4_PkgJbfgJJeouSU6Pn_Swuce4q4Chw5T0hY&sid=f7aa9e61197d3ac6#hamedp71
 
-trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#hamedp71
-
 vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTNlM2E3MTAtNzlmOC00YWUwLWI4M2MtNjA3YWFiNDBkMTk3IiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
 
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedp71
@@ -379,6 +373,8 @@ vless://e4fc4761-154f-490e-bbaa-b4fa193f1073@45.148.31.0:15855?type=ws&security=
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&sid=4ae260#hamedp71
 
 vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWRwNzEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
+
+vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImM3N2Y0OGY1LTRiZTMtNDQ2MS1iNTJiLTQ5OTk4ZTdiODk3YiIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiNDMwNjMiLCJwcyI6ImhhbWVkcDcxIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 
 trojan://trojan@22b.net:2087?path=%2F%3FBIA_TELEGRAM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29%20TM%20%28%40AZARBAYJAB1%29&security=tls&type=ws&sni=store.timimi.dpdns.org#hamedp71
 
@@ -408,19 +404,17 @@ vless://e977d854-33f3-4345-abee-bf3fa9a6d880@37.233.82.140:40478/?type=tcp&encry
 
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=0&sni=www.multiplydose.com#hamedp71
 
-trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71
-
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.creationlong.org&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=www.creationlong.org&path=%2Fassignment#hamedp71
+
+trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=www.gossipglove.com#hamedp71
 
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedp71
 
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp%23Telegram%40V2ray_Alpha%2F%3Fed%3D2560&security=none&encryption=none&host=google.com&type=ws#hamedp71
 
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71
-
 vless://8910cbb3-33b1-4266-a243-ac780ac63394@45.15.170.237:80?security=none&encryption=none&type=ws&path=/vless/#hamedp71
 
-trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#hamedp71
+vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#hamedp71
 
@@ -436,9 +430,9 @@ vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwicG9ydCI6
 
 trojan://A4u%5Ep%28_UR%2AF6@irancell.buzzmuzzpanel.online:443?security=tls&sni=027.eLECTROcelLCO-cf-027.WorKerS.Dev&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidDJ0UDljR2ZIaVBQakg2byIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#hamedp71
 
-vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.97.3:443?encryption=none&security=tls&sni=labeller.neonime83.workers.dev&allowInsecure=true&type=ws&host=labeller.neonime83.workers.dev&path=/&packetEncoding=xudp#hamedp71
-
 vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@labeller.neonime83.workers.dev:443?encryption=none&security=tls&sni=labeller.neonime83.workers.dev&type=ws&host=labeller.neonime83.workers.dev&path=%2F%3Fed%3D2560#hamedp71
+
+vless://a73b8135-ec7a-4f70-bac6-81fbccad4515@188.114.97.3:443?encryption=none&security=tls&sni=labeller.neonime83.workers.dev&allowInsecure=true&type=ws&host=labeller.neonime83.workers.dev&path=/&packetEncoding=xudp#hamedp71
 
 vless://aebe5a70-0ca3-46ce-8208-8b5bab1346ce@mybb.com:443?security=tls&sni=rAyAn-007.nAsTaRaN.DpDnS.OrG&allowInsecure=1&fp=chrome&type=ws&path=/?ed%3D2560&host=rayan-007.nastaran.dpdns.org&encryption=none#hamedp71
 
@@ -446,31 +440,41 @@ vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@saas.sin.fan:443?security=tls&type=
 
 vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.125.5:80?security=none&type=ws&path=%2F%3Fed%3D2048&host=lively-brook-c471.nedena3319.workers.dev&encryption=none#hamedp71
 
-vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@cloudflare-ip.mofashi.ltd:443?path=/?ed=2048&security=tls&encryption=none&host=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&sni=lively-brook-c471.nedena3319.workers.dev#hamedp71
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.185.26:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed%3D2048&packetEncoding=xudp#hamedp71
 
 vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.16.250.22:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed%3D2048&packetEncoding=xudp#hamedp71
 
-vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@104.18.185.26:443?encryption=none&security=tls&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&host=lively-brook-c471.nedena3319.workers.dev&path=/?ed%3D2048&packetEncoding=xudp#hamedp71
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@cloudflare-ip.mofashi.ltd:443?path=/?ed=2048&security=tls&encryption=none&host=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&sni=lively-brook-c471.nedena3319.workers.dev#hamedp71
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedp71
 
 vless://bf3e8944-8d26-47de-8748-b9aa74cce974@140.238.100.35:40721/?type=tcp&encryption=none&flow=&sni=yahoo.com&security=reality&pbk=TUZgwzcTvoROSbgnqMh3WorXVMxQNIF2zsEM39FQbyk&sid=df8611c07d#hamedp71
 
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#hamedp71
-
 trojan://humanity@188.114.96.3:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#hamedp71
+
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#hamedp71
 
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#hamedp71
 
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.179:8080#hamedp71
 
-trojan://humanity@188.114.98.0:443?type=ws&security=tls&path=%252Fassignment&host=www.calmlunch.com&sni=www.calmlunch.com&allowInsecure=1#hamedp71
-
-vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6NDMwNjMsInBzIjoiaGFtZWRwNzEiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9
-
 trojan://A4u%5Ep(_UR*F6@www.speedtest.net:443?encryption=none&security=tls&sni=027.ELeCTroCelLco-CF-027.wORkERS.dEv&alpn=http%2F1.1&fp=chrome&type=ws&host=027.electrocellco-cf-027.workers.dev&path=%2FeyJqdW5rIjoidlhnMXN5OXFUSiIsInByb3RvY29sIjoidHIiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#hamedp71
 
 vless://d0298536-d670-4045-bbb1-ddd5ea68683e@104.17.128.1:2096?security=tls&sni=azadnet-1ml.pages.dev&type=ws&host=azadnet-1ml.pages.dev&path=%2Fazadnet-1ml.pages.dev%2F%3Fed%3D2560%26PROT_TYPE%3Dvless&fp=randomized#hamedp71
+
+vless://36a857e4-f3d4-43aa-8b90-d7da849da989@002.inc-electrocell-001-002.workers.dev:443?encryption=none&security=tls&sni=002.Inc-ElectROcElL-001-002.WoRKERS.DEV&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=002.inc-electrocell-001-002.workers.dev&path=%2FeyJqdW5rIjoib0RnakxTZUZvOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0%3D%3Fed%3D2560#hamedp71
+
+vless://89b3cbba-e6ac-485a-9481-976a0415eab9@chatgpt.com:2053?path=%2F3PvwrvEqporAUTYq%2FMTQ0LjI0LjI0My4yMDc%3Fed%3D2053&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=BpB241.gaNIJoV670.WOrkErs.dev.&fp=chrome&type=ws&sni=Bpb241.gaNijoV670.WOrkers.Dev.#hamedp71
+
+vless://14e1775b-d92c-455b-8db3-e6c6d61909e0@vpnpro.eshghiabolfazl2009.workers.dev:80?encryption=none&type=ws&host=vpnpro.eshghiabolfazl2009.workers.dev&path=%2F%3Fed%3D2048&security=none#hamedp71
+
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@singapore.com:2083?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=index.0x15.workers.dev&path=%2F9quSDGMroCZkFeWzTk&security=tls&sni=index.0x15.workers.DEV&type=ws#hamedp71
+
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@cloudflare.182682.xyz:443?security=tls&type=ws&path=%2F%3Fed%3D2048&host=lively-brook-c471.nedena3319.workers.dev&sni=lively-brook-c471.nedena3319.workers.dev&fp=chrome&encryption=none#hamedp71
+
+vless://75e1fde7-6bf6-48ef-ba43-400e960e185b@pq-BosniaandHerzegovina1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedp71
+
+vmess://eyJhZGQiOiIxNjUuMTU0LjE5NS4zOCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiI5NTlhOGNhZi00Y2VhLTQzZDAtYTU0OC0zNjI4ZTdkZGZhZmMiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjM1MDM0IiwicHMiOiJoYW1lZHA3MSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIifQ
 
 vmess://eyJ2IjpudWxsLCJwcyI6ImhhbWVkcDcxIiwiYWRkIjoiOC4yMTguMTkuMTAxIiwicG9ydCI6NDQzLCJpZCI6IjQ2OWU5YTM4LWI2NGUtNDZjMy05NzkzLTIzNDE1ODk0MmQzYiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJ0eXBlIjpudWxsLCJob3N0IjoibjE3NjEyMTQ5MDIud3BnMjcueHl6IiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJ0bHMiLCJzbmkiOiJuMTc2MTIxNDkwMi53cGcyNy54eXoiLCJmcCI6bnVsbCwibmFtZSI6IvCfh63wn4ewIEhLIDMifQ
 
@@ -509,6 +513,8 @@ vless://11beaf11-726d-4c11-8ce9-27308c1c608c@157.173.127.225:443?security=realit
 vless://2a2a8023-3b4b-407d-a00a-7beb5a158148@104.20.1.252:80?path=/?ed&security=none&encryption=none&host=SHAggy-AGREEMeNTSpUfz4utdI.SpOrTland.COMPANy.&type=ws#hamedp71
 
 vless://33e1a095-1e25-4198-bfe7-ec312e4f98ee@104.20.1.252:80?path=%2F%3Fed&security=none&encryption=none&host=CREDibLe-pLaNt7ddV4jJ7et.OnEeaT.CO.&type=ws#hamedp71
+
+trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#hamedp71
 
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiI0Ny4yNDIuMTkyLjIzMyIsInBvcnQiOiI1MjE5MCIsInR5cGUiOiJub25lIiwiaWQiOiI5ODY4OTcyNC1kZWIyLTRhM2QtYjgzYi02MDIyMjE5OTViYWYiLCJhaWQiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJob3N0IjoiIiwidGxzIjoiIn0
 
@@ -567,6 +573,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08@57.129.140.88:8388#hamedp71
 vless://e31085f9-7f55-4a7d-b00e-ce94149477cb@104.18.32.47:80?path=/?ed&security=none&encryption=none&host=PrICKLy-AdverTisEMEnt6OaD5Z64MK.onEEaT.cO.&type=ws#hamedp71
 
 vmess://eyJhZGQiOiJjZi4wOTAyMjcueHl6IiwidiI6IjIiLCJwcyI6ImhhbWVkcDcxIiwicG9ydCI6NDQzLCJpZCI6IjI5MGNjNjkxLTNhYzYtNDM4Ny05OGExLTI1YzhlYjhjYTJlYSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInR5cGUiOiIiLCJob3N0Ijoic2dhbC5kYWdyYXRlLmV1Lm9yZyIsInBhdGgiOiIvIiwidGxzIjoidGxzIn0
+
+trojan://humanity@188.114.96.3:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#hamedp71
 
 vless://05b544a4-d479-4ba4-8208-950bd4411453@pq-India1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedp71
 
@@ -719,6 +727,8 @@ vmess://eyJhZGQiOiI5NS4xNjQuNC44OCIsImFpZCI6IjAiLCJpZCI6ImMwNGMzYjM0LTcwZmQtNGZl
 vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWRwNzEiLCJhZGQiOiJuMTc1MzU5ODQ1Mi53cGcyNy54eXoiLCJwb3J0IjoiNDQzIiwidHlwZSI6Im5vbmUiLCJpZCI6IjRmMjNlYjdjLWVmMmYtNDNiMC05MGRkLWYyYjhhNzU5NTRhNSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6Im4xNzUzNTk4NDUyLndwZzI3Lnh5eiIsInRscyI6InRscyIsInNraXAtY2VydC12ZXJpZnkiOnRydWV9
 
 vless://3fa2f5cd-0cbc-4e4f-bce1-a59ae090eef4@192.76.160.216:2280?security=reality&encryption=none&pbk=3O9CVvzD_0omAKw17VJoL0NlezpzxRAHNIbOWGBto2I&headerType=none&fp=firefox&type=tcp&sni=tgju.org&sid=faf804ddc2e49f6c#hamedp71
+
+trojan://humanity@www.multiplydose.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.multiplydose.com&fp=chrome&allowInsecure=1#hamedp71
 
 vmess://eyJhZGQiOiJuMTc2MTIxNDkwMi53cGcyNy54eXoiLCJwb3J0IjoiNDQzIiwiaWQiOiI0NjllOWEzOC1iNjRlLTQ2YzMtOTc5My0yMzQxNTg5NDJkM2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwidiI6IjIiLCJwcyI6ImhhbWVkcDcxIiwiaG9zdCI6Im4xNzYxMjE0OTAyLndwZzI3Lnh5eiIsInBhdGgiOiIvIiwidGxzIjoidHJ1ZSIsInNuaSI6IiIsInR5cGUiOiJub25lIiwic2VydmVyUG9ydCI6MCwibmF0aW9uIjoiIn0
 
