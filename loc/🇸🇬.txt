@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-trojan://oUAfbL8z87q-mhgjZ6g7mWQobf9%3Db7ut_F@130.94.92.144:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.node-finder.click#hamedp71%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://e4e7866d-920b-4a53-a8e2-6ae9b2a42fc2@8.219.213.195:10032?security=&alpn=http%2F1.1&encryption=none&headerType=none&fp=chrome&type=tcp#hamedp71%3A%3A%F0%9F%87%B8%F0%9F%87%AC
