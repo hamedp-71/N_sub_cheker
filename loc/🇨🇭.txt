@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-hysteria2://b880e510-8196-44bb-b715-781a9461b4a0@aestheticperforator.ru:8443?security=tls&insecure=0&sni=aestheticperforator.ru#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+trojan://duaR-NjjdGGLeZ%2BW6j%3D3NY46vZW%2BzyMD1z@89.125.95.152:11300?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.toughapp.click#hamedp71%3A%3A%F0%9F%87%A8%F0%9F%87%AD
