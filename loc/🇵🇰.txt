@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.registry-monitor.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B0
+trojan://BzOx2R8u59SOipHwhIYW-IMyJePBEiUY-m@149.104.104.101:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=www.registry-monitor.click#hamedp71%3A%3A%F0%9F%87%B5%F0%9F%87%B0
