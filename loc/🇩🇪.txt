@@ -2,8 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=&fp=chrome&spx=%2FBgQiVh1cnj0wy8V&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ca7ddf#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:4227?security=reality&encryption=none&pbk=L5dWvFThmaEvNqnz8xbBkyT10TWINOZbn-BAdKtXNzk&headerType=&fp=chrome&spx=%2F5vXt1LMAmYeiEkf&type=tcp&flow=xtls-rprx-vision&sni=aws.amazon.com&sid=109c8be3#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2360?security=reality&encryption=none&pbk=KTAuJl8Ga2u2IZmfizQj6yEw3fOcqxLeYVhCA_r1wmQ&headerType=&fp=chrome&spx=%2FBgQiVh1cnj0wy8V&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=ca7ddf#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:2886?security=reality&encryption=none&pbk=cKOOhuCGj6qHK3znJDGnoG9DTJOJK_GZ_r7A68xi_DM&headerType=&fp=chrome&spx=%2FH30flwmjqp1iFuZ&type=tcp&flow=xtls-rprx-vision&sni=www.oracle.com&sid=40e5ca#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://06d16269-04bb-4a2d-b5da-5dab27c59a15@5.75.207.247:443?security=reality&encryption=none&pbk=AQdYxjoMA0fxO8O9BX5bW4EMfRyiH09K0Hwjwse51AM&headerType=&fp=random&spx=%2F2MXOo5E53mBJdvq&type=tcp&flow=xtls-rprx-vision&sni=www.nvidia.com&sid=1bcb6db5#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://859a537b-09cf-4bce-8da4-ecbb72950e3a@159.195.46.178:443?security=reality&encryption=none&pbk=P5ceHLOW8Gmz45z-ozbm9T6xsdSsIGLB71-jMfSjCBQ&headerType=&type=tcp&flow=xtls-rprx-vision&sni=4.oncloudnineservicestreang.com&sid=04bc695105689674#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
