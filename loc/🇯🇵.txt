@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://85357d35-492e-4814-835a-aba4cb7f00ad@157.85.230.247:64371?security=reality&encryption=none&pbk=lvNgDfAnK72MtJYd3VcZWgmpKUABdH8jfUghJIScdSM&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=apple.com&sid=38c7778a#hamedp71%3A%3A%F0%9F%87%AF%F0%9F%87%B5
