@@ -2,20 +2,18 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&type=ws&allowInsecure=0&sni=amooaliii.net#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?security=reality&encryption=none&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.leboncoin.fr&sid=c906f73d3ba8211f#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://073d1d50-8478-47bf-a828-7a1b381931d5@108.162.192.75:443?path=%2Fodiyfws&security=tls&encryption=none&insecure=0&host=octopusss.net&type=ws&allowInsecure=0&sni=octopusss.net#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.31:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?security=reality&encryption=none&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&headerType=&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.leboncoin.fr&sid=c906f73d3ba8211f#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://b2f6aa3a-2550-4a1c-b2c0-1c94b1207217@104.17.121.110:443?path=%2Fhdgrbws&security=tls&encryption=none&insecure=0&host=terazhediii.info&fp=chrome&type=ws&allowInsecure=0&sni=terazhediii.info#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.31:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://0970324b-8c61-4ae7-8c3f-385a6f1e17e4@162.55.217.158:8443?path=%2F&security=tls&encryption=none&insecure=0&host=vpn47.cc.cd&type=ws&allowInsecure=0&sni=vpn47.cc.cd#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@141.193.213.21:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmloud.com&type=ws&allowInsecure=0&sni=www.calmloud.com#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@45.80.111.7:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://4d10c997-4781-4cd9-82c3-15453523e12c@51.91.251.198:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@208.103.161.170:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@betty.ns.cloudflare.com:443?path=%2Fjdhfyws&security=tls&encryption=none&insecure=0&host=amooaliii.net&fp=chrome&type=ws&allowInsecure=0&sni=amooaliii.net#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@OV-France1.09vpn.com:80?path=/vless/&security=&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://5ce84688-f535-46ad-a512-37b17becf6ea@152.228.162.19:80?encryption=none&security=none&type=ws&host=akamaized.net&path=/vless/#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@www.gossipglove.com:443?fp=chrome&path=%2Fassignment&security=tls&type=ws#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://25f86cb1-2140-4085-abcb-c3a0ea7a4be0@152.228.162.19:80?type=ws&path=%2Fvless%2F#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
-trojan://humanity@www.gossipglove.com:443?type=ws&security=tls&path=%252Fassignment&sni=www.gossipglove.com&fp=chrome&allowInsecure=1#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&type=ws#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%B7
