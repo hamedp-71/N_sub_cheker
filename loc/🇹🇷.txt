@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+trojan://0ds_NIm933rf_Nxio294_nbZi3@78.135.73.38:449?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=grape-ataturk-tr.yyuyy.com#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
