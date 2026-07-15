@@ -2,10 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.151:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=185.137.157.151#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.140:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://45e6cc1d-fc2e-4c97-8633-b33caa28e130@jazzghost.com:8443?security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&fm=%7B%22quicParams%22%3A%7B%22bbrProfile%22%3A%22conservative%22%2C%22congestion%22%3A%22bbr%22%2C%22debug%22%3Afalse%2C%22disablePathMTUDiscovery%22%3Afalse%2C%22initConnectionReceiveWindow%22%3A20971520%2C%22initStreamReceiveWindow%22%3A8388608%2C%22keepAlivePeriod%22%3A10%2C%22maxConnectionReceiveWindow%22%3A20971520%2C%22maxIdleTimeout%22%3A30%2C%22maxIncomingStreams%22%3A1024%2C%22maxStreamReceiveWindow%22%3A8388608%2C%22udpHop%22%3A%7B%22interval%22%3A%225-10%22%2C%22ports%22%3A%2220000-50000%22%7D%7D%7D&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=jazzghost.com#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-trojan://dh-Ws-YoJIgTYLZ-A5VljeduVse-vhDl7Q@185.137.157.135:443?security=tls&insecure=0&headerType=none%40NebulaVPNx&type=tcp&allowInsecure=0#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://cbcf2255-6d66-4039-b7d6-c10d6ffc99e7@1.tls.fastly.veraspeed.ir:443?path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed&security=tls&encryption=none&insecure=0&host=pan1.global.ssl.fastly.net&type=ws&allowInsecure=0&sni=ssl.fastly.com#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
