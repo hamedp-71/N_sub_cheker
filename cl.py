@@ -1598,43 +1598,53 @@ def should_retry_ip_api(exception):
     print(f"Not retrying for error: {exception}")
     return False
 def fetch_exit_country_code_via_proxy(proxies_to_use: Optional[dict]) -> str:
-    print(f"Fetching EXIT country code using proxy {proxies_to_use.get('http') if proxies_to_use else 'None'}")
-    try:
-        print(f"  Attempting with ipinfo.io/json...")
-        api_url_ipinfo = "https://ipinfo.io/json"
-        response_ipinfo = requests.get(api_url_ipinfo, timeout=10, proxies=proxies_to_use)
-        response_ipinfo.raise_for_status()
-        data_ipinfo = response_ipinfo.json()
-        exit_ip = data_ipinfo.get('ip')
-        country_code = data_ipinfo.get('country')
-        if country_code and isinstance(country_code, str) and len(country_code) == 2 and country_code.isalpha():
-            print(f"  Success with ipinfo.io: Exit IP {exit_ip}, Country {country_code.upper()}")
-            return country_code.upper()
-        else:
-            print(f"  Invalid or missing country from ipinfo.io. Response: {data_ipinfo}")
-            raise ValueError("Invalid data from ipinfo.io")
-    except (requests.exceptions.RequestException, ValueError, json.JSONDecodeError) as e_ipinfo:
-        print(f"  Failed with ipinfo.io: {e_ipinfo}. Proceeding to fallback (ipdata.co)...")
-    try:
-        print(f"  Attempting with ipdata.co (no IP)...")
-        if not IPDATA_API_KEY or IPDATA_API_KEY == "YOUR_IPDATA_API_KEY":
-            print("  Error: IPDATA_API_KEY not configured for ipdata.co. Skipping.")
-            raise ValueError("IPDATA_API_KEY not set")
-        api_url_ipdata = f"https://api.ipdata.co?api-key={IPDATA_API_KEY}"
-        response_ipdata = requests.get(api_url_ipdata, timeout=10, proxies=proxies_to_use)
-        data_ipdata = response_ipdata.json()
-        exit_ip = data_ipdata.get('ip')
-        country_code = data_ipdata.get('country_code')
-        if country_code and isinstance(country_code, str) and len(country_code) == 2 and country_code.isalpha():
-            print(f"  Success with ipdata.co: Exit IP {exit_ip}, Country {country_code.upper()}")
-            return country_code.upper()
-        else:
-            # ...
-            raise ValueError("Invalid data from ipdata.co")
-    except Exception as e_ipdata:
-        print(f"  Failed with ipdata.co as well: {e_ipdata}")
-        print("  All location services failed. Returning XX.")
-        return "XX"
+    proxy_display = proxies_to_use.get('http') if proxies_to_use else 'None'
+    print(f"Fetching EXIT country code using proxy {proxy_display}")
+    
+    # لیستی از بهترین سرویس‌های رایگان و بدون لیمیت برای پیدا کردن لوکیشن دقیق
+    api_endpoints = [
+        "http://ip-api.com/json",
+        "https://freeipapi.com/api/json",
+        "https://api.myip.com",
+        "https://ipapi.co/json/"
+    ]
+    
+    for url in api_endpoints:
+        try:
+            print(f"  Attempting with {url}...")
+            # زمان انتظار ۵ ثانیه کافی است تا تست طولانی نشود
+            response = requests.get(url, timeout=5, proxies=proxies_to_use)
+            
+            if response.status_code == 200:
+                data = response.json()
+                country_code = None
+                
+                # استخراج کد دو حرفی کشور با توجه به نوع خروجی هر سرویس
+                if "countryCode" in data:      # مخصوص ip-api
+                    country_code = data["countryCode"]
+                elif "country_code" in data:   # مخصوص freeipapi
+                    country_code = data["country_code"]
+                elif "cc" in data:             # مخصوص api.myip.com
+                    country_code = data["cc"]
+                elif "country" in data:        # مخصوص ipapi.co
+                    country_code = data["country"]
+                    # اگر اسم کامل کشور را برگرداند، آن را نادیده بگیرد
+                    if len(country_code) != 2:
+                        country_code = data.get("country_code", None)
+                
+                # بررسی صحت کد کشور (مثلا US یا DE)
+                if country_code and len(country_code) == 2 and country_code.isalpha():
+                    print(f"  Success! Country {country_code.upper()} from {url}")
+                    return country_code.upper()
+            else:
+                print(f"  Failed with {url}: Status Code {response.status_code}")
+                
+        except Exception as e:
+            print(f"  Error with {url}: {e}")
+            continue # در صورت خطا یا تایم‌اوت، بلافاصله سرویس بعدی را تست می‌کند
+            
+    print("  All location services failed. Returning XX.")
+    return "XX"
 @retry(
     stop_max_attempt_number=3,
     wait_exponential_multiplier=1000,
