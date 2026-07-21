@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://358f44f0-2686-46c8-9cc6-ec52abd66df4@65.109.219.124:10485?security=&encryption=none&headerType=none&type=tcp#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://2f6e2b17-4d5e-4a12-8979-f53fdd347580@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5c8a8e6c615b&sni=www.mozilla.org#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
