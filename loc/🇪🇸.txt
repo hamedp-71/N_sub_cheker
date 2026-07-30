@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiaGFtZWR2cG5zOjrwn4eq8J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@2.27.26.51:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=draftnest-rrew.ru&fp=qq&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@2.27.26.51:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=draftnest-rrew.ru&fp=chrome&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@2.27.26.51:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=draftnest-rrew.ru&fp=firefox&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
