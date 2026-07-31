@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
-
-vless://7b81d175-d180-4ec8-bbc5-dfe80e8d3b68@144.31.129.42:443/?type=grpc&encryption=none&flow=&serviceName=nexusGrpc&sni=morphbinerkkw.ru&fp=firefox&security=reality&pbk=CxMPFpwhcR9Ocp-Xy_1J08mo-atdHKUf58WLOy_XlgM&sid=d9662905#hamedvpns%3A%3A%F0%9F%87%A6%F0%9F%87%B1
