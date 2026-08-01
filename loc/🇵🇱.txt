@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://1fef5248-fdd2-40d6-b3b9-6c33d4e74724@144.31.0.34:7443?security=reality&encryption=none&pbk=8wD0IhR27ftD5LyJDq9CaFzi6DgA4vFtB-UP6QIdWVc&headerType=&type=tcp&flow=xtls-rprx-vision&sni=_custom_&sid=e8ca5079a5e91481#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@poland.spectrum.vu:443?security=reality&encryption=none&pbk=5Z6WxIOriNZSwKfzNvn38fbH0E2prqDla_l8l9YQnRo&headerType=&type=tcp&flow=xtls-rprx-vision&sni=poland.spectrum.vu&sid=2a6f8c4d1e9b#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://9a9fe945246a431ebd051cb981464c8d@2.59.163.45:59992/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
