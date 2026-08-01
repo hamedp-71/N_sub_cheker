@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vmess://eyJhZGQiOiI4NS45MC4yMTcuNDIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMjMyNCIsInBzIjoiaGFtZWR2cG5zOjrwn4eq8J+HuCIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&sni=download.nvidia.com#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?mode=auto&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&sni=download.nvidia.com#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8

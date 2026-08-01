@@ -2,7 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@85.11.161.8:444/?type=grpc&encryption=none&flow=&serviceName=web.max.ru&sni=web.max.ru&fp=chrome&security=reality&pbk=lxq7uAa7l0ozobBgTRrQIF_aCxDeJqZZFaNv8CFA9TQ&sid=8622176789abcdef#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://2aa2be33-b987-461e-8d0e-2ffe15cb8e4c@141.11.149.200:11650/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://431fe973-a43a-4fac-bf83-2a772e0d0625@207.174.133.222:10000?security=&encryption=none&headerType=none&type=tcp#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://9e76cfb8-b7a6-40f6-c2aa-9905aa19f31b@47.83.153.19:59750?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.amd.com&fp=chrome&pbk=W9BjX6YmCIVsjhKMlz233Yoe0xcf0SVHfvPKqbf3vCg&type=tcp&headerType=none#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjM2NzAzLCJwcyI6ImhhbWVkdnBuczo68J+HrfCfh7AiLCJ0bHMiOiIiLCJ0eXBlIjoiYXV0byIsInNlY3VyaXR5IjoiYXV0byIsInNraXAtY2VydC12ZXJpZnkiOnRydWUsInNuaSI6IiJ9

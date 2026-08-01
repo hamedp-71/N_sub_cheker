@@ -2,7 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://219f9fec-8983-4f6f-af8c-31bd0c6dbf19@45.155.52.231:443/?type=tcp&encryption=none&flow=&sni=ru2.skydrgn-online.online&fp=chrome&security=reality&pbk=6p0aVCkOgd-xaxqSMANYABL6O4Tdbftnxjiy5qcmISQ&sid=0b#hamedvpns%3A%3A%E2%9D%93
-vless://155e8dd4-a559-407a-9ea8-13a5e829f066@130.17.2.67:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%E2%9D%93
 vless://c7e9c591-2764-423a-afca-efbd010fd396@194.67.204.158:2053/?type=ws&encryption=none&flow=&path=%2F&security=tls&sni=forfreeuse.sub-flow.online&fp=safari#hamedvpns%3A%3A%E2%9D%93
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#hamedvpns%3A%3A%E2%9D%93
+trojan://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@jumao91.shop:2096?path=%2Fproxyip%3D45.207.156.255&security=tls&insecure=0&host=jumao91.shop&type=ws&allowInsecure=0&sni=jumao91.shop#hamedvpns%3A%3A%E2%9D%93

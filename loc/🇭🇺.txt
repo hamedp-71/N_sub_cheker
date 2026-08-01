@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://52d0b2d5-a003-4509-ab70-d1d720a14cd7@37.221.210.181:443/?type=xhttp&encryption=none&flow=&mode=auto&sni=hu007.bearbeer.digital&fp=qq&security=reality&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&sid=#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%BA
+vless://52d0b2d5-a003-4509-ab70-d1d720a14cd7@37.221.210.181:443?mode=auto&security=reality&encryption=none&pbk=z-TKWOWgZLfzQ-wNdwXQqVwaUgCmbchM2Xtrk1NGynU&type=xhttp&sni=hu007.bearbeer.digital#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%BA
