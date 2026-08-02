@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&sni=download.nvidia.com#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://e51796bb-3305-ac88-f39d-22fd9dd63b4f@130.49.77.3:443?mode=auto&security=reality&encryption=none&pbk=hwwiWVqYq5b7S0JaXNSxjWSEv_1OUFMaWJGHzeAGyRM&type=xhttp&sni=download.nvidia.com#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
 vless://245bb424-b186-4738-8f42-bdbde719d4c9@104.20.39.109:443?path=%2Fnova-geo-psiphon-es&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo.zenvorix.ir#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
