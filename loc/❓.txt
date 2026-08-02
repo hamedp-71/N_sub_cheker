@@ -2,18 +2,20 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://17d29827-7cf1-4115-b40d-548e10ec355d@186.246.21.156:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=qq&security=reality&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&sid=aa3c#hamedvpns%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#hamedvpns%3A%3A%E2%9D%93
-vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.192.161:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#hamedvpns%3A%3A%E2%9D%93
-vless://29ca503d-e6b8-4509-b666-48133f450857@190.93.246.79:8443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=random&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#hamedvpns%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#hamedvpns%3A%3A%E2%9D%93
 vless://29ca503d-e6b8-4509-b666-48133f450857@188.114.98.0:2087?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#hamedvpns%3A%3A%E2%9D%93
-vless://29ca503d-e6b8-4509-b666-48133f450857@162.159.33.118:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#hamedvpns%3A%3A%E2%9D%93
+vless://29ca503d-e6b8-4509-b666-48133f450857@190.93.246.79:8443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=random&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#hamedvpns%3A%3A%E2%9D%93
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.195.58:443?path=%2Ffdip%3Dtw.william.us.ci%21txt&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#hamedvpns%3A%3A%E2%9D%93
 vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.165:8443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#hamedvpns%3A%3A%E2%9D%93
 trojan://51a0af77-a60c-4d9b-81a4-f50e1b38d90b@jumao91.shop:2096?path=%2Fproxyip%3D45.207.156.255&security=tls&insecure=0&host=jumao91.shop&type=ws&allowInsecure=0&sni=jumao91.shop#hamedvpns%3A%3A%E2%9D%93
-vless://29ca503d-e6b8-4509-b666-48133f450857@172.64.35.32:8443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#hamedvpns%3A%3A%E2%9D%93
+vless://29ca503d-e6b8-4509-b666-48133f450857@108.162.198.165:8443?path=%2Ffdip&security=tls&alpn=channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn-channel%40networld_vpn%D9%80&encryption=none&insecure=0&host=learn00.evany.de5.net&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#hamedvpns%3A%3A%E2%9D%93
 vless://29ca503d-e6b8-4509-b666-48133f450857@ip.sb:443?path=%2Ffdip&security=tls&encryption=none&insecure=0&host=learn00.evany.de5.net&fp=chrome&type=ws&allowInsecure=0&sni=learn00.evany.de5.net#hamedvpns%3A%3A%E2%9D%93
-vless://da97d2d7-d255-4efd-8398-7101d698768e@195.133.18.161:30153?security=&encryption=none&headerType=none&type=tcp#hamedvpns%3A%3A%E2%9D%93
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedvpns%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiNDViODM1MTktOWM0Zi00MDUyLWExMWItMDJlMDE3YjYzNmQ0IiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjM2NzAzLCJwcyI6ImhhbWVkdnBuczo64p2TIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
+vless://01d45b24-10c5-4d0b-83c2-8230c0290c38@s07.goharley.site:443?security=reality&encryption=none&pbk=lgYkxGzAAIIJJ6OmrtDyqJfcEKdWCqA7lmsxyVDgGWc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=cdn.selectel.ru#hamedvpns%3A%3A%E2%9D%93
+vless://9047efd2-5aa4-4c9c-a58f-a5791b06c79e@ad-020.cloud25075.info:8443?security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#hamedvpns%3A%3A%E2%9D%93
+vless://245bb424-b186-4738-8f42-bdbde719d4c9@172.66.40.99:443?path=%2Fnova-geo-psiphon-ca&security=tls&alpn=h2&encryption=none&insecure=0&host=pinalo.zenvorix.ir&fp=chrome&type=ws&allowInsecure=0&sni=pinalo.zenvorix.ir#hamedvpns%3A%3A%E2%9D%93
+vless://17d29827-7cf1-4115-b40d-548e10ec355d@ua1.levikogjgfdd.ir:40443?security=reality&encryption=none&pbk=bjOGTQ4xsiFbyCPM_WzoK53L130rW5vZJtuYDJx_pkM&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=aa3c#hamedvpns%3A%3A%E2%9D%93
+vless://c9fd0fb1-8251-4106-b09a-f4b426736f67@137.184.218.169:36925?encryption=none&security=reality&flow=xtls-rprx-vision&type=tcp&sni=www.cloudflare.com&pbk=lJ9INPpO4rdnm2Tek_yg0PGFyUrBB6MoKyvqt_Mfqm0&fp=chrome#hamedvpns%3A%3A%E2%9D%93
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL3ZtZXNzLyJ9
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii92bWVzcy8ifQ
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#hamedvpns%3A%3A%E2%9D%93
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwicG9ydCI6IjQzMDYzIiwiaWQiOiJjNzdmNDhmNS00YmUzLTQ0NjEtYjUyYi00OTk5OGU3Yjg5N2IiLCJhaWQiOiIwIiwic2N5IjoiYXV0byIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpIn0
