@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://9a9fe945246a431ebd051cb981464c8d@2.59.163.45:59992/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
