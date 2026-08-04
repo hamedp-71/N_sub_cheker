@@ -1,0 +1,13 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://1b92d620-add7-42bd-ac1b-93ee4dfacee0@api.univesalsrv.com:443/?type=grpc&encryption=none&flow=&serviceName=rpc.v2.FeedService&sni=api.univesalsrv.com&fp=qq&security=reality&pbk=eU2IqYoHVYNfFqNlTNEAGooWqL2WqKbbQwxAPRu_7wc&sid=93762a4ddf178703#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://1b92d620-add7-42bd-ac1b-93ee4dfacee0@api.univesalsrv.com:443/?type=grpc&encryption=none&flow=&serviceName=rpc.v2.FeedService&sni=api.univesalsrv.com&fp=edge&security=reality&pbk=eU2IqYoHVYNfFqNlTNEAGooWqL2WqKbbQwxAPRu_7wc&sid=93762a4ddf178703#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://a6d52d0d-7ce6-4601-8de3-bfcf07646f58@rub.kosmosapp.ru:16923/?type=grpc&encryption=none&flow=&serviceName=neurex&sni=market.yandex.ru&fp=ios&security=reality&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://1b92d620-add7-42bd-ac1b-93ee4dfacee0@api.univesalsrv.com:443/?type=grpc&encryption=none&flow=&serviceName=rpc.v2.FeedService&sni=api.univesalsrv.com&fp=firefox&security=reality&pbk=eU2IqYoHVYNfFqNlTNEAGooWqL2WqKbbQwxAPRu_7wc&sid=93762a4ddf178703#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://1b92d620-add7-42bd-ac1b-93ee4dfacee0@api.univesalsrv.com:443/?type=grpc&encryption=none&flow=&serviceName=rpc.v2.FeedService&sni=api.univesalsrv.com&fp=chrome&security=reality&pbk=eU2IqYoHVYNfFqNlTNEAGooWqL2WqKbbQwxAPRu_7wc&sid=93762a4ddf178703#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://e1e26ef7-3291-45ac-b821-a11dcdbfdb4d@168.222.140.55:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://112912a9-cedf-485d-b8ed-d8f8d4774437@31.129.96.186:2200/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://a9f07ec1-bd8a-4c95-a281-3de7f0b76853@194.26.229.214:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@94.242.55.42:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=edge&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
