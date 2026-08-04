@@ -4,4 +4,3 @@
 
 vless://342ab7e4-5a89-0001-8809-304120d4aa83@95.85.224.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=qq&security=reality&pbk=WWeAHWUVD-phmnjNJ823cer0c4CMIbEs08AhsuEZmDc&sid=a696de84963656de#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@185.155.97.241:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&fp=qq&security=reality&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&sid=15aa18f971da1f81#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://d5f110e4-3f4a-4274-80ce-bbebbba4be2d@31.56.187.47:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ndee.whit3.net&alpn=http%2F1.1&fp=firefox&security=reality&pbk=pjTH9_lDnyhcoqZolps8Rr7Q_81IDTEjy1aq7UTguhk&sid=3351daa81250d627&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
