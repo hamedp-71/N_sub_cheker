@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.245.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.245.254:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://8ca5cbd3-ec16-4728-bedc-2bc0d82f0922@217.217.245.250:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=enterprisekitten.com&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
