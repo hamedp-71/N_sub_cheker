@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://e6d41d6f-d58a-7650-bba4-d7f0dde3ba4d@45.88.13.3:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=download.nvidia.com&fp=firefox&security=reality&pbk=FOQzn10eHqu4F5xOxiXW2bTDG8lH4TdOXP6A5rDqKFk&sid=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://8a6729c4-81d4-4b05-8747-3fffc17b6a64@8.6.112.223:443/?type=ws&encryption=none&flow=&host=OhPwIlJo8.RoBoRoCkS.Ir&path=%2Fmashdi&security=tls&sni=OhPwIlJo8.RoBoRoCkS.Ir&fp=firefox#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://d9aa9ea3-9388-483f-a58d-a754f33ec505@54.37.6.119:2053/?type=grpc&encryption=none&flow=&serviceName=api.v1.data&sni=play.google.com&fp=firefox&security=reality&pbk=GS0dfvzX-bVKBDl2brVxsrE6T2WyXXkfgP3x-mQC7BY&sid=524efc1f88592266#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=google.com&packetEncoding=xudp&encryption=none#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
