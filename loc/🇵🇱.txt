@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
-
-vless://9500cf8b-020a-4a70-906c-e14bb5375875@31.76.22.141:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.sciencedirect.com&fp=qq&security=reality&pbk=cNWgfJHerzIEb0RXxncP8R9Ex8-FkALOtbhneEIHpR0&sid=a1b2c4d4a1b2c5d5#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1

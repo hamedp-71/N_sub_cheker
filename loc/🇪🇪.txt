@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@64.188.82.57:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee-download.spectrum.vu&fp=firefox&security=reality&pbk=P2MV0I11JvKg-G3wfg64YVGUEh0Wvy6C4MTVsMPWdyQ&sid=7b1c7d9a3f2a#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@185.155.97.241:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&sid=15aa18f971da1f81#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://528fd0e4-8133-41b4-9719-e990bdbd2155@ee10.samovargate.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee10.samovargate.com&fp=firefox&security=reality&pbk=gwuAehnMX6e-n1fxIenfjx43j3qXXi7Cb4wfnW5VyBQ&sid=f04729f65b9ea261#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
+vless://d68960ae-98b4-4335-8c13-5758bf8c3c50@re-zeal-us.snowdnvpno4.com:8443/?type=grpc&encryption=none&flow=&serviceName=api.v1.telemetry.EventStream&sni=addons.mozilla.org&fp=chrome&security=reality&pbk=BLEVlyhgrYYDwsqJjm5wi1yUC7z6MBH_eM6vvYUdUQY&sid=530db35e324c3aa5#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
