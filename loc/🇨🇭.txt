@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://f692629b-3557-488a-9c9b-60775331e423@193.151.108.156:443/?type=grpc&encryption=none&flow=&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&fp=firefox&security=reality&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&sid=#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://f692629b-3557-488a-9c9b-60775331e423@ch1.fi1-cosmostechnology.ru:443/?type=grpc&encryption=none&flow=&serviceName=fi1cosmos&sni=fi1-cosmostechnology.ru&fp=firefox&security=reality&pbk=f3Mwf_vaM2TDw1X8HZORkYPLY0-DE5smNYgHuhrQLTA&sid=#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD
