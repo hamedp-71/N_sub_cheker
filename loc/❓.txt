@@ -2,7 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://e0bb3250-1873-4b9d-b9b5-7aa6c863885f@95.85.233.181:443/?type=grpc&encryption=none&flow=&sni=c.primarymaster.online&allowInsecure=1&fp=firefox&security=reality&pbk=S05RWQUVH-p3uqekd0iRpIeH__NpCt0XEN2xCiQJs3Y&sid=c56c3ba3b9f676c5#hamedvpns%3A%3A%E2%9D%93
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.90:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&allowInsecure=1&fp=firefox&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#hamedvpns%3A%3A%E2%9D%93
-vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.68:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&allowInsecure=1&fp=chrome&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#hamedvpns%3A%3A%E2%9D%93
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedvpns%3A%3A%E2%9D%93
+vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@72.56.7.195:2200/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%E2%9D%93
+vless://bceda826-c83c-45d0-891e-15c4bfec76bc@104.171.134.235:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%E2%9D%93
