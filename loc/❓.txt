@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@72.56.7.195:2200/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%E2%9D%93
-vless://bceda826-c83c-45d0-891e-15c4bfec76bc@104.171.134.235:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%E2%9D%93
+vless://4d10c997-4781-4cd9-82c3-15453523e12c@104.21.77.94:443?path=%2Fsg-melbi&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#hamedvpns%3A%3A%E2%9D%93
