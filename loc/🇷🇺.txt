@@ -4,6 +4,4 @@
 
 vless://31c2a8e8-0ab2-4f3f-8767-11f3a35d4228@72.56.7.195:2200/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&allowInsecure=1&fp=qq&security=reality&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&sid=69d4#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://d3984ebd-b876-4a38-be7d-90299feafc81@212.193.26.170:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://894c0b5f-5ea8-41ca-96ad-1892766b74c3@194.26.229.209:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://59525c39-e731-4c27-bc9e-6d8cef67572c@201.24.120.68:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://112912a9-cedf-485d-b8ed-d8f8d4774437@104.171.132.185:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA

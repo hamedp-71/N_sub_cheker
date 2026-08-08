@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://3ad9031d-249c-46c1-a97d-ef16740f236a@37.252.17.192:8447/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=safari&security=reality&pbk=F8nl7VBhEUZJnMOQKOH7yeiJDZbw32BiIW9aJn2PGlQ&sid=7afcb61e13966776#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://d63fb2c0-5645-43d5-9ea2-efb4fcbe4cef@37.252.17.192:8451/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=safari&security=reality&pbk=ob0P4YslMWVnPxNFehia13AWqHTQNuRUYTXhuiNZCTk&sid=f5614cd78e939cd3#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
