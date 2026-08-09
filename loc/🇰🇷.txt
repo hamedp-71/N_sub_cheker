@@ -4,8 +4,8 @@
 
 trojan://ND91608427@3.36.59.34:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=select-ferret.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://ND91608427@52.78.13.238:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=upward-puma.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://ND91608427@3.36.131.218:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=humorous-malamute.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://ND91608427@52.79.210.229:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=chief-bluegill.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://ba07a8af-5544-48ac-ab62-3b6c00a44fa6@154.64.226.149:9450?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=hk.catxstar.com#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-trojan://ND91608427@3.35.140.99:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moved-meerkat.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 trojan://ND91608427@43.203.203.244:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=main-whippet.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+trojan://ND91608427@3.35.140.99:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=moved-meerkat.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
