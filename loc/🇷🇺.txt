@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://28d0edc6-93c9-4465-bac9-720274d8b8c4@201.51.1.11:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&security=reality&pbk=WRveYv8IuUyvai4jgnQ6nWCL971-wKboe8evES5arlg&sid=69d4#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://6c0ced37-dd9c-43f2-b474-6dafe036c44b@104.171.132.128:4100/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://5d0fbb28-3be3-4044-bc5b-e4b7ca1916c7@5.129.241.247:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://533098d5-957a-4914-addd-528eea5f2b99@45.9.14.31:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=bestrecipes-online.site&fp=firefox&security=reality&pbk=dqNf0WzsieOO2lPrm_clopblTaFeX9xHNwWsaUY9CC0&sid=ec35d84c1661b372#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA

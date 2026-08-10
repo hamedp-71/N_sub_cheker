@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://14f19724-de91-4285-a633-aa8e2caaf812@46.246.92.109:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=safari&security=reality&pbk=JwL5KoiWkCJI2vMJxyTEplfv-zBAtwxOH8SMbw6QHzY&sid=cd40c992fe4b10c2#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://e3c40721-22bc-4862-a358-09502fc14af6@glidio.shieldix.top:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=glidio.shieldix.top&fp=firefox&security=reality&pbk=V9MHR6nhlKPenVUq1172uIHJFZYOkRVqSOUkjCS4430&sid=f0ba53a31b489b3e#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA

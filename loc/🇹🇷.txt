@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.177.215.156:13868/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amd.com&fp=firefox&security=reality&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&sid=e852dc#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://f75814f6-8f81-4847-b792-168c41f2dc85@45.196.201.148:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=storage.yandex.net&allowInsecure=1&fp=firefox&security=reality&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&sid=c6ef72e4635d15a5#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443/?type=xhttp&encryption=none&flow=&path=%2F&mode=auto&sni=www.google.com&fp=chrome&security=reality&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
