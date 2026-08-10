@@ -3,5 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://06d44c57-8e1a-41f4-b9c4-65d35869e078@81.177.215.156:13868/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=amd.com&fp=firefox&security=reality&pbk=FaX6hUpswBFFN-GaXFmFK8bVWYcPlrB4KP26n_INgko&sid=e852dc#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
-vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=download.nvidia.com&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://c6f220ed-41f2-21ba-438c-80f05ebbf92a@170.168.97.5:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=download.nvidia.com&fp=chrome&security=reality&pbk=D2SXHZRRYM0WcFChGWd57XB-U73aIsGfMpe2-Gq5XSs&sid=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
