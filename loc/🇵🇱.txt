@@ -4,6 +4,7 @@
 
 vless://7e760d89-a8f4-4a87-8f10-b4af28c61b7f@82.26.91.87:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=faster.yandex-apicloud.ru&alpn=h2&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://8033102198@144.31.171.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.fast-connect-service.site&alpn=h2%2Chttp%2F1.1&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://8033102198@95.85.253.134:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl5.fast-connect-service.site&alpn=http%2F1.1&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://8033102198@95.85.253.5:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl4.fast-connect-service.site&alpn=http%2F1.1&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://8033102198@31.56.188.152:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl11.fast-connect-service.site&alpn=http%2F1.1&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@83.168.108.200:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pol3.freeinternat.com&fp=firefox&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
