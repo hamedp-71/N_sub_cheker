@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+vless://33cbc251-1ed2-49bd-bd23-e1d3d36137d6@88.216.193.27:443/?type=grpc&encryption=none&flow=&serviceName=data-sync&sni=google.com&fp=firefox&security=reality&pbk=kPBXTe2KCp55GrHS_qU_sF7ohUcT8Vu-e8i6Yd9MERI&sid=d5c7f84e37e0c12d#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@3.113.24.17:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=nearby-egret.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@57.180.13.78:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=healthy-louse.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://ND91608427@13.230.118.96:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=real-werewolf.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5

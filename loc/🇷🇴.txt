@@ -1,7 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
-
-vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@node12.fastdatastream.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=qq&security=reality&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&sid=7b#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@94.198.190.22:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=firefox&security=reality&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&sid=7b#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%B4
-vless://47388561-cf0c-4cfc-91f8-fdfd9fa3d756@node12.fastdatastream.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=edge&security=reality&pbk=B5F8h8tpeZ-1ydiT0uFgdc30jJyw8H89Y8e-p_VV6yw&sid=7b#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%B4
