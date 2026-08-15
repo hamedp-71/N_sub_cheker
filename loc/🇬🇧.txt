@@ -2,9 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://bfa91d79-049c-41e1-be94-029397377150@87.242.85.201:35412/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443/?type=tcp&encryption=none&flow=&security=tls&sni=186.190.211.188&allowInsecure=1&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.213.188:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eu-west.cendora.ru&fp=qq&security=reality&pbk=m6RDw1b8R4lCaRUIzhHpy6TtX2Dhk6nyby8dWzeQqA0&sid=dd3ff38418d29d22#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@144.31.213.150:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.pinecloud.net&allowInsecure=1&fp=chrome&security=reality&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn.pinecloud.net&allowInsecure=1&fp=chrome&security=reality&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&sid=6a2e3af684799b19#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@144.31.213.150:443?security=reality&encryption=none&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=cdn.pinecloud.net&sid=6a2e3af684799b19#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://b052df40-d51c-456c-9bd6-57af01a87e4e@cdn.pinecloud.net:443?security=reality&encryption=none&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=cdn.pinecloud.net&sid=6a2e3af684799b19#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=google.com&packetEncoding=xudp&encryption=none#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWR2cG5zOjrwn4es8J+HpyJ9
