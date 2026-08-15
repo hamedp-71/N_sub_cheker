@@ -2,12 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923/?type=grpc&encryption=none&flow=&serviceName=neurex&sni=api-maps.yandex.ru&fp=firefox&security=reality&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923/?type=grpc&encryption=none&flow=&serviceName=neurex&sni=api-maps.yandex.ru&fp=edge&security=reality&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://ba222add-6ac1-45f1-9a18-f91cb38e324f@201.51.1.84:16923/?type=grpc&encryption=none&flow=&serviceName=neurex&sni=api-maps.yandex.ru&fp=firefox&security=reality&pbk=_QeslG3rHGM7DoM99pYC8-jpc16pM2MbNZ6NRMoxmHA&sid=10ffb85da1c2d986#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@mws.tunnelgate.org:14443/?type=ws&encryption=none&flow=&path=%2Fru&security=tls&sni=mws.tunnelgate.org&alpn=http%2F1.1&fp=qq#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443/?type=ws&encryption=none&flow=&path=%2Fru&security=tls&sni=mws.tunnelgate.org&alpn=http%2F1.1&fp=qq#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@176.109.85.71:14443/?type=ws&encryption=none&flow=&path=%2Fru&security=tls&sni=mws.tunnelgate.org&alpn=http%2F1.1&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://106b0505-da24-4ae4-b22c-302ab814f6f4@79.137.192.188:2200/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@194.55.239.211:9001/?type=grpc&encryption=none&flow=&serviceName=grpc-reality&sni=api-maps.yandex.ru&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@217.19.122.234:9001/?type=grpc&encryption=none&flow=&serviceName=grpc-reality&sni=api-maps.yandex.ru&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://b3d66abd-ea82-4616-92f0-1dec8d1e4cfc@194.26.229.222:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://ed1cd50f-ead9-4e01-b5ae-b7d2dfb532fc@201.51.5.253:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
