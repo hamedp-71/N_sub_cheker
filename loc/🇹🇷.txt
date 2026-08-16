@@ -4,3 +4,5 @@
 
 vless://68bdc1ee-c6ee-4d91-ab52-35ce0d368302@193.124.46.65:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=193.124.46.65&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
 vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443/?type=xhttp&encryption=none&flow=&path=%2F&mode=auto&sni=www.google.com&fp=chrome&security=reality&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&sid=44#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&type=xhttp&sni=www.google.com&sid=44#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
+vless://de64aaa6-a0ea-48d0-853b-1c3cbc7fb42c@141.98.118.70:443?mode=auto&security=reality&encryption=none&pbk=LjEQR0FEtsOs5eQoVsZgJX5ZI0yeadUKTCLoGD641RQ&type=xhttp&sni=www.google.com&sid=44#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
