@@ -3,3 +3,5 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.4.103:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&fp=qq&security=reality&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://c245122a-f149-4e32-8eaa-e875e88a5ab6@shop.magazinetut.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&fp=chrome#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD
+vless://8f4d9689-c25d-40a7-ae8f-39b1681dce20@shop.magazinetut.online:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&fp=chrome#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD

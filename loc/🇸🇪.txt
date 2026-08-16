@@ -4,3 +4,5 @@
 
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.73.137:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&fp=chrome&security=reality&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.69.40:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&fp=qq&security=reality&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.33:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=baltic.cendora.ru&fp=qq&security=reality&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.33:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=baltic.cendora.ru&fp=firefox&security=reality&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
