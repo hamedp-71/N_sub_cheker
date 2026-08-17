@@ -5,5 +5,7 @@
 vless://106b0505-da24-4ae4-b22c-302ab814f6f4@79.137.192.188:2200/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://112912a9-cedf-485d-b8ed-d8f8d4774437@31.129.96.186:2200/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://eb135f2b-4b9e-4abb-9a89-78242613da61@201.51.2.6:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://77fd4d9e-c314-4203-b3e0-b836a1d969b4@188.225.27.238:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://e1e26ef7-3291-45ac-b821-a11dcdbfdb4d@168.222.140.55:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://e1e26ef7-3291-45ac-b821-a11dcdbfdb4d@109.73.193.169:4100/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://6ccb5e10-5758-4e08-aa7e-290b887f458b@94.241.171.229:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://b3764969-ffeb-4436-8f83-ca9f1774edb9@72.56.7.195:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
