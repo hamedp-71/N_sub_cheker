@@ -5,11 +5,11 @@
 vless://423b1d79-08c4-403f-9d5e-c541f791b55f@144.31.171.143:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&fp=firefox&security=reality&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://1f113ca6-7b95-4abb-9348-adfb2187e399@38.180.50.4:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=tutdesignstudio.site&alpn=http%2F1.1&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=tutdesignstudio.site&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://38cc34e9-9973-439c-b61b-3d89b798d571@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=tutdesignstudio.site&alpn=http%2F1.1&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=tutdesignstudio.site&alpn=http%2F1.1&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://38cc34e9-9973-439c-b61b-3d89b798d571@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=tutdesignstudio.site&alpn=http%2F1.1&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://38cc34e9-9973-439c-b61b-3d89b798d571@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://1f113ca6-7b95-4abb-9348-adfb2187e399@tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://6244f068-12df-469f-a80d-6abfb8e4bd86@id.tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b9125df6-2a60-4643-bcba-a5f78cb663a7@id.tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://b9125df6-2a60-4643-bcba-a5f78cb663a7@id.tutdesignstudio.site:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&alpn=http%2F1.1&fp=safari#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
