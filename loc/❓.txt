@@ -2,4 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@185.155.97.241:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=web.max.ru&allowInsecure=1&fp=chrome&security=reality&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&sid=15aa18f971da1f81#hamedvpns%3A%3A%E2%9D%93
+vless://de27291c-15a9-4256-9ba7-ad517569877e@18.239.134.69:80/?type=ws&encryption=none&flow=&host=d2e1v87ko56lyw.cloudfront.net%3Aassets.opensignal.com&path=%2F#hamedvpns%3A%3A%E2%9D%93
+vless://c0f16ee2-a909-4890-ab1c-96489230658a@172.67.178.251:443?path=%2Fvless&security=tls&encryption=none&insecure=0&host=admin.jikebet.com&type=ws&allowInsecure=0&sni=admin.jikebet.com#hamedvpns%3A%3A%E2%9D%93
+vless://0b9bcbc1-b289-4a64-86fa-a5b731b65384@est.vrsvpn.com:443?security=reality&encryption=none&pbk=SJkDT_L0eziQR2afDGrkN7-uRxjYu6bZxIGXlKeCvX4&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=web.max.ru&sid=15aa18f971da1f81#hamedvpns%3A%3A%E2%9D%93
+vmess://eyJhZGQiOiI2MS4yNDUuMTEuNjAiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiYTNlM2E3MTAtNzlmOC00YWUwLWI4M2MtNjA3YWFiNDBkMTk3IiwiaW5zZWN1cmUiOiIxIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Ii0tLSIsInYiOiIyIn0
+trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#hamedvpns%3A%3A%E2%9D%93
 vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&type=ws#hamedvpns%3A%3A%E2%9D%93
+vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiI4MDAzOWI0ZC1iYWMwLTRmODktODJjNy01NGZhZDNiMGExZWEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJraT9lZD0yMDQ4IiwicG9ydCI6ODYxMywicHMiOiJoYW1lZHZwbnM6OuKdkyIsInRscyI6IiIsInR5cGUiOiJhdXRvIiwic2VjdXJpdHkiOiJhdXRvIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwic25pIjoiIn0
