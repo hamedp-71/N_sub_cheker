@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
-
-vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@wsru1.wba-pn.ru:8443/?type=ws&encryption=none&flow=&security=tls&sni=wsru1.wba-pn.ru&fp=android#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://f9613819-d2fe-4b3a-a2e6-40c184c6854c@194.87.143.165:8443/?type=ws&encryption=none&flow=&security=tls&sni=wsru1.wba-pn.ru&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
