@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
-
-vless://41da9cd0-b02c-427a-b74e-7e402c610ae4@193.233.246.82:8443/?type=grpc&encryption=none&flow=&serviceName=grpc-yandex&sni=ads.x5.ru&fp=chrome&security=reality&pbk=sgFFdQvfeujBKh6g7N7klU_u0mKYlr800MFbko5FzUg&sid=844352756c1fabba#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
