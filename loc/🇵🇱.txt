@@ -2,5 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+vless://da4747a6-be0d-4c1b-90f4-d82ec3012be2@music1000.melobitmusic1.ir:2053/?type=ws&encryption=none&flow=&host=music1000.melobitmusic1.ir&path=%2F&security=tls&sni=music1000.melobitmusic1.ir&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@144.31.5.171:753/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.nvidia.com&fp=firefox&security=reality&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://423b1d79-08c4-403f-9d5e-c541f791b55f@94.183.157.249:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=eu-central.cendora.ru&fp=chrome&security=reality&pbk=b-Cm9hX-3UHsS1L_lnUB6AMjuKhlN1IDdBbZ506itjI&sid=00bca5982f82d083#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.140:443#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@54.36.174.134:443#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1

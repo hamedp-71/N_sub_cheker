@@ -2,9 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@31.76.70.32:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=baltic.cendora.ru&fp=qq&security=reality&pbk=t_qv0VOfWhKZJV_giGC55-ipgHYWo44Yfvik_B8T8ik&sid=4a46213c935e2ee4#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@80.66.78.227:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&fp=firefox&security=reality&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&sid=b9f8f9772217538f#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@cdn-se.alohaapp.uk:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=cdn-se.alohaapp.uk&fp=chrome&security=reality&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&sid=b9f8f9772217538f#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://76f6b7fe-5de8-4637-87a0-6ddd33d67b3e@cdn-se.alohaapp.uk:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=chrome&security=reality&pbk=kRwY2AAdT6SH4FKFQb-UhnJbyddqbdluKy1xaYPatD8&sid=b9f8f9772217538f#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.82.19:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=america.cendora.ru&fp=edge&security=reality&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&sid=065cf4f1c7d83e79#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@150.241.82.19:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=america.cendora.ru&fp=firefox&security=reality&pbk=v1hVg2Uc7Wsc_bhlLfKkML_HUGogQA9O9n9uZFwzQSM&sid=065cf4f1c7d83e79#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
+vless://416475e5-9e6b-4fa6-8da8-8ab269ed3ef7@2.26.124.49:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.rumedia-cdn.com&fp=qq&security=reality&pbk=wPIraZcr8xADIe7BxQvd4W7BUYytsr6tNIplX49HXko&sid=858c88a7835dc87c#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA

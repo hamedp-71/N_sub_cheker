@@ -2,11 +2,9 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&sid=b2f4518cf979889d#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=safari&security=reality&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&sid=b2f4518cf979889d#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://309b0ce3-09a8-4883-bfe4-bd56e215be44@31.76.91.138:445/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=firefox&security=reality&pbk=JfuItzJ81sJehx1PbxyliWSJvuBMKoa9ahNgPO3R7R4&sid=c226283c4de5b1ad#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://0b772594-d6b9-4f4f-849b-8a6f92f594fe@43.165.177.82:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=qq&security=reality&pbk=ZuN9nc78h4Ccb19eb9NpTCs0jZkhJB8L0i1ZoAhu0XU&sid=b2f4518cf979889d#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://bb05f9d7-a3d1-4b81-a790-f6dba0301907@142.91.105.104:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jp.servers.gracevpnbuy.com&fp=firefox&security=reality&pbk=i00_tpIO0Oe2TV2lxm2BLm6QUzzkncyJtauMa7Rn500&sid=b91a73752053b039#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=driven-bulldog.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://AE62539071@13.192.234.223:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=intimate-koi.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-trojan://AE62539071@13.158.135.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://FH72359861@13.158.135.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+trojan://AE62539071@13.158.135.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
