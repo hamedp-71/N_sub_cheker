@@ -4,8 +4,8 @@
 
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.49:443?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.239.83.112:443?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%AD
-vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.94:443?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@3.170.185.91:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%AD
+vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.94:443?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.63:443?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@18.244.146.24:443?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%AD
 vless://7ce54bb3-d612-4aa7-be08-089d3c461d53@108.138.26.24:443?path=%2F&security=tls&encryption=none&insecure=0&fp=firefox&type=ws&allowInsecure=0&sni=d1yxsk0zprgivr.cloudfront.net#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%AD
