@@ -2,7 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=axisvpn.ru&fp=qq&security=reality&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://9aff0732-7ce4-4b34-ba20-e67c6df64fdd@185.221.163.211:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fin1.panel11.ru&fp=chrome&security=reality&pbk=lQ8pnlOU0kqS77TA7Fftl8nSzktXLzFpOLGqCZEAhjg&sid=aaec521b22bbe6cb#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://c7e9c591-2764-423a-afca-efbd010fd396@31.133.0.133:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://c7e9c591-2764-423a-afca-efbd010fd396@145.239.85.117:2053/?type=ws&encryption=none&flow=&host=forfreeuse.rtqa.ru&path=%2F&security=tls&sni=forfreeuse.rtqa.ru&fp=chrome#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
