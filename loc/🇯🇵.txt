@@ -8,3 +8,4 @@ trojan://FH72359861@13.159.22.208:443?security=tls&insecure=0&headerType=none&fp
 trojan://AE62539071@13.192.234.223:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=intimate-koi.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://AE62539071@13.158.135.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 trojan://FH72359861@13.158.135.118:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=literate-cow.rooster465.autos#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://59a0424b-d36b-4685-bac5-89d50d8969a8@104.16.100.66:8880?encryption=none&flow=&host=billowing-snowflake-f056.63-f14.workers.dev&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net&type=ws#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
