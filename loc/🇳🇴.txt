@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
-
-vless://57d437b6-d25d-4956-a297-07f066174d62@151.242.168.181:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kibi-institut.de&fp=firefox&security=reality&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&sid=46babe29a750b634#hamedvpns%3A%3A%F0%9F%87%B3%F0%9F%87%B4
-vless://b2963d78-6a98-4a9e-a20b-fa74dff5fde1@151.242.168.181:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kibi-institut.de&fp=firefox&security=reality&pbk=urD2miGxEfHylELSqqggBKCYIMSNXNTbdPijru7-eAQ&sid=46babe29a750b634#hamedvpns%3A%3A%F0%9F%87%B3%F0%9F%87%B4
