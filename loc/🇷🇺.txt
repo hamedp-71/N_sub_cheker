@@ -2,5 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://b671573f-6303-4cdf-ad50-0401d07e85bf@194.26.229.176:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@78.159.245.75:9001/?type=grpc&encryption=none&flow=&serviceName=grpc-reality&sni=api-maps.yandex.ru&fp=ios&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://936b7663-a841-4b42-b639-6e3fab1dbf45@201.24.126.156:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://84d0ff7b-9760-415f-a974-b3e1fe92264f@194.26.229.122:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://5322390f-20ee-49e4-9b38-51fc1b5a1758@45.131.212.57:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=abuse.sellflow.org#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
