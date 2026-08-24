@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+vless://08f84d53-e262-459c-a15a-26213e7a07c9@be2.wba-pn.ru:443?path=%2F&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#hamedvpns%3A%3A%F0%9F%87%A7%F0%9F%87%AA
 vless://08f84d53-e262-459c-a15a-26213e7a07c9@113.30.152.6:443?path=%2F&security=tls&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=be2.wba-pn.ru#hamedvpns%3A%3A%F0%9F%87%A7%F0%9F%87%AA
