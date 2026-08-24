@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://fbb74aa8-b89a-4f20-9504-6b25aadf6681@185.36.141.211:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=est3.freeinternat.com&fp=qq&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://d96e05a1-18bb-45da-9e9f-ab7caab6952a@132.243.65.4:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ee.cdn-global.pro&fp=firefox&security=reality&pbk=RO5YMxxtJmZo2w370qG-seJ41toowHPbz6i2uXJ2gG0&sid=7a3f9e2b1c8d4f6a#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
