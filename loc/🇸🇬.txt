@@ -2,7 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&fp=firefox&security=reality&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://ca9cec48-bc34-4d6e-92d5-d0cd56150e51@138.2.94.44:8899/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lovelive-anime.jp&fp=ios&security=reality&pbk=-kGaCYGM_MImDMVkOsFp4yvv4dLy3FXe9gqAtf4eYF8&sid=905ae32a#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://389e0591-86d6-408f-bf24-18f611a0c94b@66.42.62.84:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=kxuW6rJkcKU88l_sgqezrcMFEy4yofrgouBoKufWASs&sid=2fadfe9a357ec21e#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@sg2-8sb.6121999.dpdns.org:19825/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&security=reality&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://a157bb84-dd84-4ad8-86b0-0656bc76e4d1@jpaws.ccwink.photos:64294/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=docs.aws.amazon.com&fp=chrome&security=reality&pbk=KmcS-yU6kDycbSojXgUYU1-fHwXmF1oBk_ke0gbGUy0&sid=7083&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
