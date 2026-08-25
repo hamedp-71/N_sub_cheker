@@ -3,5 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://14777bd9-56a5-46f6-a94f-826b4800dc05@185.50.203.1:9892/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&fp=qq&security=reality&pbk=bnRIb3Er1i-K6NGGByCO9UbGfOvu43ZoiK7ulPd1SzU&sid=aa#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://a88e2744-3555-4a0a-9635-0aae23e038f8@45.134.38.204:8064/?type=tcp&encryption=none&flow=&sni=www.amd.com&fp=chrome&security=reality&pbk=hjJ1VN2xwcl1n7vrwvOspB2NFWrXNySUNPexutOVvAM&sid=d3aea86e1949#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
