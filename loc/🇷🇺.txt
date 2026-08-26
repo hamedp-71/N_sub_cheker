@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+vless://099f0859-cb81-4a57-b6d8-2c8e18030627@5.42.106.111:2200/?type=ws&encryption=none&flow=&host=rzd.ru&path=%2Fv1#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
 vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001/?type=grpc&encryption=none&flow=&serviceName=grpc-reality&sni=api-maps.yandex.ru&fp=ios&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
