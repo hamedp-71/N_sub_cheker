@@ -3,6 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@83.168.111.66:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=QdGXMBWibJZdfDmDk3YcCMxNPd0yd_CkHAOt2yDYJCE&sid=97ac193c0962477c#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@83.168.108.135:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pol5.helper-internet.com&fp=firefox&security=reality&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://a4ccca8a-dd5a-4935-80ea-53feafe195c9@pol5.helper-internet.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pol5.helper-internet.com&fp=firefox&security=reality&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
