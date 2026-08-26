@@ -2,9 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@195.72.166.44:46142/?type=tcp&encryption=none&flow=&sni=www.yahoo.com&fp=chrome&security=reality&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&sid=39feeba3085c#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443/?type=tcp&encryption=none&flow=&security=tls&sni=186.190.211.188&allowInsecure=1&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://255386a8-aec5-4425-bfe7-ca49b7448deb@birmengham.surup.shop:46142/?type=tcp&encryption=none&flow=&sni=www.yahoo.com&fp=edge&security=reality&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&sid=39feeba3085c#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443/?type=ws&encryption=none&flow=&host=129.121.95.159&path=%2Fconnect&security=tls&sni=129.121.95.159&fp=firefox#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiJub2RlLXVrLmNvbm5lY3RzdWl0ZS5vcmciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNzJmMmNiZTQtMjg3NC00NWI3LWI2YWEtYjkzMDc3YzEwYzcyIiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBjcyI6IiIsInBvcnQiOiIyMDUzIiwicHMiOiJoYW1lZHZwbnM6OvCfh6zwn4enIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
