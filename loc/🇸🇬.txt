@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://399c4c9b-27e1-37f1-9dce-22ccc2727a86@nian.001.url111.kcloud02.top:15006/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.adobe.com&fp=chrome&security=reality&pbk=g9KZONtwSL8mL772rps2nXVAuQpsgHY33K_pHpI89Rg&sid=029a6cc4#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096/?type=ws&encryption=none&flow=&host=shalana.xyz&path=%2Fshalana&security=tls&sni=shalana.xyz#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
