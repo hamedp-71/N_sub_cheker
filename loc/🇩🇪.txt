@@ -2,12 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://da6ece67-aff5-4f94-94f3-08e87ca8cd51@199.232.78.159:443/?type=ws&encryption=none&flow=&host=7wwwspeedtestnet.global.ssl.fastly.net&path=%2F&security=tls&sni=ssl.fastly.com#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096/?type=ws&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@162.19.228.119:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@188.114.97.6:80?path=%2Fhttp&security=&encryption=none&host=de.vpnbase.net&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=chrome&type=xhttp&sni=ya.ru&sid=72cd47c079c0a3df#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
