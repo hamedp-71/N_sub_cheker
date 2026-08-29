@@ -1,8 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
-
-vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.208:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=w-mebel.pro&fp=chrome&security=reality&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&sid=c603efb3ddaf633d#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.211:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=w-mebel.pro&fp=firefox&security=reality&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&sid=c603efb3ddaf633d#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.172.160:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=w-mebel.pro&fp=firefox&security=reality&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&sid=c603efb3ddaf633d#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%BF
-vless://88f9c3c2-b3dc-44aa-9490-8e9bc8133535@141.133.175.92:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=w-mebel.pro&fp=firefox&security=reality&pbk=R7NfFaabgh-0a2KR0Bfmn3a-O6mDT550OgXUDygDKBs&sid=c603efb3ddaf633d#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%BF

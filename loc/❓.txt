@@ -2,13 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://363c62f2-3f2e-4b20-87eb-78765a67df25@151.101.56.7:443/?type=ws&encryption=none&flow=&host=pane2.global.ssl.fastly.net&path=%2FTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%2CTELEGRAM_NUFiLTER%3Fed%3D2053&security=tls&sni=ssl.fastly.com&allowInsecure=1#hamedvpns%3A%3A%E2%9D%93
-vless://2d96d4d6-a276-4ab5-9f20-8dc5cbf6e902@72.35.246.31:1244/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=axisvpn.ru&fp=chrome&security=reality&pbk=gHG_cbbi-OJKY2tBQTqz1QryfmmRZEQ7BQgymimukkQ&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%E2%9D%93
-vless://423b1d79-08c4-403f-9d5e-c541f791b55f@88.218.94.6:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=nordic.cendora.ru&fp=firefox&security=reality&pbk=YQTixaXzPVImuRc4TUbrFAekjIiaYV-t5S-HTKlH0AU&sid=2186a755ed67b034#hamedvpns%3A%3A%E2%9D%93
-vless://7b2ce6b0-6d2b-4926-b7bf-6247eb1a0050@188.225.47.234:4100/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%E2%9D%93
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@mfa.gov.ua:2087?path=%2F&security=tls&encryption=none&insecure=0&host=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=fx3l5i2wdfxln0.fx6hsv0.ccwu.cc#hamedvpns%3A%3A%E2%9D%93
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068?path=%2F&security=&encryption=none&type=ws#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#hamedvpns%3A%3A%E2%9D%93
-vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwb3J0Ijo4NDQzLCJwcyI6ImhhbWVkdnBuczo64p2TIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoidjJyYXkxLmRvemFwcC54eXoifQ
-ss://YWVzLTI1Ni1nY206ZDFmYTJmNGI5OGEzOGJjOA==@194.87.47.204:10901#hamedvpns%3A%3A%E2%9D%93
+vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwicG9ydCI6NDMwNjMsImlkIjoiYzc3ZjQ4ZjUtNGJlMy00NDYxLWI1MmItNDk5OThlN2I4OTdiIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiI0Ny4yNTAuNDUuMjM0IiwicGF0aCI6Ii9hcmtpIn0
+vmess://eyJhZGQiOiI0Ny4yNTAuNDUuMjM0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjgwMDM5YjRkLWJhYzAtNGY4OS04MmM3LTU0ZmFkM2IwYTFlYSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiODYxMyIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIn0
