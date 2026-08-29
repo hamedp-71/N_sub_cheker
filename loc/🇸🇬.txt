@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://a62a4c64-2270-4d41-828b-2591906c48ba@104.21.23.72:8880?encryption=none&flow=&host=sweet-disk-a026.253-54b.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&type=ws#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
