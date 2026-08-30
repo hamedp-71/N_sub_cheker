@@ -1,0 +1,9 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://e77f740b-609e-41e0-86e7-14881c1185ea@54.169.168.70:12346/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=firefox&security=reality&pbk=8CbVZ66WQw2bBVlxbQuCZu9WmbFcxzY6nNSz1JcQZkE&sid=a739eb7afcffa605#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://0a6c8184-d202-41b2-acdb-1a95df2f74d3@47.129.144.8:39742/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=x3V96vwq7lqcF47qYpDMgnxoAbERJp8Z_fna48bxYnM&sid=90652b9b58bee5#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@104.21.70.21:8080/?type=ws&encryption=none&flow=&host=sgdo1.cassanova.biz.id&path=%2Fvless#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://d318cdac-0033-4b6e-98bf-35116e79c93f@54.251.224.5:26017/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=cy4ePzAdSz4pqRmAXXchMIgSoSKo8qjq2qLk5805LRA&sid=af1c2e33b0c7dad7#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@188.114.97.6:8080/?type=ws&encryption=none&flow=&host=sgdo1.cassanova.biz.id&path=%2Fvless#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
