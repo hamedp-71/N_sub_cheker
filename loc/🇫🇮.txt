@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+hy2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443/?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://b72fbee7-5ca7-4fb6-9d91-e92d803149dd@31.77.202.252:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=MQYuCxmU1rN6IvUr7NWirfQB6-TM3KUUJvs-4AssHg4&sid=3b2921eebc134aa6#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://2f6e2b17-4d5e-4a12-8979-f53fdd347580@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5c8a8e6c615b&sni=www.mozilla.org#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://2ba7f500-017b-4891-87a0-e4e62a4ad52d@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=9409f73c2fd7&sni=www.microsoft.com#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
