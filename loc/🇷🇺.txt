@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+hy2://cd74c0a406664a5bc0bac098220a2468@ru1.sferavpn.pro:443/?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
