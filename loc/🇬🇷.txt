@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083/?type=grpc&encryption=none&flow=&serviceName=security.debian.org&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%B7
