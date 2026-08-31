@@ -3,4 +3,3 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://85dd8227-0f12-4826-a712-6313211774b5@43.217.16.8:21874/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=75sTDYJk8ylA97-aBhAlF1tU4OaCfdOaOSIBshPW7Bs&sid=42e853a5559e1032&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B2%F0%9F%87%BE
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWR2cG5zOjrwn4ey8J+HviIsImFkZCI6IjQ3LjI1MC40NS4yMzQiLCJwb3J0IjoiNDMwNjMiLCJpZCI6ImM3N2Y0OGY1LTRiZTMtNDQ2MS1iNTJiLTQ5OTk4ZTdiODk3YiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2kifQ
