@@ -2,8 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+vless://a205aa45-9314-43c6-ab0f-8718c573ee78@54.254.241.82:53836/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=firefox&security=reality&pbk=zKRmiqB6phUSq8EO4PIujKNHeNZP3JVWLwCKX8iKgVA&sid=89dd6fba1e43&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://d318cdac-0033-4b6e-98bf-35116e79c93f@54.251.224.5:26017/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=cy4ePzAdSz4pqRmAXXchMIgSoSKo8qjq2qLk5805LRA&sid=af1c2e33b0c7dad7&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://30523c7b-67f7-4456-b71b-07530b6c350e@5.34.176.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=8G3UWe1qa0Gzv5IRBOkZ4Fg7Fey-sNdUwg_llufDRGI&sid=ffc177eeffe88a84&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@104.21.70.21:8080/?type=ws&encryption=none&flow=&host=sgdo1.cassanova.biz.id&path=%2Fvless&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://30523c7b-67f7-4456-b71b-07530b6c350e@5.34.176.233:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=8G3UWe1qa0Gzv5IRBOkZ4Fg7Fey-sNdUwg_llufDRGI&sid=ffc177eeffe88a84&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@104.21.70.21:8080/?type=ws&encryption=none&flow=&host=sgdo1.cassanova.biz.id&path=%2Fvless&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://3b733177-14f5-49d5-91e6-4dce73c038e3@47.131.211.4:33164/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=Faf18bd52wn8u9_ZGjBvfW4hkzcMhhfZhc1giF8R4G8&sid=83905567c94f6679&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://c6c1760f-f6af-4a54-8600-cf9c9971f7d8@188.114.97.6:8080/?type=ws&encryption=none&flow=&host=sgdo1.cassanova.biz.id&path=%2Fvless&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
