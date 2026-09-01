@@ -4,7 +4,6 @@
 
 vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443/?type=ws&encryption=none&flow=&host=129.121.95.159&path=%2Fconnect&security=tls&sni=129.121.95.159&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=foodnetwork.com&fp=chrome&security=reality&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&sid=1e977d0b52eab755&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@ldsub.dwz.ccwu.cc:8881/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=addons.mozilla.org&fp=chrome&security=reality&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&sid=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vmess://eyJhZGQiOiI2Ni4xNjMuMTE3LjU4IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwY3MiOiIiLCJwb3J0IjoiMjIzMjQiLCJwcyI6ImhhbWVkdnBuczo68J+HrPCfh6ciLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWR2cG5zOjrwn4es8J+HpyJ9
+vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=google.com&packetEncoding=xudp&encryption=none#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
