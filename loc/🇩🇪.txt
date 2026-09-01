@@ -2,33 +2,26 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+hy2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hy2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443/?sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 hy2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443/?insecure=1&sni=de1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-hy2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@hy2-new.aspidnet.xyz:443/?sni=hy2-new.aspidnet.xyz&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://b6c29ae7-4748-4049-b642-b695c0d2c776@193.58.121.95:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.ru&fp=chrome&security=reality&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&sid=a6bbc4aecf5d961f&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://20bcb7a8-c51b-4771-9686-6b4509dc9cd2@159.69.28.178:20995/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=itunes.apple.com&fp=chrome&security=reality&pbk=GqIZ3PiZBcvHMfXhk7BDZMWhF2Q4FrGVW9sgkllXkA4&sid=6ba85179e30d4fc2&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://d5530551-5e9a-4ac5-8539-cee87e38d9e2@2.27.43.112:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=auto.quattro-tech.ru&fp=qq&security=reality&pbk=PNofg-BBceWRX1YMelo9Xy5dFnh_vY8J0c54llXfDSk&sid=31e056654ec129aa&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@185.140.12.160:2096/?type=ws&encryption=none&flow=&path=%2F#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://56ba5d34-ef22-4ba6-8090-4188b807df54@163.8.195.241:2087/?type=ws&encryption=none&flow=&path=%2F29c8fed7ca22&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.10:2087/?type=ws&encryption=none&flow=&path=%2F3bfc3e3ed603&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@derman.neobo-tooth.ru:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.ru&fp=qq&security=reality&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&sid=a6bbc4aecf5d961f&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@193.160.32.36:2053/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=chrome&security=reality&pbk=Sh2F8IDDBaFvXPI59IwN-25UR1G0fjXNmuVqwNbTpUk&sid=c87bfa39a28a95b9&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://90715c6b-6c65-4466-a50c-234660f1f531@82.24.203.70:2087/?type=ws&encryption=none&flow=&path=%2Fd51f7fbe4da2&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083/?type=grpc&encryption=none&flow=&serviceName=chat.deepseek.com&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083/?type=grpc&encryption=none&flow=&serviceName=chat.deepseek.com&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://5fcdc9b7-e70f-4a5c-85c3-e018ad818326@82.24.203.20:2087/?type=ws&encryption=none&flow=&path=%2Ffd5ba98a3970&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.15:2083/?type=grpc&encryption=none&flow=&serviceName=chat.deepseek.com&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://90715c6b-6c65-4466-a50c-234660f1f531@82.24.203.70:2087/?type=ws&encryption=none&flow=&path=%2Fd51f7fbe4da2&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://44573770-963a-41f5-a080-3cc11e4957a2@82.24.203.37:2087/?type=ws&encryption=none&flow=&path=%2F5c62e3c616d8&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.9:2087/?type=ws&encryption=none&flow=&path=%2F3bfc3e3ed603&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.2:2087/?type=ws&encryption=none&flow=&path=%2F3bfc3e3ed603&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.198:2087/?type=ws&encryption=none&flow=&path=%2F8f2690e2d016&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.140:2087/?type=ws&encryption=none&flow=&path=%2F8f2690e2d016&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.224:2087/?type=ws&encryption=none&flow=&path=%2F8f2690e2d016&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.181:2087/?type=ws&encryption=none&flow=&path=%2F8f2690e2d016&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.245:2087/?type=ws&encryption=none&flow=&path=%2F8f2690e2d016&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.161:2087/?type=ws&encryption=none&flow=&path=%2F8f2690e2d016&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplUXZLa3lrQkViQ2t5NXA0QlZnaE8w@144.31.168.176:45640#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://90da514d-8888-4a53-912e-ac2981c8c6ee@188.220.67.181:2087/?type=ws&encryption=none&flow=&path=%2F8f2690e2d016&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://d49e6f64-2a62-4fc6-8dde-9ab1bdf12c02@194.5.65.36:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=v_s3GW5_7jvB081tdUeyoDUUTq6fZwqKbVS7CdvLFA0&fp=chrome&type=xhttp&sni=ya.ru&sid=72cd47c079c0a3df#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
