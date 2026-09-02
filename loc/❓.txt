@@ -2,6 +2,10 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+vless://70e20b2e-3b1f-4c25-9a3d-9240570391bb@45.144.28.39:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.ru&fp=edge&security=reality&pbk=dRLd_E_GYCkCcwxLN5EcRQYsREKqisb26_ZSehxUpWY&sid=1eb8ea8dae937ae0&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
+vless://255386a8-aec5-4425-bfe7-ca49b7448deb@5.255.126.104:46142/?type=tcp&encryption=none&flow=&sni=www.yahoo.com&fp=chrome&security=reality&pbk=l-OE7EwER1Z_jAifGE_UZ3FqHDMGzaR0jQHFYj5RNAk&sid=39feeba3085c&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
+vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=foodnetwork.com&fp=chrome&security=reality&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&sid=1e977d0b52eab755&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
 vless://1cb011db-0211-4120-8984-13d8510a612b@77.222.53.218:2200/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%E2%9D%93
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@www.speedtest.net:443?path=/CmtD3y72juVnvSxU?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#hamedvpns%3A%3A%E2%9D%93
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#hamedvpns%3A%3A%E2%9D%93
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
