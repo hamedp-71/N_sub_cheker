@@ -2,11 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://b6c29ae7-4748-4049-b642-b695c0d2c776@193.58.121.95:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vk.ru&fp=chrome&security=reality&pbk=6RshLCSAs31qGRa_tWi63KClbh2Kzj9ooXpdaPJKbjs&sid=a6bbc4aecf5d961f&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://bae47c97-9bc1-48f6-a133-a383ee71c12e@95.154.196.63:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=foodnetwork.com&fp=chrome&security=reality&pbk=o3OWFYnKad6q2C-eo6-rA74OCbjQoZfaUFYZsNqJJz0&sid=1e977d0b52eab755&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001/?type=grpc&encryption=none&flow=&serviceName=grpc-reality&sni=api-maps.yandex.ru&fp=ios&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001/?type=grpc&encryption=none&flow=&serviceName=grpc-reality&sni=api-maps.yandex.ru&fp=qq&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.150:9001/?type=grpc&encryption=none&flow=&serviceName=grpc-reality&sni=api-maps.yandex.ru&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001/?type=grpc&encryption=none&flow=&serviceName=grpc-reality&sni=api-maps.yandex.ru&fp=random&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://2c634977-584e-4e1f-b501-1b70c77a6743@185.141.227.153:9001/?type=grpc&encryption=none&flow=&serviceName=grpc-reality&sni=api-maps.yandex.ru&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://4b9063e0-3288-44e9-9aac-80fbfce323a0@83.222.23.81:38065/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=dSSDPTK6AHfAdRAXD9i4rzqcNIY65RxlF25UyCKdiyo&sid=fa#hamedvpns%3A%3A%E2%9D%93
+vless://1cb011db-0211-4120-8984-13d8510a612b@77.222.53.218:2200/?type=ws&encryption=none&flow=&path=%2Fv1#hamedvpns%3A%3A%E2%9D%93
+vless://ba49d874-fe02-465d-82d3-ed981dc7694f@www.speedtest.net:443?path=/CmtD3y72juVnvSxU?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=O94yv7LIF0-AnXisD9EFEhVVS7mxN6Bh.Z-UlE-iKA-D-E-ne-k-e.wORkers.dEv#hamedvpns%3A%3A%E2%9D%93
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#hamedvpns%3A%3A%E2%9D%93
