@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&sid=150a627d15154cf2&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://e459d26c-0957-4695-b1ac-0719e8df64f6@82.118.20.109:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=U1X__Tg779LinTpcP65AVLHtxAGPSKzr04K1Fq_mDy8&sid=146c918c71da5d81&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&allowInsecure=1&fp=chrome&security=reality&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&sid=150a627d15154cf2&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://d7d724b5-17ce-4f3c-877d-dfbf0f07afa1@150.251.113.34:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=8yMLSTbkpJFfbgTjNzotzz7U8OT6AERrclgKdKrXXW8&sid=150a627d15154cf2#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
