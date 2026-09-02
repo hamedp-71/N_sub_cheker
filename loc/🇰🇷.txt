@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://83973343-90db-423d-a5f7-2e3b56aeb8f4@43.202.46.25:28482/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=firefox&security=reality&pbk=8fsYG_Pg35aeg1E5Gc3HUaXou2OUQee4ukxVk99iR0s&sid=fa1e592603c283&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
 vless://84da6391-1539-4583-a3d9-d6efd796b4d6@130.94.29.111:2087/?type=ws&encryption=none&flow=&path=%2Fe17586a75123&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://e974d4c7-2376-4b65-aa40-0680961ff5e4@www.gov.ua:8880?encryption=none&flow=&host=icy-unit-58dc.157-59c.workers.dev&path=%2Fpyip%3Dproxyip.kr.cmliussss.net&type=ws#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7

@@ -4,4 +4,3 @@
 
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=ads.x5.ru&fp=chrome&security=reality&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&sid=c226283c4de5b1ad&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=ads.x5.ru&fp=qq&security=reality&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&sid=c226283c4de5b1ad&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://d9c01a13-cb60-4c48-9fbc-ba1d3a8b5bfb@little-silence-1ee8.449.workers.dev:8880/?type=ws&encryption=none&flow=&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
