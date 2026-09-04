@@ -2,6 +2,7 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@45.130.125.209:80/?type=ws&encryption=none&flow=&host=de.vpnbase.net&path=%2Fhttp#hamedvpns%3A%3A%E2%9D%93
-vless://ba49d874-fe02-465d-82d3-ed981dc7694f@188.114.97.7:443?path=/7J5lLqtBnJg9WjVT?ed=2560&security=tls&encryption=none&alpn=http/1.1&host=o94yv7lif0-anxisd9efehvvs7mxn6bh.z-ule-ika-d-e-ne-k-e.workers.dev&fp=chrome&type=ws&sni=o94Yv7LIF0-aNXISd9eFehvvS7mxn6bH.Z-ULe-iKa-d-e-ne-K-e.wORkeRs.Dev#hamedvpns%3A%3A%E2%9D%93
+vless://252f7811-d86f-4dc2-97e0-83d3172ef4b8@185.189.47.107:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=edge-se.mystatic-cdn.ru&fp=firefox&security=reality&pbk=4HizFUAIvYp3wzM4p1_VcbhLWsRVHzG53XZG4f7oWiY&sid=b21f41e79ecbac55#hamedvpns%3A%3A%E2%9D%93
+vless://714e1212-6707-471e-9f40-2fbd3d8d3b4b@201.24.49.233:4100/?type=ws&encryption=none&flow=&host=live.ok.ru&path=%2Fv1#hamedvpns%3A%3A%E2%9D%93
 vless://dc8eccdb-ecfa-435f-9ac1-5dc4882e7b51@de.vpnbase.net:80?type=ws&path=%2Fhttp&host=de.vpnbase.net#hamedvpns%3A%3A%E2%9D%93
+vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwb3J0Ijo4NDQzLCJwcyI6ImhhbWVkdnBuczo64p2TIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoidjJyYXkxLmRvemFwcC54eXoifQ
