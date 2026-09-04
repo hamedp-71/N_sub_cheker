@@ -2,5 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@lit9.helper-internet.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&fp=chrome&security=reality&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%B9
-vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&fp=chrome&security=reality&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://c6037cf7-d931-4027-af06-6bfb0f10684c@5.199.171.91:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv81.jarvesitw.ru&fp=firefox&security=reality&pbk=m2b2LJrFWLTiy__FrxqnRKtnCK9g_eZPAz0Qnjdzbh4&sid=784aedb3#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%B9
+vless://ae8e0f7d-b661-41ca-b55d-d8c383adb2f8@88.119.176.24:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=lit9.helper-internet.com&allowInsecure=1&fp=chrome&security=reality&pbk=W-zf_ncm9sYALF5EqvUsxqTkYGdAw-tQczT2SqwVMGE&sid=ff776ff77be48b88#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%B9
