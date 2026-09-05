@@ -3,16 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://676e31b1-da5a-49ae-86d5-803031549189@194.110.207.59:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=kibi-institut.de&fp=firefox&security=reality&pbk=mWzXDVWUhjGcuizZHA-rEnRpxv2wgeSZUIuHmQdteiA&sid=f576da5e05a1d4d2#hamedvpns%3A%3A%E2%9D%93
-vless://9fc6444b-987a-41d5-9bf5-195d147e0a05@206.251.54.34:55596/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=QQUHUyF5Wb3XeRRrky-WOaRTxBtHokNaMec02HURWSI&sid=6ac09686189038#hamedvpns%3A%3A%E2%9D%93
-vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@2.27.132.119:8881/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=addons.mozilla.org&fp=firefox&security=reality&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&sid=#hamedvpns%3A%3A%E2%9D%93
-vless://9f0285ee-20ca-4953-bcdb-86a920652923@204.216.216.23:10086/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%E2%9D%93
-vless://9f73cf9a-c68f-4e6d-90f0-e66b64f52f8a@192.145.31.5:443/?type=ws&encryption=none&flow=#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@104.18.9.83:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#hamedvpns%3A%3A%E2%9D%93
-vless://d51ed55c-d6dd-400b-aaf6-017c33969bfe@47.89.186.170:55861?security=reality&encryption=none&pbk=t2ndf6SeVxinFCo5bcemnW_ZZhAtmHWiAkllks5qPWs&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=7551ed1b#hamedvpns%3A%3A%E2%9D%93
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&type=ws#hamedvpns%3A%3A%E2%9D%93
-vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?security=none&allowInsecure=1&fp=chrome&type=ws&path=/vless/&host=google.com&packetEncoding=xudp&encryption=none#hamedvpns%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOjAsImhvc3QiOiIiLCJpZCI6IjYwNDQxNTQ4LWI2OGUtNDNiMi04MTkxLWUzYjg4NGJlNGIzYyIsIm5ldCI6IndzIiwicGF0aCI6Ii9sTW5zWlVONC8iLCJwb3J0Ijo4NDQzLCJwcyI6ImhhbWVkdnBuczo64p2TIiwidGxzIjoidGxzIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5IjpmYWxzZSwic25pIjoidjJyYXkxLmRvemFwcC54eXoifQ
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#hamedvpns%3A%3A%E2%9D%93
