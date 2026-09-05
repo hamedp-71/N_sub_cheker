@@ -4,4 +4,5 @@
 
 vless://8a51f3d9-30cc-44e6-8d31-700211a29066@130.94.115.231:2087/?type=ws&encryption=none&flow=&path=%2F721740e567c7&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&encryption=none&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=0e#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
