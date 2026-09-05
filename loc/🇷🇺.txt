@@ -3,3 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 hy2://cd74c0a406664a5bc0bac098220a2468@ru1.sferavpn.pro:443/?sni=ru1.sferavpn.pro&obfs=salamander&obfs-password=44f1c1e2f8b99e792ceed574627a1eb0#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
+vless://d7430ae7-320c-4658-808b-3006d0627d82@217.199.254.215:443/?type=grpc&encryption=none&flow=&serviceName=gun&sni=kaos.ubuntuhosting.host&fp=firefox&security=reality&pbk=HHbMyxLRgywVoS_G5d35HW0bToENF0ihXHJ20iLAYRM&sid=b6549e#hamedvpns%3A%3A%F0%9F%87%B7%F0%9F%87%BA
