@@ -3,7 +3,6 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 hy2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443/?sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
-vless://1c332eae-7e02-4acd-996d-4eb3e652401c@144.31.50.236:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=randomized&security=reality&pbk=uitO4Z8t9TplwwYaqwLqh5rfxDh_X8bOBiNuPbzvaEM&sid=bbe46bd8f6b96839#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://1896c6c9-a941-4688-a865-29027bf7f8e6@107.181.151.39:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.microsoft.com&fp=chrome&security=reality&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=6c825bc79850&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://d7430ae7-320c-4658-808b-3006d0627d82@185.246.191.243:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=endeavouros.ubuntuhosting.host&security=reality&pbk=n_-rh8EC8zmzkuu2AmCnKoh09omlYONdgS_F7CStITk&sid=3fa234ea9feaa048#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
 vless://d7430ae7-320c-4658-808b-3006d0627d82@185.246.191.243:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=endeavouros.ubuntuhosting.host&fp=firefox&security=reality&pbk=n_-rh8EC8zmzkuu2AmCnKoh09omlYONdgS_F7CStITk&sid=3fa234ea9feaa048#hamedvpns%3A%3A%F0%9F%87%AB%F0%9F%87%AE
