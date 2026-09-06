@@ -2,12 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@185.189.45.247:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv14.betust.net&fp=firefox&security=reality&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&sid=ab9d5f3c#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@84.32.154.51:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv11.jarvesitw.ru&fp=firefox&security=reality&pbk=tTXroX_MhV9m5MsLiAEncsC4u9VoV4fiHC01reGCv0k&sid=7c9d968a#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv14.betust.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv14.betust.net&fp=firefox&security=reality&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&sid=ab9d5f3c#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=www.google.com&fp=firefox&security=reality&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&sid=#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://5d8cf280-e0f4-4539-b35c-7ff90659c0d0@sv7.jarvesitw.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv7.jarvesitw.ru&fp=firefox&security=reality&pbk=nyu9UP88g1wA3VirgZBRk7ND4fsONW38yIqUSJf3GEk&sid=4de8a374#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv14.betust.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv14.betust.net&fp=chrome&security=reality&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&sid=ab9d5f3c#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@185.189.45.247:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv14.betust.net&fp=chrome&security=reality&pbk=4IoUUt2YZPsn8Y1JqOqV9LnQK0vNlY9AeV4m-83e2SE&sid=ab9d5f3c#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@185.189.45.76:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv7.jarvesitw.ru&fp=firefox&security=reality&pbk=nyu9UP88g1wA3VirgZBRk7ND4fsONW38yIqUSJf3GEk&sid=4de8a374#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
-vless://c6037cf7-d931-4027-af06-6bfb0f10684c@sv7.jarvesitw.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apiv7.jarvesitw.ru&fp=firefox&security=reality&pbk=nyu9UP88g1wA3VirgZBRk7ND4fsONW38yIqUSJf3GEk&sid=4de8a374#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA

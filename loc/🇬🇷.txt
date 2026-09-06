@@ -3,5 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083/?type=grpc&encryption=none&flow=&serviceName=security.debian.org&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@gr.freeinternat.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gr.freeinternat.com&fp=chrome&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%B7
-vless://dabb9a19-03ab-4cdf-8963-d3c45eb0f80d@85.90.197.91:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gr.freeinternat.com&fp=firefox&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%B7
+vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083/?type=grpc&encryption=none&flow=&serviceName=security.debian.org#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%B7

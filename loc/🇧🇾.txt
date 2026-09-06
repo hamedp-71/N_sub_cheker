@@ -1,6 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
-
-vless://91eb52ec-e3f5-4ab9-90da-43104995aef7@144.31.129.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=by1.un1.pro&fp=firefox&security=reality&pbk=y3EIsxDGDJrBGk3j4YmjI5R_8jiCsEDRDMeL4bv5TTI&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%A7%F0%9F%87%BE
-vless://91eb52ec-e3f5-4ab9-90da-43104995aef7@144.31.129.2:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=by1.un1.pro&fp=firefox&security=reality&pbk=y3EIsxDGDJrBGk3j4YmjI5R_8jiCsEDRDMeL4bv5TTI&sid=6ba85179e30d4fc2&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A7%F0%9F%87%BE
