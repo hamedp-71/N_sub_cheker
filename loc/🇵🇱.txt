@@ -5,6 +5,5 @@
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.178:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl2-ded.moritech.net&alpn=h2&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.170:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl1-ded.moritech.net&alpn=h2&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&alpn=h2&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl5.moritech.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl5.moritech.net&alpn=h2&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://f798a2c4-c51b-409d-b349-ca8455b36796@chopin.adaspoloandco.com:8443?path=%2Fdownload.php&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=chopin.adaspoloandco.com#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
