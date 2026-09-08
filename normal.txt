@@ -26,167 +26,569 @@ hy2://cd74c0a406664a5bc0bac098220a2468@de1.sferavpn.pro:443/?insecure=1&sni=de1.
 
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#hamedvpns
 
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443/?type=tcp&encryption=none&flow=&sni=ads.x5.ru&fp=chrome&security=reality&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#hamedvpns
+port: 7890#hamedvpns
 
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@83.168.71.216:443/?type=tcp&encryption=none&flow=&sni=ads.x5.ru&alpn=http%2F1.1&fp=chrome&security=reality&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#hamedvpns
+socks-port: 7891#hamedvpns
 
-vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@2.27.132.119:8881/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=addons.mozilla.org&fp=firefox&security=reality&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&sid=#hamedvpns
+allow-lan: true#hamedvpns
 
-vless://b3a11068-1a7e-4643-85de-7c82cce46943@79.141.174.147:33743/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=www.google.com&fp=firefox&security=reality&pbk=wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY&sid=#hamedvpns
+mode: Rule#hamedvpns
 
-vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=random&security=reality&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#hamedvpns
+log-level: info#hamedvpns
 
-vless://2c7f1414-87ae-4a01-9796-a02c067891a6@176.109.88.216:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&fp=chrome&security=reality&pbk=oqRus6Z_Q1jqJaTEPu7ENbRL0-XKOw54K0jwCCGLtEk&sid=a9c4f17e3b62d8#hamedvpns
+external-controller: 0.0.0.0:9090#hamedvpns
 
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443/?type=tcp&encryption=none&flow=&security=tls&sni=186.190.211.188&allowInsecure=1&packetEncoding=xudp#hamedvpns
+dns:#hamedvpns
 
-vless://9a47a8ff-8cdd-4a35-b765-fbad6d40e0a0@186.246.12.242:2053/?type=ws&encryption=none&flow=&security=tls&sni=speedtest.tinkoff.ru&allowInsecure=1&fp=chrome#hamedvpns
+enabled: true#hamedvpns
 
-vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@2.27.132.119:8881/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=addons.mozilla.org&fp=chrome&security=reality&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&sid=#hamedvpns
+ipv6: true#hamedvpns
 
-vless://9fc6444b-987a-41d5-9bf5-195d147e0a05@206.251.54.34:55596/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amd.com&fp=firefox&security=reality&pbk=QQUHUyF5Wb3XeRRrky-WOaRTxBtHokNaMec02HURWSI&sid=6ac09686189038#hamedvpns
+default-nameserver:#hamedvpns
 
-vless://6aa028bc-08a9-41d1-a397-d60ce65df081@[2407:30c0:181::6]:80/?type=ws&encryption=none&flow=&host=shalana.xyz&path=%2Fshalana#hamedvpns
+- 223.5.5.5#hamedvpns
 
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083/?type=grpc&encryption=none&flow=&serviceName=chat.deepseek.com&packetEncoding=xudp#hamedvpns
+- 1.1.1.1#hamedvpns
 
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.92:2083/?type=grpc&encryption=none&flow=&serviceName=chat.deepseek.com&packetEncoding=xudp#hamedvpns
+enhanced-mode: fake-ip#hamedvpns
 
-vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.2:2087/?type=ws&encryption=none&flow=&path=%2F3bfc3e3ed603&packetEncoding=xudp#hamedvpns
+fake-ip-range: 198.18.0.1/16#hamedvpns
 
-vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.9:2087/?type=ws&encryption=none&flow=&path=%2F3bfc3e3ed603&packetEncoding=xudp#hamedvpns
+nameserver:#hamedvpns
 
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.15:2083/?type=grpc&encryption=none&flow=&serviceName=chat.deepseek.com&packetEncoding=xudp#hamedvpns
+- https://dns.alidns.com/dns-query#hamedvpns
 
-vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=firefox&security=reality&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#hamedvpns
+- https://1.1.1.1/dns-query#hamedvpns
 
-vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083/?type=grpc&encryption=none&flow=&serviceName=security.debian.org&packetEncoding=xudp#hamedvpns
+proxies:#hamedvpns
 
-vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087/?type=ws&encryption=none&flow=&path=%2F5021201ef53f&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 1","server":"83.168.71.216","port":443,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","network":"tcp","tls":true,"servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.239.6.251:13779/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=tesla.com&fp=chrome&security=reality&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 2","server":"83.168.71.216","port":443,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","network":"tcp","tls":true,"servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://170e1be8-e51b-4a82-a779-3ad27b78607c@31.169.125.12:443/?type=ws&encryption=none&flow=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 3","server":"brightharbor.download","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","flow":"xtls-rprx-vision","reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://90715c6b-6c65-4466-a50c-234660f1f531@82.24.203.70:2087/?type=ws&encryption=none&flow=&path=%2Fd51f7fbe4da2&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 4","server":"194.34.175.218","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","flow":"xtls-rprx-vision","reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://f81d9693-3345-4027-b55d-68b3e0f80579@api.xavino-shop.ir:443/?type=raw&encryption=none&flow=&sni=amp-api-edge.apps.apple.com&fp=safari&security=reality&pbk=sCUawARn6hM1zSnIC1thltBvCnbebQoG2P2UFO5xdgo&sid=4b4850#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 5","server":"brightharbor.download","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","flow":"xtls-rprx-vision","reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.184.122:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=at3.moritech.net&alpn=h2&fp=firefox#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 6","server":"83.168.71.216","port":443,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","network":"tcp","tls":true,"servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@gr068.techinyab.ir:443/?type=tcp&encryption=none&flow=&sni=play.google.com&fp=firefox&security=reality&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 7","server":"83.168.71.216","port":443,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","network":"tcp","tls":true,"servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.37.154:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=at1.moritech.net&alpn=h2&fp=firefox#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 8","server":"eu-west-nl-1.hanvpn.biz","port":443,"uuid":"d9d0f208-d582-41d5-bb7b-742671402810","network":"tcp","tls":true,"servername":"eu-west-nl-1.hanvpn.biz","flow":"xtls-rprx-vision","reality-opts":{"public-key":"rMUjb_nmpnu5J4weFA5hiItgWT7bWnkRhSChzA_d2S0","short-id":"13a3b7681806bc97"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.82.1:443/?type=tcp&encryption=none&flow=&sni=play.google.com&allowInsecure=1&fp=firefox&security=reality&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 9","server":"200.169.182.57","port":443,"uuid":"7a97f64d-5fc7-4011-9028-58d2ba751595","network":"tcp","tls":true,"servername":"defaultenginedimly.rivetpress.me","flow":"xtls-rprx-vision","reality-opts":{"public-key":"niL0fb-4IaVHr5VCg2yN_5wDTNYEq9W8wi7pDWLPcVg","short-id":"7505bfa3b6b933e6"},"client-fingerprint":"firefox"}#hamedvpns
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.5.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=ir-viper.failspace.top&alpn=h2&fp=firefox#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 10","server":"brightharbor.download","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","flow":"xtls-rprx-vision","reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.178:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl2-ded.moritech.net&alpn=h2&fp=firefox#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 11","server":"179.61.145.72","port":2096,"uuid":"e666041f-8a25-4f05-812d-a5984e748497","network":"ws","ws-opts":{"path":"/"}}#hamedvpns
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@50.7.249.170:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl1-ded.moritech.net&alpn=h2&fp=firefox#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 12","server":"80.90.185.80","port":9892,"uuid":"5d16ac22-6eea-426f-b778-6f4c2961faef","network":"grpc","tls":true,"servername":"dl.google.com","reality-opts":{"public-key":"Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0","short-id":"aa"},"client-fingerprint":"firefox","grpc-opts":{"grpc-service-name":"grpc-tunnel"}}#hamedvpns
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&alpn=h2&fp=firefox#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 13","server":"45.91.138.67","port":2096,"uuid":"e666041f-8a25-4f05-812d-a5984e748497","network":"ws","ws-opts":{"path":"/"}}#hamedvpns
 
-vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@31.77.61.214:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jobinvest.ru&fp=firefox&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 14","server":"uae.unixzone.us","port":22573,"uuid":"39947382-3212-41c9-bc3a-589574ac8b23","network":"ws","ws-opts":{"path":"/","headers":{"Host":"uae.unixzone.us"}}}#hamedvpns
 
-vless://ef5f6054-61c7-4ce8-a35b-dbcec449f242@31.77.61.213:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jobinvest.ru&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 15","server":"130.12.102.26","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","skip-cert-verify":true,"reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://6faa980b-4a0f-4b4d-99f2-03b468da8541@38.150.33.232:12329/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=dpG1tE9V93FM9IJeYC5-n_7RJxX7jOwrWLbQJgZpFFo&sid=&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 16","server":"38.244.20.160","port":443,"uuid":"461396cc-2f0a-42cc-b224-d122ba073a2a","network":"raw","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1wd_6aAjmtQ3lIbMeNq5zs-5x_z9fL7h9rZwFjBPaG8","short-id":"041cf34629de8469"},"client-fingerprint":"safari"}#hamedvpns
 
-vless://394101ef-7a56-4407-bb85-f46f37b08ef4@38.209.125.45:443/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=tht0aIcfnLJR3pYz5ulOaV-HFR1gj6PjIKFBMPpHSAo&sid=ce4fcc97d5bf5023#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 17","server":"freshjuniper.download","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","skip-cert-verify":true,"reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9@d38422b4-tl4g00-ts3rye-mrtr.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 18","server":"38.244.20.160","port":443,"uuid":"461396cc-2f0a-42cc-b224-d122ba073a2a","network":"tcp","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1wd_6aAjmtQ3lIbMeNq5zs-5x_z9fL7h9rZwFjBPaG8","short-id":"041cf34629de8469"},"client-fingerprint":"safari"}#hamedvpns
 
-vless://460749c2-bcef-11ee-89fc-f23c913c8d2b@7c11e626-tl4g00-tubliy-1la7v.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 19","server":"38.209.125.45","port":443,"uuid":"394101ef-7a56-4407-bb85-f46f37b08ef4","network":"raw","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tht0aIcfnLJR3pYz5ulOaV-HFR1gj6PjIKFBMPpHSAo","short-id":"ce4fcc97d5bf5023"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://40639730-e027-11ea-87ad-f23c913c8d2b@afe9ba9d-tl4g00-to0mym-z93q.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 20","server":"38.209.125.45","port":443,"uuid":"394101ef-7a56-4407-bb85-f46f37b08ef4","network":"raw","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tht0aIcfnLJR3pYz5ulOaV-HFR1gj6PjIKFBMPpHSAo","short-id":"ce4fcc97d5bf5023"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://520b9126-9870-11ef-81b0-f23c9164ca5d@d1ffd3e0-tl4g00-ts9zoa-1slop.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 21","server":"130.12.102.26","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://35cbae61-ee10-4cb9-abb8-4950b35e9851@156.226.168.221:35193/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.apple.com&fp=chrome&security=reality&pbk=d_pn_DMaIxhCkNh80h0Mc7nP94hrlN--I8liOIREDxE&sid=e8daed2d#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 22","server":"38.244.20.160","port":443,"uuid":"461396cc-2f0a-42cc-b224-d122ba073a2a","network":"tcp","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1wd_6aAjmtQ3lIbMeNq5zs-5x_z9fL7h9rZwFjBPaG8","short-id":"041cf34629de8469"},"client-fingerprint":"safari"}#hamedvpns
 
-vless://e3fdbd22-8c17-11ee-ace4-f23c913c8d2b@beda7e37-tl4g00-tphxte-1h5u7.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 23","server":"fae6ca7a-tla000-tpkh0c-1r7od.hk3.hyhuawei.com","port":443,"uuid":"6d56436c-150d-11f0-b0c8-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://6aa028bc-08a9-41d1-a397-d60ce65df081@170.114.46.6:80/?type=ws&encryption=none&flow=&host=shalana.xyz&path=%2Fshalana#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 24","server":"58.153.148.126","port":443,"uuid":"28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://fcbbc0e9-bbc3-4f9b-adba-7641318f872b@ldsub.dwz.ccwu.cc:8881/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=addons.mozilla.org&fp=chrome&security=reality&pbk=pgdZI2R_VfdbedBJyFKxzSvYUa7oFbiApSTKBooSqCk&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 25","server":"c7892256-tla000-ts3rye-mrtr.hk3.hyhuawei.com","port":443,"uuid":"28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://d56624b2-35bb-468c-9b2a-e0b0df7230c1@154.31.114.248:50159/?type=raw&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=j4QXngGuJkUGwRj4XIrfHRohYYuEfnJlX4cvCE-WklA&sid=091e1c5db8451757#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 26","server":"456afbf3-tla000-tmj4pk-1kcpe.hk3.hyhuawei.com","port":443,"uuid":"3f514ea2-4662-11ed-a8bf-f23c91cfbbc9","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://f5c4664b-67ab-4d92-801d-a60984e104d4@104.105.138.244:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=rpROz1JNz8wRk2QT5o7jwE9CzJUWMvPNXoeWyS3c1WM&sid=09994e53af766acd#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 27","server":"58.153.148.126","port":443,"uuid":"5dc6fa05-a601-aba6-7761-ecde22d2b0fc","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://6aa028bc-08a9-41d1-a397-d60ce65df081@[2407:30c0:180::6]:80/?type=ws&encryption=none&flow=&host=shalana.xyz&path=%2Fshalana#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 28","server":"5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com","port":443,"uuid":"6d56436c-150d-11f0-b0c8-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://f860f2da-5035-11ed-bb74-f23c9164ca5d@e1e7c7b8-tl4g00-tnt75r-1k8ga.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 29","server":"d38422b4-tl4g00-ts3rye-mrtr.hk3.hyhuawei.com","port":443,"uuid":"28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://3085fcf8-a69c-11ec-bd7c-f23c913c8d2b@d77faecf-tl4g00-tnsc3a-1f0gu.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 30","server":"35c2bc34-tla000-tqruo0-1pqhp.hk3.hyhuawei.com","port":443,"uuid":"b02327ac-a49a-11ef-a673-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl5.moritech.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl5.moritech.net&alpn=h2&fp=firefox#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 31","server":"58.153.148.126","port":443,"uuid":"3f514ea2-4662-11ed-a8bf-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://4729b4c8-1790-11eb-8684-f23c913c8d2b@6fa50db8-tl4g00-ts40sw-14g76.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 32","server":"547c2c7e-tl4g00-tqruo0-1pqhp.hk3.hyhuawei.com","port":443,"uuid":"b02327ac-a49a-11ef-a673-f23c913c8d2b","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://ae5338ae-9a70-58c9-3d47-7d54a5675715@b1bf7334-tl4g00-tv7dx2-py5w.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 33","server":"fe1dcec0-tla000-tonrmx-8n27.hk3.hyhuawei.com","port":443,"uuid":"5dc6fa05-a601-aba6-7761-ecde22d2b0fc","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://f609abb4-ed17-11ee-9fa2-f23c9164ca5d@b83dbba5-tl4g00-txfm0f-1qxa1.hk3.hyhuawei.com:443/?type=raw&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 34","server":"7306ab60-tla000-tlvr2y-1imi4.hk3.hyhuawei.com","port":443,"uuid":"40fb1315-191a-11ed-b0ca-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://a18ef18e-293a-11ef-b76e-f23c91cfbbc9@f19ad17e-tl4g00-u1dafb-1ro8s.hk3.hyhuawei.com:443/?type=raw&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 35","server":"bdd23461-tla000-tvvhcz-tl32.hk3.hyhuawei.com","port":443,"uuid":"5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://4856478b-95a8-4417-83e4-3fd51bc6238a@70.39.196.142:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=safari&security=reality&pbk=hdZ4qUCdNtIkIfhb1KPVxxDt4rsseFxaFH093kVfRkE&sid=7efbd378&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 36","server":"5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com","port":443,"uuid":"6d56436c-150d-11f0-b0c8-f23c913c8d2b","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://48e84fcc-ecb1-48a3-a596-88fea84887f5@129.154.192.50:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.ibm.com&fp=firefox&security=reality&pbk=oBYxqt4GNTWrmvHRHM_6SAVj_yy95lXtQ0NLd1QWQDU&sid=dea6d68a3f6f96e3#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 37","server":"58.153.148.126","port":443,"uuid":"b02327ac-a49a-11ef-a673-f23c913c8d2b","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://1c20357e-be52-4e5e-8eb6-6434adcb4b71@104.167.24.227:18443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=gp1.steptofsvo.com&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 38","server":"d38422b4-tl4g00-ts3rye-mrtr.hk3.hyhuawei.com","port":443,"uuid":"28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.2:2087/?type=ws&encryption=none&flow=&path=%2F3bfc3e3ed603#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 39","server":"6d91ade4-tla000-tw2fdz-1s824.hk3.hyhuawei.com","port":443,"uuid":"6d4abac0-86e6-11ef-83cc-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@gp1.steptofsvo.com:18443/?type=grpc&encryption=none&flow=&serviceName=grpc&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 40","server":"a95a660c-tla000-tpw4i4-1pckg.hk3.hyhuawei.com","port":443,"uuid":"526a1128-7487-11ee-9bca-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://ab6a5359-0edf-41c3-8dfd-e4b005e80820@193.42.12.34:18443/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=gp2.steptofsvo.com&security=reality&pbk=QHkXBS2ENHV0khgY9VBYi8_9bpfqnUYDcfQN4cW5Qg0&sid=5c766813929a1fdd#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 41","server":"e283de09-tla000-u1vxv2-v3c2.hk3.hyhuawei.com","port":443,"uuid":"5f091cbe-fb34-11ea-9777-f23c9164ca5d","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a@tg.riotvpn.eu:443/?type=tcp&encryption=none&flow=&sni=ads.x5.ru&fp=chrome&security=reality&pbk=8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho&sid=2f49bccf11150ef2#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 42","server":"826ff98e-tla000-tuklme-ueq.hk3.hyhuawei.com","port":443,"uuid":"91df5a86-fcdd-11ef-94aa-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://3165b4d0-40f7-4df0-9f59-4c89ccdac92d@82.24.203.9:2087/?type=ws&encryption=none&flow=&path=%2F3bfc3e3ed603#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 43","server":"19a3f02e-tla000-tl6lcj-tng5.hk3.hyhuawei.com","port":443,"uuid":"2ec58858-976b-11ea-82ef-f23c9164ca5d","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.15:2083/?type=grpc&encryption=none&flow=&serviceName=chat.deepseek.com#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 44","server":"6342844e-tla000-tlpfci-1jdha.hk3.hyhuawei.com","port":443,"uuid":"de629d50-1711-11ed-bd7c-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://f2616bce-337a-4d13-8c58-1b5e71986569@82.24.203.174:2083/?type=grpc&encryption=none&flow=&serviceName=chat.deepseek.com#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 45","server":"26a9920c-tla000-tyt0e8-1mh67.hk3.hyhuawei.com","port":443,"uuid":"e1c7fbbc-96b6-11ef-8563-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://0fcbc45d-acdc-40cf-9a66-961c00f5b4a5@109.169.76.39:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=slashdot.org&fp=firefox&security=reality&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&sid=fd55b698ee8c3629#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 46","server":"619c9ae2-tla000-tls5or-6gn6.hk3.hyhuawei.com","port":443,"uuid":"c12f73f6-e8c7-11ed-9246-f23c9164ca5d","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://e6d369db-22be-4f30-8685-455c717aaa8c@157.22.133.130:2087/?type=ws&encryption=none&flow=&path=%2F5021201ef53f#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 47","server":"456afbf3-tla000-tmj4pk-1kcpe.hk3.hyhuawei.com","port":443,"uuid":"3f514ea2-4662-11ed-a8bf-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://05caca6c-9e97-4c0f-8edf-7b88a6e572c5@85.17.145.65:12068/?type=ws&encryption=none&flow=&path=%2F&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 48","server":"547c2c7e-tl4g00-tqruo0-1pqhp.hk3.hyhuawei.com","port":443,"uuid":"b02327ac-a49a-11ef-a673-f23c913c8d2b","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://0370b162-baff-4757-86cc-cce4bf07f6f1@78.111.89.171:443/?type=raw&encryption=none&flow=&sni=www.cloudflare.com&fp=chrome&security=reality&pbk=lYcMPEgf6ePmF_d8RXR5fsVorycW37v_ECl-fz_H6w4&sid=cfe08c23a85f24#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 49","server":"58.153.148.126","port":443,"uuid":"91df5a86-fcdd-11ef-94aa-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://08125d23-5500-41ae-97ef-8398eaf70562@104.21.5.128:2052/?type=ws&encryption=none&flow=&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 50","server":"ac35c80b-tla000-tpmc23-1s3lb.hk3.hyhuawei.com","port":443,"uuid":"fbf91120-50ba-11ef-a203-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://716426fa-bcb7-4eb9-b460-36399ebf740d@184.107.106.68:443/?type=tcp&encryption=none&flow=&security=tls&sni=lizca2.footballfantasyforum.com&allowInsecure=1#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 51","server":"58.153.148.126","port":443,"uuid":"6d56436c-150d-11f0-b0c8-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@104.21.83.140:443/?type=ws&encryption=none&flow=&host=0-m16.ChIAng-Mai2032.kdnS.fR&path=%2FJRr6VGcSLFc034DC6sDbwyWJLbB&security=tls&sni=0-m16.ChIANG-maI2032.kdNS.fr#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 52","server":"199.232.78.159","port":443,"uuid":"c53fb39f-1e03-4ed4-ac4b-3dbdbda870c6","network":"ws","tls":true,"servername":"ssl.fastly.com","ws-opts":{"path":"/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053","headers":{"Host":"pan1.global.ssl.fastly.net"}}}#hamedvpns
 
-vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@172.67.204.201:443/?type=ws&encryption=none&flow=&host=7-m16.CHiaN-MAi-8.KDNS.Fr&path=%2FJRr6VGcSLFc034DC6sDbwyWJLbB&security=tls&sni=7-m16.CHiaN-MAi-8.KDNs.FR&fp=chrome#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 53","server":"83.168.71.216","port":443,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","network":"tcp","tls":true,"servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://7668f678-faee-40cc-9b56-9c39dc773388@185.126.238.87:2083/?type=grpc&encryption=none&flow=&serviceName=security.debian.org#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 54","server":"51.38.82.1","port":443,"uuid":"9343f183-7a16-4bdd-9c65-b0c21feca40b","network":"tcp","tls":true,"servername":"play.google.com","reality-opts":{"public-key":"YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M","short-id":"98fa0b00d09419f7"},"client-fingerprint":"firefox"}#hamedvpns
 
-vless://6aa028bc-08a9-41d1-a397-d60ce65df081@support.zoom.us:80/?type=ws&encryption=none&flow=&host=shalana.xyz&path=%2Fshalana&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 55","server":"38.209.125.45","port":443,"uuid":"394101ef-7a56-4407-bb85-f46f37b08ef4","network":"raw","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tht0aIcfnLJR3pYz5ulOaV-HFR1gj6PjIKFBMPpHSAo","short-id":"ce4fcc97d5bf5023"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://395d040e-a04a-43d7-a1e9-8635f545879a@104.17.70.206:2096/?type=ws&encryption=none&flow=&host=shalana.xyz&path=%2Fshalana&security=tls&sni=shalana.xyz&fp=chrome&packetEncoding=xudp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 56","server":"70.39.196.142","port":443,"uuid":"4856478b-95a8-4417-83e4-3fd51bc6238a","network":"tcp","tls":true,"servername":"www.cloudflare.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"hdZ4qUCdNtIkIfhb1KPVxxDt4rsseFxaFH093kVfRkE","short-id":"7efbd378"},"client-fingerprint":"safari"}#hamedvpns
 
-vless://c72a1a13-9c39-4cf2-ab15-b44491b35861@gers3.milkabebar.ir:10694?security=reality&encryption=none&pbk=CHNEnURyZzZ1OQwb5SD2Ze8K9eIY2oggyrV5FOIsU28&headerType=none&fp=firefox&type=tcp&sni=amp-api-edge.apps.apple.com&sid=a0fbc54d937aaccb#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 57","server":"184.107.106.68","port":443,"uuid":"716426fa-bcb7-4eb9-b460-36399ebf740d","network":"tcp","tls":true,"servername":"lizca2.footballfantasyforum.com","skip-cert-verify":true}#hamedvpns
 
-vless://c72a1a13-9c39-4cf2-ab15-b44491b35861@gers3.milkabebar.ir:38479?security=&encryption=mlkem768x25519plus.native.0rtt.Or4eEsj1FJcH48RwDRjG21ZC7mbZ6wamN6k4i7viXCw&host=azki.com&headerType=http&type=tcp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 58","server":"104.21.83.140","port":443,"uuid":"ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba","network":"ws","tls":true,"servername":"0-m16.ChIANG-maI2032.kdNS.fr","ws-opts":{"path":"/JRr6VGcSLFc034DC6sDbwyWJLbB","headers":{"Host":"0-m16.ChIAng-Mai2032.kdnS.fR"}}}#hamedvpns
 
-vless://c72a1a13-9c39-4cf2-ab15-b44491b35861@lanl2.mechanicir.ir:38479?security=&encryption=mlkem768x25519plus.native.0rtt.Or4eEsj1FJcH48RwDRjG21ZC7mbZ6wamN6k4i7viXCw&host=azki.com&headerType=http&type=tcp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 59","server":"79.141.174.147","port":33743,"uuid":"b3a11068-1a7e-4643-85de-7c82cce46943","network":"grpc","tls":true,"servername":"www.google.com","reality-opts":{"public-key":"wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY","short-id":""},"client-fingerprint":"firefox","grpc-opts":{"grpc-service-name":"TunService"}}#hamedvpns
 
-vless://c72a1a13-9c39-4cf2-ab15-b44491b35861@ams1.milkabebar.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=www.vercel.com&sid=184a6838386d384e#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 60","server":"83.168.71.216","port":443,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","network":"tcp","tls":true,"servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://c72a1a13-9c39-4cf2-ab15-b44491b35861@ams1.milkabebar.ir:38479?security=&encryption=mlkem768x25519plus.native.0rtt.Or4eEsj1FJcH48RwDRjG21ZC7mbZ6wamN6k4i7viXCw&host=azki.com&headerType=http&type=tcp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 61","server":"83.168.71.216","port":443,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","network":"tcp","tls":true,"servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://c72a1a13-9c39-4cf2-ab15-b44491b35861@frs1.milkabebar.ir:8735?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=www.vercel.com&sid=545df9caf95f7cd8#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 62","server":"brightharbor.download","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","flow":"xtls-rprx-vision","reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
 
-vless://c72a1a13-9c39-4cf2-ab15-b44491b35861@frs1.milkabebar.ir:38479?security=&encryption=mlkem768x25519plus.native.0rtt.Or4eEsj1FJcH48RwDRjG21ZC7mbZ6wamN6k4i7viXCw&host=azki.com&headerType=http&type=tcp#hamedvpns
+- {"type":"vless","name":"@FREE2CONFIG - 63","server":"194.34.175.218","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","flow":"xtls-rprx-vision","reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 64","server":"brightharbor.download","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","flow":"xtls-rprx-vision","reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 65","server":"83.168.71.216","port":443,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","network":"tcp","tls":true,"servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 66","server":"83.168.71.216","port":443,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","network":"tcp","tls":true,"servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 67","server":"eu-west-nl-1.hanvpn.biz","port":443,"uuid":"d9d0f208-d582-41d5-bb7b-742671402810","network":"tcp","tls":true,"servername":"eu-west-nl-1.hanvpn.biz","flow":"xtls-rprx-vision","reality-opts":{"public-key":"rMUjb_nmpnu5J4weFA5hiItgWT7bWnkRhSChzA_d2S0","short-id":"13a3b7681806bc97"},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 68","server":"200.169.182.57","port":443,"uuid":"7a97f64d-5fc7-4011-9028-58d2ba751595","network":"tcp","tls":true,"servername":"defaultenginedimly.rivetpress.me","flow":"xtls-rprx-vision","reality-opts":{"public-key":"niL0fb-4IaVHr5VCg2yN_5wDTNYEq9W8wi7pDWLPcVg","short-id":"7505bfa3b6b933e6"},"client-fingerprint":"firefox"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 69","server":"brightharbor.download","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","flow":"xtls-rprx-vision","reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 70","server":"179.61.145.72","port":2096,"uuid":"e666041f-8a25-4f05-812d-a5984e748497","network":"ws","ws-opts":{"path":"/"}}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 71","server":"80.90.185.80","port":9892,"uuid":"5d16ac22-6eea-426f-b778-6f4c2961faef","network":"grpc","tls":true,"servername":"dl.google.com","reality-opts":{"public-key":"Dfgu8Ey0M8Hz4gXGZAwQ3H9jLt2HByVsjAOTWiuKDB0","short-id":"aa"},"client-fingerprint":"firefox","grpc-opts":{"grpc-service-name":"grpc-tunnel"}}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 72","server":"45.91.138.67","port":2096,"uuid":"e666041f-8a25-4f05-812d-a5984e748497","network":"ws","ws-opts":{"path":"/"}}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 73","server":"uae.unixzone.us","port":22573,"uuid":"39947382-3212-41c9-bc3a-589574ac8b23","network":"ws","ws-opts":{"path":"/","headers":{"Host":"uae.unixzone.us"}}}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 74","server":"130.12.102.26","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","skip-cert-verify":true,"reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 75","server":"38.244.20.160","port":443,"uuid":"461396cc-2f0a-42cc-b224-d122ba073a2a","network":"raw","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1wd_6aAjmtQ3lIbMeNq5zs-5x_z9fL7h9rZwFjBPaG8","short-id":"041cf34629de8469"},"client-fingerprint":"safari"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 76","server":"freshjuniper.download","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","skip-cert-verify":true,"reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 77","server":"38.244.20.160","port":443,"uuid":"461396cc-2f0a-42cc-b224-d122ba073a2a","network":"tcp","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1wd_6aAjmtQ3lIbMeNq5zs-5x_z9fL7h9rZwFjBPaG8","short-id":"041cf34629de8469"},"client-fingerprint":"safari"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 78","server":"38.209.125.45","port":443,"uuid":"394101ef-7a56-4407-bb85-f46f37b08ef4","network":"raw","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tht0aIcfnLJR3pYz5ulOaV-HFR1gj6PjIKFBMPpHSAo","short-id":"ce4fcc97d5bf5023"},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 79","server":"38.209.125.45","port":443,"uuid":"394101ef-7a56-4407-bb85-f46f37b08ef4","network":"raw","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tht0aIcfnLJR3pYz5ulOaV-HFR1gj6PjIKFBMPpHSAo","short-id":"ce4fcc97d5bf5023"},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 80","server":"130.12.102.26","port":443,"uuid":"6429d27e-a7d4-4e04-ae57-e88243fbbfe3","network":"tcp","tls":true,"servername":"localhost","reality-opts":{"public-key":"F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 81","server":"38.244.20.160","port":443,"uuid":"461396cc-2f0a-42cc-b224-d122ba073a2a","network":"tcp","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"1wd_6aAjmtQ3lIbMeNq5zs-5x_z9fL7h9rZwFjBPaG8","short-id":"041cf34629de8469"},"client-fingerprint":"safari"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 82","server":"fae6ca7a-tla000-tpkh0c-1r7od.hk3.hyhuawei.com","port":443,"uuid":"6d56436c-150d-11f0-b0c8-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 83","server":"58.153.148.126","port":443,"uuid":"28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 84","server":"c7892256-tla000-ts3rye-mrtr.hk3.hyhuawei.com","port":443,"uuid":"28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 85","server":"456afbf3-tla000-tmj4pk-1kcpe.hk3.hyhuawei.com","port":443,"uuid":"3f514ea2-4662-11ed-a8bf-f23c91cfbbc9","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 86","server":"58.153.148.126","port":443,"uuid":"5dc6fa05-a601-aba6-7761-ecde22d2b0fc","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 87","server":"5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com","port":443,"uuid":"6d56436c-150d-11f0-b0c8-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 88","server":"d38422b4-tl4g00-ts3rye-mrtr.hk3.hyhuawei.com","port":443,"uuid":"28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 89","server":"35c2bc34-tla000-tqruo0-1pqhp.hk3.hyhuawei.com","port":443,"uuid":"b02327ac-a49a-11ef-a673-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 90","server":"58.153.148.126","port":443,"uuid":"3f514ea2-4662-11ed-a8bf-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 91","server":"547c2c7e-tl4g00-tqruo0-1pqhp.hk3.hyhuawei.com","port":443,"uuid":"b02327ac-a49a-11ef-a673-f23c913c8d2b","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 92","server":"fe1dcec0-tla000-tonrmx-8n27.hk3.hyhuawei.com","port":443,"uuid":"5dc6fa05-a601-aba6-7761-ecde22d2b0fc","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 93","server":"7306ab60-tla000-tlvr2y-1imi4.hk3.hyhuawei.com","port":443,"uuid":"40fb1315-191a-11ed-b0ca-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 94","server":"bdd23461-tla000-tvvhcz-tl32.hk3.hyhuawei.com","port":443,"uuid":"5c02ab88-7b9c-11ea-8fc9-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 95","server":"5fca3221-tl4g00-tpkh0c-1r7od.hk3.hyhuawei.com","port":443,"uuid":"6d56436c-150d-11f0-b0c8-f23c913c8d2b","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 96","server":"58.153.148.126","port":443,"uuid":"b02327ac-a49a-11ef-a673-f23c913c8d2b","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 97","server":"d38422b4-tl4g00-ts3rye-mrtr.hk3.hyhuawei.com","port":443,"uuid":"28a8a4d0-3e02-11eb-a8bf-f23c91cfbbc9","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 98","server":"6d91ade4-tla000-tw2fdz-1s824.hk3.hyhuawei.com","port":443,"uuid":"6d4abac0-86e6-11ef-83cc-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 99","server":"a95a660c-tla000-tpw4i4-1pckg.hk3.hyhuawei.com","port":443,"uuid":"526a1128-7487-11ee-9bca-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 100","server":"e283de09-tla000-u1vxv2-v3c2.hk3.hyhuawei.com","port":443,"uuid":"5f091cbe-fb34-11ea-9777-f23c9164ca5d","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 101","server":"826ff98e-tla000-tuklme-ueq.hk3.hyhuawei.com","port":443,"uuid":"91df5a86-fcdd-11ef-94aa-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 102","server":"19a3f02e-tla000-tl6lcj-tng5.hk3.hyhuawei.com","port":443,"uuid":"2ec58858-976b-11ea-82ef-f23c9164ca5d","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 103","server":"6342844e-tla000-tlpfci-1jdha.hk3.hyhuawei.com","port":443,"uuid":"de629d50-1711-11ed-bd7c-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 104","server":"26a9920c-tla000-tyt0e8-1mh67.hk3.hyhuawei.com","port":443,"uuid":"e1c7fbbc-96b6-11ef-8563-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 105","server":"619c9ae2-tla000-tls5or-6gn6.hk3.hyhuawei.com","port":443,"uuid":"c12f73f6-e8c7-11ed-9246-f23c9164ca5d","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 106","server":"456afbf3-tla000-tmj4pk-1kcpe.hk3.hyhuawei.com","port":443,"uuid":"3f514ea2-4662-11ed-a8bf-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 107","server":"547c2c7e-tl4g00-tqruo0-1pqhp.hk3.hyhuawei.com","port":443,"uuid":"b02327ac-a49a-11ef-a673-f23c913c8d2b","network":"raw","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 108","server":"58.153.148.126","port":443,"uuid":"91df5a86-fcdd-11ef-94aa-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 109","server":"ac35c80b-tla000-tpmc23-1s3lb.hk3.hyhuawei.com","port":443,"uuid":"fbf91120-50ba-11ef-a203-f23c91cfbbc9","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 110","server":"58.153.148.126","port":443,"uuid":"6d56436c-150d-11f0-b0c8-f23c913c8d2b","network":"tcp","tls":true,"servername":"updates.cdn-apple.com","reality-opts":{"public-key":"bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4","short-id":""},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 111","server":"199.232.78.159","port":443,"uuid":"c53fb39f-1e03-4ed4-ac4b-3dbdbda870c6","network":"ws","tls":true,"servername":"ssl.fastly.com","ws-opts":{"path":"/TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER,TELEGRAM_NUFiLTER?ed=2053","headers":{"Host":"pan1.global.ssl.fastly.net"}}}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 112","server":"83.168.71.216","port":443,"uuid":"a18f7c2d-9e45-4b8a-af3c-1d5e7f9c8b2a","network":"tcp","tls":true,"servername":"ads.x5.ru","reality-opts":{"public-key":"8h8t5eBWL9oERK7xWHQLFJE5j6sZdgNDQAs3EGnNbho","short-id":"2f49bccf11150ef2"},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 113","server":"51.38.82.1","port":443,"uuid":"9343f183-7a16-4bdd-9c65-b0c21feca40b","network":"tcp","tls":true,"servername":"play.google.com","reality-opts":{"public-key":"YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M","short-id":"98fa0b00d09419f7"},"client-fingerprint":"firefox"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 114","server":"38.209.125.45","port":443,"uuid":"394101ef-7a56-4407-bb85-f46f37b08ef4","network":"raw","tls":true,"servername":"www.apple.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"tht0aIcfnLJR3pYz5ulOaV-HFR1gj6PjIKFBMPpHSAo","short-id":"ce4fcc97d5bf5023"},"client-fingerprint":"chrome"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 115","server":"70.39.196.142","port":443,"uuid":"4856478b-95a8-4417-83e4-3fd51bc6238a","network":"tcp","tls":true,"servername":"www.cloudflare.com","flow":"xtls-rprx-vision","reality-opts":{"public-key":"hdZ4qUCdNtIkIfhb1KPVxxDt4rsseFxaFH093kVfRkE","short-id":"7efbd378"},"client-fingerprint":"safari"}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 116","server":"184.107.106.68","port":443,"uuid":"716426fa-bcb7-4eb9-b460-36399ebf740d","network":"tcp","tls":true,"servername":"lizca2.footballfantasyforum.com","skip-cert-verify":true}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 117","server":"104.21.83.140","port":443,"uuid":"ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba","network":"ws","tls":true,"servername":"0-m16.ChIANG-maI2032.kdNS.fr","ws-opts":{"path":"/JRr6VGcSLFc034DC6sDbwyWJLbB","headers":{"Host":"0-m16.ChIAng-Mai2032.kdnS.fR"}}}#hamedvpns
+
+- {"type":"vless","name":"@FREE2CONFIG - 118","server":"79.141.174.147","port":33743,"uuid":"b3a11068-1a7e-4643-85de-7c82cce46943","network":"grpc","tls":true,"servername":"www.google.com","reality-opts":{"public-key":"wGMBs7bvzyzA0-OUiwSkOOTDEMdxEOsSdRzxiP8GGQY","short-id":""},"client-fingerprint":"firefox","grpc-opts":{"grpc-service-name":"TunService"}}#hamedvpns
+
+proxy-groups:#hamedvpns
+
+- name: "🔰 انتخاب پروکسی"#hamedvpns
+
+type: select#hamedvpns
+
+- "♻️ خودکار"#hamedvpns
+
+- DIRECT#hamedvpns
+
+- "@FREE2CONFIG - 1"#hamedvpns
+
+- "@FREE2CONFIG - 2"#hamedvpns
+
+- "@FREE2CONFIG - 3"#hamedvpns
+
+- "@FREE2CONFIG - 4"#hamedvpns
+
+- "@FREE2CONFIG - 5"#hamedvpns
+
+- "@FREE2CONFIG - 6"#hamedvpns
+
+- "@FREE2CONFIG - 7"#hamedvpns
+
+- "@FREE2CONFIG - 8"#hamedvpns
+
+- "@FREE2CONFIG - 9"#hamedvpns
+
+- "@FREE2CONFIG - 10"#hamedvpns
+
+- "@FREE2CONFIG - 11"#hamedvpns
+
+- "@FREE2CONFIG - 12"#hamedvpns
+
+- "@FREE2CONFIG - 13"#hamedvpns
+
+- "@FREE2CONFIG - 14"#hamedvpns
+
+- "@FREE2CONFIG - 15"#hamedvpns
+
+- "@FREE2CONFIG - 16"#hamedvpns
+
+- "@FREE2CONFIG - 17"#hamedvpns
+
+- "@FREE2CONFIG - 18"#hamedvpns
+
+- "@FREE2CONFIG - 19"#hamedvpns
+
+- "@FREE2CONFIG - 20"#hamedvpns
+
+- "@FREE2CONFIG - 21"#hamedvpns
+
+- "@FREE2CONFIG - 22"#hamedvpns
+
+- "@FREE2CONFIG - 23"#hamedvpns
+
+- "@FREE2CONFIG - 24"#hamedvpns
+
+- "@FREE2CONFIG - 25"#hamedvpns
+
+- "@FREE2CONFIG - 26"#hamedvpns
+
+- "@FREE2CONFIG - 27"#hamedvpns
+
+- "@FREE2CONFIG - 28"#hamedvpns
+
+- "@FREE2CONFIG - 29"#hamedvpns
+
+- "@FREE2CONFIG - 30"#hamedvpns
+
+- "@FREE2CONFIG - 31"#hamedvpns
+
+- "@FREE2CONFIG - 32"#hamedvpns
+
+- "@FREE2CONFIG - 33"#hamedvpns
+
+- "@FREE2CONFIG - 34"#hamedvpns
+
+- "@FREE2CONFIG - 35"#hamedvpns
+
+- "@FREE2CONFIG - 36"#hamedvpns
+
+- "@FREE2CONFIG - 37"#hamedvpns
+
+- "@FREE2CONFIG - 38"#hamedvpns
+
+- "@FREE2CONFIG - 39"#hamedvpns
+
+- "@FREE2CONFIG - 40"#hamedvpns
+
+- "@FREE2CONFIG - 41"#hamedvpns
+
+- "@FREE2CONFIG - 42"#hamedvpns
+
+- "@FREE2CONFIG - 43"#hamedvpns
+
+- "@FREE2CONFIG - 44"#hamedvpns
+
+- "@FREE2CONFIG - 45"#hamedvpns
+
+- "@FREE2CONFIG - 46"#hamedvpns
+
+- "@FREE2CONFIG - 47"#hamedvpns
+
+- "@FREE2CONFIG - 48"#hamedvpns
+
+- "@FREE2CONFIG - 49"#hamedvpns
+
+- "@FREE2CONFIG - 50"#hamedvpns
+
+- "@FREE2CONFIG - 51"#hamedvpns
+
+- "@FREE2CONFIG - 52"#hamedvpns
+
+- "@FREE2CONFIG - 53"#hamedvpns
+
+- "@FREE2CONFIG - 54"#hamedvpns
+
+- "@FREE2CONFIG - 55"#hamedvpns
+
+- "@FREE2CONFIG - 56"#hamedvpns
+
+- "@FREE2CONFIG - 57"#hamedvpns
+
+- "@FREE2CONFIG - 58"#hamedvpns
+
+- "@FREE2CONFIG - 59"#hamedvpns
+
+- "@FREE2CONFIG - 60"#hamedvpns
+
+- "@FREE2CONFIG - 61"#hamedvpns
+
+- "@FREE2CONFIG - 62"#hamedvpns
+
+- "@FREE2CONFIG - 63"#hamedvpns
+
+- "@FREE2CONFIG - 64"#hamedvpns
+
+- "@FREE2CONFIG - 65"#hamedvpns
+
+- "@FREE2CONFIG - 66"#hamedvpns
+
+- "@FREE2CONFIG - 67"#hamedvpns
+
+- "@FREE2CONFIG - 68"#hamedvpns
+
+- "@FREE2CONFIG - 69"#hamedvpns
+
+- "@FREE2CONFIG - 70"#hamedvpns
+
+- "@FREE2CONFIG - 71"#hamedvpns
+
+- "@FREE2CONFIG - 72"#hamedvpns
+
+- "@FREE2CONFIG - 73"#hamedvpns
+
+- "@FREE2CONFIG - 74"#hamedvpns
+
+- "@FREE2CONFIG - 75"#hamedvpns
+
+- "@FREE2CONFIG - 76"#hamedvpns
+
+- "@FREE2CONFIG - 77"#hamedvpns
+
+- "@FREE2CONFIG - 78"#hamedvpns
+
+- "@FREE2CONFIG - 79"#hamedvpns
+
+- "@FREE2CONFIG - 80"#hamedvpns
+
+- "@FREE2CONFIG - 81"#hamedvpns
+
+- "@FREE2CONFIG - 82"#hamedvpns
+
+- "@FREE2CONFIG - 83"#hamedvpns
+
+- "@FREE2CONFIG - 84"#hamedvpns
+
+- "@FREE2CONFIG - 85"#hamedvpns
+
+- "@FREE2CONFIG - 86"#hamedvpns
+
+- "@FREE2CONFIG - 87"#hamedvpns
+
+- "@FREE2CONFIG - 88"#hamedvpns
+
+- "@FREE2CONFIG - 89"#hamedvpns
+
+- "@FREE2CONFIG - 90"#hamedvpns
+
+- "@FREE2CONFIG - 91"#hamedvpns
+
+- "@FREE2CONFIG - 92"#hamedvpns
+
+- "@FREE2CONFIG - 93"#hamedvpns
+
+- "@FREE2CONFIG - 94"#hamedvpns
+
+- "@FREE2CONFIG - 95"#hamedvpns
+
+- "@FREE2CONFIG - 96"#hamedvpns
+
+- "@FREE2CONFIG - 97"#hamedvpns
+
+- "@FREE2CONFIG - 98"#hamedvpns
+
+- "@FREE2CONFIG - 99"#hamedvpns
+
+- "@FREE2CONFIG - 100"#hamedvpns
+
+- "@FREE2CONFIG - 101"#hamedvpns
+
+- "@FREE2CONFIG - 102"#hamedvpns
+
+- "@FREE2CONFIG - 103"#hamedvpns
+
+- "@FREE2CONFIG - 104"#hamedvpns
+
+- "@FREE2CONFIG - 105"#hamedvpns
+
+- "@FREE2CONFIG - 106"#hamedvpns
+
+- "@FREE2CONFIG - 107"#hamedvpns
+
+- "@FREE2CONFIG - 108"#hamedvpns
+
+- "@FREE2CONFIG - 109"#hamedvpns
+
+- "@FREE2CONFIG - 110"#hamedvpns
+
+- "@FREE2CONFIG - 111"#hamedvpns
+
+- "@FREE2CONFIG - 112"#hamedvpns
+
+- "@FREE2CONFIG - 113"#hamedvpns
+
+- "@FREE2CONFIG - 114"#hamedvpns
+
+- "@FREE2CONFIG - 115"#hamedvpns
+
+- "@FREE2CONFIG - 116"#hamedvpns
+
+- "@FREE2CONFIG - 117"#hamedvpns
+
+- "@FREE2CONFIG - 118"#hamedvpns
+
+- name: "♻️ خودکار"#hamedvpns
+
+type: url-test#hamedvpns
+
+url: http://www.gstatic.com/generate_204#hamedvpns
+
+interval: 300#hamedvpns
+
+tolerance: 50#hamedvpns
+
+- name: "🇮🇷 سرویس‌های ایرانی"#hamedvpns
+
+- "🔰 انتخاب پروکسی"#hamedvpns
+
+rules:#hamedvpns
+
+- DOMAIN-SUFFIX,ir,DIRECT#hamedvpns
+
+- DOMAIN-KEYWORD,sheypoor,DIRECT#hamedvpns
+
+- DOMAIN-KEYWORD,divar,DIRECT#hamedvpns
+
+- DOMAIN-SUFFIX,digikala.com,DIRECT#hamedvpns
+
+- DOMAIN-SUFFIX,aparat.com,DIRECT#hamedvpns
+
+- DOMAIN-SUFFIX,irancell.ir,DIRECT#hamedvpns
+
+- DOMAIN-SUFFIX,mci.ir,DIRECT#hamedvpns
+
+- DOMAIN-SUFFIX,shaparak.ir,DIRECT#hamedvpns
+
+- DOMAIN-SUFFIX,sep.ir,DIRECT#hamedvpns
+
+- DOMAIN-SUFFIX,bmi.ir,DIRECT#hamedvpns
+
+- DOMAIN-SUFFIX,bpm.bankmellat.ir,DIRECT#hamedvpns
+
+- DOMAIN-SUFFIX,santander.ir,DIRECT#hamedvpns
+
+- DOMAIN-KEYWORD,bank,DIRECT#hamedvpns
+
+- GEOIP,IR,DIRECT,no-resolve#hamedvpns
+
+- MATCH,🔰 انتخاب پروکسی#hamedvpns
 
 //profile-title: base64:8J+RkSBAUmF5YW5fQ29uZmlnICDwn5GR#hamedvpns
 
@@ -464,9 +866,9 @@ vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.195:23576/?type=tcp&encry
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.96:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedvpns
 
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedvpns
-
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.34:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedvpns
+
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.87:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedvpns
 
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedvpns
 
