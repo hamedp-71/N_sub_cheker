@@ -1,0 +1,7 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@130.12.102.26:443/?type=tcp&encryption=none&flow=&sni=localhost&allowInsecure=1&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@freshjuniper.download:443/?type=tcp&encryption=none&flow=&sni=localhost&allowInsecure=1&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://6429d27e-a7d4-4e04-ae57-e88243fbbfe3@130.12.102.26:443/?type=tcp&encryption=none&flow=&sni=localhost&fp=chrome&security=reality&pbk=F2VfBr2UmjDTErB_oruvW5aIvzH_xGfM2AW5_w-DF0I&sid=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
