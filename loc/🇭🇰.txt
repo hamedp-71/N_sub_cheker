@@ -3,5 +3,7 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 hy2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010/?sni=nas.aizhzo.com&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
-vless://c12f73f6-e8c7-11ed-9246-f23c9164ca5d@619c9ae2-tla000-tls5or-6gn6.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://8bb68d04-6973-11ee-b518-f23c9164ca5d@71b26306-tl4g00-tl42r3-1o8ak.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://8d0ec7cc-eefa-11ee-9b59-f23c91cfbbc9@9ed08d0c-tlheo0-tvb36r-1qwom.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://20f87b02-0eaa-11eb-8684-f23c913c8d2b@0cd6e0e6-tlheo0-tphvvu-gacy.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
 vless://fbf91120-50ba-11ef-a203-f23c91cfbbc9@ac35c80b-tla000-tpmc23-1s3lb.hk3.hyhuawei.com:443/?type=tcp&encryption=none&flow=&sni=updates.cdn-apple.com&fp=chrome&security=reality&pbk=bE6ws6dFPflj8WVJMGwtso0WOaiSmBOHM2muQO2Uul4&sid=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
