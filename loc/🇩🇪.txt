@@ -10,4 +10,3 @@ vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?path=%2F&security=&
 vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?security=&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 vless://c21631d5-36c9-4664-b575-97eca17456be@neth8.lunariai.ru:443?path=%2F&security=&encryption=none&host=neth8.lunariai.ru&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDIxMy4yMDIuMjA4LjE5OTo3MDAx#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
-vless://18535741-e8b3-4b43-9348-785b55936751@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%F0%9F%87%A9%F0%9F%87%AA
