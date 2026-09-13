@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://4350213a-b4e7-262a-0bd7-bd16957cf71a@89.47.55.9:8443/?type=grpc&encryption=none&flow=&serviceName=TunService&sni=www.sony.com&fp=chrome&security=reality&pbk=TWaatavWGcWV-E7c4AXmBXypLKJzm6eR3FGG61spayQ&sid=#hamedvpns%3A%3A%F0%9F%87%BA%F0%9F%87%A6
