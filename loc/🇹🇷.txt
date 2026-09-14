@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-trojan://Puj01Rc8UcA9IzcFcYOs8KMOhCz6aX2Q@188.114.97.3:443?host=mfyousheng.nl.eu.org&path=%2FtjwsLhx0SFASG4l9FERJ1g&security=tls&sni=mfyousheng.nl.eu.org&type=ws#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%BA
+vless://3b9e513e-30d9-4ca8-8340-8f33fc6710de@188.132.237.20:2095/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
