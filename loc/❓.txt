@@ -2,12 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443/?type=tcp&encryption=none&flow=&security=tls&sni=186.190.211.188&allowInsecure=1#hamedvpns%3A%3A%E2%9D%93
-vless://1aa96574-c28b-4ee9-855d-ebdbbf1f7e90@172.67.133.136:443/?type=ws&encryption=none&flow=&host=10-m13.1332AFdc-0737-4BB1-8Ca8-EE4f0CD20bc6.kdNS.FR&path=%2FED3ZQPu7lqyeDGD58KabZ&security=tls&sni=10-M13.1332aFDc-0737-4bb1-8cA8-Ee4f0CD20bC6.KdNs.FR&alpn=http%2F1.1#hamedvpns%3A%3A%E2%9D%93
-vless://11f21602-47aa-42e2-9149-69120f2e6df6@31.56.184.132:8443/?type=grpc&encryption=none&flow=&serviceName=shiforgrpc&sni=cloudflare.com&fp=firefox&security=reality&pbk=bzbe7QdD633ew_Er1_YWEhuCEHWurmDpxpz3fRzXr0A&sid=b4e3b0b55b8dc75b&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@194.169.54.16:8443/?type=ws&encryption=none&flow=&host=cdn8848.776676.xyz&path=%2Fpicture%3Fed%3D2560&security=tls&sni=cdn8848.776676.xyz&fp=android#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
-vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#hamedvpns%3A%3A%E2%9D%93
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#hamedvpns%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiODQ1ZTZiMDgtMjkxOS00MjkwLWFkZTAtNWRjN2RjZWE1OWNhIiwibmV0Ijoid3MiLCJwYXRoIjoiL2Fya2k/ZWQ9MjA0OCIsInBvcnQiOjQ0ODY3LCJwcyI6ImhhbWVkdnBuczo64p2TIiwidGxzIjoiIiwidHlwZSI6ImF1dG8iLCJzZWN1cml0eSI6ImF1dG8iLCJza2lwLWNlcnQtdmVyaWZ5Ijp0cnVlLCJzbmkiOiIifQ
