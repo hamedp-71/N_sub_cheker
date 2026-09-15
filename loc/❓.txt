@@ -2,4 +2,14 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0
+vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@104.21.83.140:443/?type=ws&encryption=none&flow=&host=0-m16.ChIAng-Mai2032.kdnS.fR&path=%2FJRr6VGcSLFc034DC6sDbwyWJLbB&security=tls&sni=0-m16.ChIANG-maI2032.kdNS.fr#hamedvpns%3A%3A%E2%9D%93
+vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443/?type=tcp&encryption=none&flow=&sni=play.google.com&allowInsecure=1&fp=firefox&security=reality&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&sid=98fa0b00d09419f7#hamedvpns%3A%3A%E2%9D%93
+vless://e90ba91f-8dd5-4133-9919-39dab9baf3ac@xray1-direct-mci1-fs-ce.freesocks.work:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=dl.google.com&fp=chrome&security=reality&pbk=7j3hmlHrEDk3Kjx-dFG3E3jf0c6PZF45trIPFsuKWmI&sid=#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
+vless://9343f183-7a16-4bdd-9c65-b0c21feca40b@51.38.70.192:443?security=reality&encryption=none&pbk=YRKpNLfduSsOl3l-CCUkhZDEjvcKytnuELqnWjLZI1M&headerType=none&fp=random&type=tcp&sni=play.google.com&sid=98fa0b00d09419f7#hamedvpns%3A%3A%E2%9D%93
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#hamedvpns%3A%3A%E2%9D%93
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
+vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@www.calmlunch.com:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&type=ws#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&type=ws#hamedvpns%3A%3A%E2%9D%93
