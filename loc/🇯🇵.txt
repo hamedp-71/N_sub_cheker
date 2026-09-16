@@ -2,6 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://e016d072-ed97-40d4-a83f-04c00f8df2a5@jp-1.gsafevpnapi.com:20270/?type=tcp&encryption=none&flow=&sni=www.yahoo.com&fp=chrome&security=reality&pbk=l2Wjf_xR2rZYHYmST-zxaYDDj5QhiL9riXa1ozBSjEE&sid=28500ae15838f905&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://e016d072-ed97-40d4-a83f-04c00f8df2a5@18.182.44.185:20270/?type=tcp&encryption=none&flow=&sni=www.yahoo.com&fp=chrome&security=reality&pbk=l2Wjf_xR2rZYHYmST-zxaYDDj5QhiL9riXa1ozBSjEE&sid=28500ae15838f905#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://524e00ce-ed89-481d-b4a4-6d7017f884e3@31.76.91.72:2087/?type=grpc&encryption=none&flow=&serviceName=grpc&sni=ads.x5.ru&fp=chrome&security=reality&pbk=-ZTJcZ_UcqAB7LHgkUqhnlJsQs_oBafRgjsFtWZElmM&sid=c226283c4de5b1ad#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
