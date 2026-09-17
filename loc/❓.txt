@@ -2,15 +2,12 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@118.167.212.163:24215/?type=tcp&encryption=none&flow=&sni=addons.mozilla.org&fp=chrome&security=reality&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sid=#hamedvpns%3A%3A%E2%9D%93
-vless://5d16ac22-6eea-426f-b778-6f4c2961faef@31.184.219.147:9894/?type=grpc&encryption=none&flow=&serviceName=grpc-tunnel&sni=dl.google.com&fp=qq&security=reality&pbk=sm3E3hjmT6_Gmg_O9rBz4nfXYrHpnl6-LvcCp6T6_xc&sid=aabb&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@104.21.83.140:443/?type=ws&encryption=none&flow=&host=0-m16.ChIAng-Mai2032.kdnS.fR&path=%2FJRr6VGcSLFc034DC6sDbwyWJLbB&security=tls&sni=0-m16.ChIANG-maI2032.kdNS.fr#hamedvpns%3A%3A%E2%9D%93
-vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:443/?type=ws&encryption=none&flow=#hamedvpns%3A%3A%E2%9D%93
-vless://de5906f3-df38-4463-aa9d-2b01320cc6ea@31.76.76.28:8443/?type=tcp&encryption=none&flow=&security=tls&sni=neth4.lckdwn.ru&fp=firefox#hamedvpns%3A%3A%E2%9D%93
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@186.190.211.188:443/?type=tcp&encryption=none&flow=&security=tls&sni=186.190.211.188&allowInsecure=1#hamedvpns%3A%3A%E2%9D%93
 vless://a90c264d-3853-4eef-9a3d-628b2d02d15e@104.21.75.9:443/?type=ws&encryption=none&flow=&host=8.x-M19.kdNS.fr&path=%2FCjBjB9sn5pCvaSwScc&security=tls&sni=8.x-m19.kDnS.fr&alpn=http%2F1.1#hamedvpns%3A%3A%E2%9D%93
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#hamedvpns%3A%3A%E2%9D%93
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl4.moritech.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl4.moritech.net&alpn=h2&fp=chrome#hamedvpns%3A%3A%E2%9D%93
+vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%E2%9D%93
 trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#hamedvpns%3A%3A%E2%9D%93
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#hamedvpns%3A%3A%E2%9D%93
+vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%E2%9D%93
+vless://7d74eae4-8a06-4306-a923-ad686f30bf26@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%E2%9D%93
