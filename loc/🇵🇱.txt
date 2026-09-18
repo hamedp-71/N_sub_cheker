@@ -5,5 +5,7 @@
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&alpn=h2&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl3.moritech.net&alpn=h2&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&alpn=h2&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://3710fc0f-5f0c-4b9c-a5d4-40cb419e943a@144.31.93.231:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=firefox&security=reality&pbk=WKN5yaRN05O2WdCURXRmS-yBVYaabaFWOvGudX6ohWc&sid=b97e7d4582b6fa6e#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@pl3.moritech.net:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl3.moritech.net&alpn=h2&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
+vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl4.moritech.net&alpn=h2&fp=chrome&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVOVlBb3FCZ2c1VnlHQmM2dlF2MXNO@194.61.121.93:7538#hamedvpns%3A%3A%F0%9F%87%B5%F0%9F%87%B1
