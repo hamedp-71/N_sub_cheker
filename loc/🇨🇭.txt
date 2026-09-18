@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://be83425f-74c5-4b03-9c4b-20aa16322698@45.91.54.196:25720/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=firefox&security=reality&pbk=OueudVX2rTpyeEb2bNW3Jx3WtgSX4zFERs6yt8Szv0E&sid=fddf99d4a4f55a48#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD
