@@ -2,4 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
+vless://a57223c7-3581-4fec-9bc4-ad5c30900efb@170.114.45.6:80/?type=ws&encryption=none&flow=&host=free-server.techsonic.dev&path=%2Ffree-server.techsonic.dev#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://7f549a50-4655-46b6-962d-183cfc532fc9@134.122.154.210:443/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
