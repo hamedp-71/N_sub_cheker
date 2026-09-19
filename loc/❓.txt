@@ -2,17 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&alpn=h2&fp=chrome#hamedvpns%3A%3A%E2%9D%93
-vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.net&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%E2%9D%93
-vless://bb0f1ed0-0298-40a1-adb1-1f5d6ab33d54@93.152.217.20:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&security=reality&pbk=w4AYHvQnQS6olDqoG9ptLOtgehaWOsv9HQhDax5bLA4&sid=db46e2946fc466fd#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@185.18.250.252:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#hamedvpns%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRRld6Q3cydVg5QjlpNnFBWWVGQklF@bogging-eyeteeth-fly.freesocks.work:443#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJwb3J0Ijo4MCwiaWQiOiI1NjdmNGJlNS0xMmFiLTQyZTEtYjhkOS1kYjZmZDFmZGQzMWMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIiwiaG9zdCI6IndybWVsbXd4bGYuZ2t0ZXZscnF6bndxcW96eS5mYWJwZnM2Nmdpem1ub2poY3ZxeHdsLmt5dHJjZnpxbGE4N2d2Z3ZzNmM3a2pucnVidWguY2MiLCJwYXRoIjoiL3ZtZXNzLyJ9
-vmess://eyJ2IjoiMiIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJhZGQiOiIzOC4xMDcuMjM0LjU3IiwicG9ydCI6ODAsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiJ3cm1lbG13eGxmLmdrdGV2bHJxem53cXFvenkuZmFicGZzNjZnaXptbm9qaGN2cXh3bC5reXRyY2Z6cWxhODdndmd2czZjN2tqbnJ1YnVoLmNjIiwicGF0aCI6Ii92bWVzcy8ifQ
-trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#hamedvpns%3A%3A%E2%9D%93
-vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?type=ws&path=%2Fvless%2F#hamedvpns%3A%3A%E2%9D%93
-vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedvpns%3A%3A%E2%9D%93
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#hamedvpns%3A%3A%E2%9D%93
+vless://cb15d1b0-e48b-4c4c-b98a-fa1103aa3723@87.76.179.117:7443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=edge&security=reality&pbk=1MLoHw7RVkGefh7XUyuGg4ndxwv4vDU9en-f9JxpXRQ&sid=d2061bb1#hamedvpns%3A%3A%E2%9D%93
+vless://5be7fb02-b6a5-450f-b041-3243b98e8420@72.56.41.33:40443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=deepl.com&fp=firefox&security=reality&pbk=Uvj5H9pDJP0HX2bN7NN7sCQwVCrC5N2NbKf-yuy1ikE&sid=ee33#hamedvpns%3A%3A%E2%9D%93
+vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@172.67.169.99:443/?type=ws&encryption=none&flow=&host=8-m16.PHuKEt2035.KdnS.fr&path=%2FJRr6VGcSLFc034DC6sDbwyWJLbB&security=tls&sni=8-m16.PHuKEt2035.KdnS.fr&allowInsecure=1#hamedvpns%3A%3A%E2%9D%93
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#hamedvpns%3A%3A%E2%9D%93
+vless://218ae360-0e5f-4856-91f3-1823adfc9037@130.94.33.80:443/?type=ws&encryption=none&flow=&host=hk.sepporated.com&path=%2Fws&security=tls&sni=hk.sepporated.com&fp=firefox#hamedvpns%3A%3A%E2%9D%93

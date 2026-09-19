@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@2.27.210.32:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=latisha.loozerp.wiki&fp=chrome&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%BB
+vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@2.27.210.32:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=latisha.loozerp.wiki&fp=firefox&security=reality&pbk=bZpzmeWiEJyJQy0W2hHc34Nr6BuFXj1UDd80Cbwh1Fk&sid=ff776ff77be48b88#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%BB
