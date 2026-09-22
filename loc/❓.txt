@@ -2,20 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.2.33:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl3.moritech.net&alpn=h2&fp=firefox#hamedvpns%3A%3A%E2%9D%93
-vless://cd3bb7d9-7df3-4644-ac05-c260990ac277@144.31.5.64:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=pl6.moritech.net&alpn=h2&fp=chrome#hamedvpns%3A%3A%E2%9D%93
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net#hamedvpns%3A%3A%E2%9D%93
 vless://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&security=tls&sni=nasnet-162191099-direct.mbghalibaf.com&alpn=h2&fp=chrome#hamedvpns%3A%3A%E2%9D%93
 vless://c18b978e-1c4e-415c-8bea-07942b563a64@185.153.198.86:443/?type=ws&encryption=none&flow=&host=shuma.ccwu.cc&path=%2F&security=tls&sni=shuma.ccwu.cc&fp=chrome#hamedvpns%3A%3A%E2%9D%93
-vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@31.76.80.230:8443/?type=ws&encryption=none&flow=&path=%2Fassets&security=tls&sni=fin.luxes.network&alpn=http%2F1.1&fp=chrome#hamedvpns%3A%3A%E2%9D%93
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443/?type=ws&encryption=none&flow=&path=%2FRoBeRt&security=tls&sni=milan.adaspoloandco.com&fp=chrome&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://eb8613e3-8393-4cff-a3ad-6501fd4adc63@152.69.195.67:47878/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%E2%9D%93
-vless://8d2196c0-2ec7-4867-8d66-d5d19bf8fb23@185.170.211.194:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.samsung.com&fp=firefox&security=reality&pbk=eZXyfQzQgQSreAbhKSorx38cgnKmGuSOiQbthBfG5k0&sid=0e903b415d812c59#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=chrome&type=ws&allowInsecure=0&sni=www.volumeroot.com#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#hamedvpns%3A%3A%E2%9D%93
-vless://c21631d5-36c9-4664-b575-97eca17456be@2.27.205.59:443?path=%2F&security=&encryption=none&host=neth8.lunariai.ru&type=ws#hamedvpns%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiIzaC1rYXpha2hzdGFuMS4wOXZwbi5jb20iLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IjNoLWthemFraHN0YW4xLjA5dnBuLmNvbSIsImlkIjoiNTY3ZjRiZTUtMTJhYi00MmUxLWI4ZDktZGI2ZmQxZmRkMzFjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL3ZtZXNzLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6IiIsInYiOiIyIiwidmNuIjoiIn0
-vmess://eyJhZGQiOiIzOC4xMDcuMjM0LjU3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjU2N2Y0YmU1LTEyYWItNDJlMS1iOGQ5LWRiNmZkMWZkZDMxYyIsImluc2VjdXJlIjoiMCIsIm5ldCI6IndzIiwicGF0aCI6Ii92bWVzcy8iLCJwY3MiOiIiLCJwb3J0IjoiODAiLCJwcyI6ImhhbWVkdnBuczo64p2TIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
-trojan://humanity@www.calmlunch.com:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0#hamedvpns%3A%3A%E2%9D%93
-vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@SC-TheNetherlands1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
-vless://f5c47e9c-914a-4a91-a81e-a5a77bc10fc1@OV-France1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%E2%9D%93
