@@ -4,4 +4,3 @@
 
 vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@95.85.224.17:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=est1313.ggisopi.su&fp=firefox&security=reality&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&sid=#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
 vless://d0f0a880-0df1-48c9-bdf1-5669fb9483ce@95.85.224.17:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=est1313.ggisopi.su&fp=chrome&security=reality&pbk=SB1uC0OEveYjSiS_Nuw9Ld-uVVXWqi794OGnldthY3I&sid=#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA
-vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@93.123.39.203:8443/?type=ws&encryption=none&flow=&path=%2Fassets&security=tls&sni=est.luxes.network&fp=firefox#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%AA

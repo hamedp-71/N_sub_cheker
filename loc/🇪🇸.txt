@@ -1,5 +1,0 @@
-//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
-//profile-update-interval: 1
-//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
-
-vless://72f8e59f-7a0d-44f2-a8db-b4c3e1e36716@92.118.127.16:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sp1.extremumnews.com&fp=safari&security=reality&pbk=Rz8XjYinCcpE7NLktJzNFL7eVSUxaFGuV2Zz82p7IRg&sid=908563a721d9bdcd#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
