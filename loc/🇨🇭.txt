@@ -4,4 +4,3 @@
 
 vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081/?type=ws&encryption=none&flow=&path=%2Fvless-test&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://d544c858-b1ba-45b2-8868-8197daf2a6ee@179.255.191.40:8443/?type=ws&encryption=none&flow=&path=%2Fassets&security=tls&sni=switz.luxes.network&fp=firefox#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD
-vless://54ee5e59-55a3-4599-83ff-0c67b3f411b2@131.123.34.145:8081/?type=ws&encryption=none&flow=&path=%2Fvless-test#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD
