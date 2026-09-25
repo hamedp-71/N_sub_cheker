@@ -5,4 +5,3 @@
 vless://c5694dc5-39fd-4a92-8430-3837baa522a3@31.76.39.141:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=gb.superbuba.top&fp=chrome&security=reality&pbk=G2U8_BvRAgcOw0sX8u_0yYdVAlD8CWLSi-uYjvH07hw&sid=4fa44664f6a566d3#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
-vmess://eyJhZGQiOiI1Ny4xMjkuMTMyLjIyMyIsImlkIjoiYTI1Y2JmMTEtMjkwOC00YTFiLWEzYTgtOWE1NzE3NzdkY2EzIiwicG9ydCI6IjgwIiwic2N5IjoiYXV0byIsInYiOiIyIiwibmV0Ijoid3MiLCJob3N0IjoiZ29vZ2xlLmNvbSIsInBhdGgiOiIvdm1lc3MvIiwidGxzIjoibm9uZSIsInBzIjoiaGFtZWR2cG5zOjrwn4es8J+HpyJ9

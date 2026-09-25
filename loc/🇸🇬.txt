@@ -3,6 +3,4 @@
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
 vless://29b81e1a-1989-4778-b0cb-a7223730f59d@5.223.74.174:2053/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=5.223.74.174&fp=firefox&security=reality&pbk=pIkxGlcFFawk7e0T-2VcdFXOc9LsjoBhl47vl8EuRgg&sid=36151c48e28cfb65#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=safari&security=reality&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=chrome&security=reality&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=firefox&security=reality&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&sid=e692a8250d2e2fd0#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
