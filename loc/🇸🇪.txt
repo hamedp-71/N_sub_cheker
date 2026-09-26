@@ -2,6 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://11d826ce-d6e5-4154-8658-6829bb17dca2@se6-node.rumedia-cdn.com:2096/?type=ws&encryption=none&flow=&host=st90059.rumedia-cdn.com&path=%2Fcdn%2Fv3%2Flive&security=tls&sni=st90059.rumedia-cdn.com&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@5.157.10.148:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=surstreming.vvzzkontaktezzvv.garden&fp=firefox&security=reality&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
 vless://4bdeee92-97e8-414d-bef6-ec1d5e2ab73b@surstreming.vvzzkontaktezzvv.garden:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=surstreming.vvzzkontaktezzvv.garden&fp=chrome&security=reality&pbk=x6p656szvu_3CKLsJ4NtkooRvdTVGx7IoPca_p58_jA&sid=fb442438e2223836#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AA
