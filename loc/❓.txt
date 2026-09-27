@@ -2,10 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://19d5a678-8396-4e3b-93da-ece618d0e83a@hinet1.2yly.com:24215/?type=tcp&encryption=none&flow=&sni=addons.mozilla.org&fp=chrome&security=reality&pbk=mdWKUPMVTtTbDqK10BPb89OcqBC2-Lx-4NOYtqc1GWE&sid=#hamedvpns%3A%3A%E2%9D%93
-vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F#hamedvpns%3A%3A%E2%9D%93
-vless://b1a8d1eb-dfb2-4dd3-afe6-cd0fff8177df@undef.network:2052/?type=ws&encryption=none&flow=&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#hamedvpns%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.186:8080#hamedvpns%3A%3A%E2%9D%93
-vless://2f6e2b17-4d5e-4a12-8979-f53fdd347580@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5c8a8e6c615b&sni=www.mozilla.org#hamedvpns%3A%3A%E2%9D%93
-vless://455cfdc6-9abf-4e40-863f-5ff6cc63457c@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=18e4d2d21241&sni=www.microsoft.com#hamedvpns%3A%3A%E2%9D%93
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&sni=yahoo.com&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#hamedvpns%3A%3A%E2%9D%93
+vless://c538c9dd-2e3f-488f-a8ca-ac5b7c0773f3@38.246.229.58:47642/?type=tcp&encryption=none&flow=&sni=sega.com&fp=ios&security=reality&pbk=9mg1QdPctekP9woKygHzBCxb8Hw2QTICXROQiiJB6Ag&sid=76ed3287#hamedvpns%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.190:8080#hamedvpns%3A%3A%E2%9D%93
