@@ -2,9 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://70ca8aec-42ba-41df-a874-ec9517053dec@rough-mouse-2a3a.424-e94.workers.dev:8880/?type=ws&encryption=none&flow=&path=%2Fpyip%3DProxyIP.JP.CMLiussss.net#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://e2b8b217-cffb-4d66-9b8b-eca6e4334032@13.231.19.51:11690/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=chrome&security=reality&pbk=Bv3z0_uFRabB9C4CFpNfqepZUyeO4YTh1duJdMBNLkg&sid=034885e346fd30#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@153.121.36.102:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=ios&security=reality&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
-vless://bfac5c43-52f2-4b0a-9fee-3e2281483c81@jpt.negai.de:25874/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=jpt.negai.de&fp=chrome&security=reality&pbk=aBdmSZuchSwd7IKT4PPb8hgTFWZeb-4iGSyf8lIGUSE&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
+vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=chrome&security=reality&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@153.121.36.102:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&allowInsecure=1&fp=ios&security=reality&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5
 vless://b98d4c6e-6770-4a31-8256-a4750cdea0e7@153.121.36.102:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&allowInsecure=1&fp=ios&security=reality&pbk=0i_xAxYgSNx5NMpK2lOaWGS-CvAiD_LneYPO0MF0owo&sid=1a&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AF%F0%9F%87%B5

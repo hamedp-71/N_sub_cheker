@@ -4,5 +4,5 @@
 
 vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@free.sahanwickramasinghe.me:80/?type=ws&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%B0
 vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@51.75.67.209:80/?type=ws&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%B0
-vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@170.114.45.6:80/?type=ws&encryption=none&flow=&host=free.sahanwickramasinghe.me&path=%2F#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%B0
 vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@support.zoom.us:80/?type=ws&encryption=none&flow=&host=free.sahanwickramasinghe.me&path=%2F&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%B0
+vless://684f9a2e-4f96-497f-bfd9-ff1e34637952@170.114.45.6:80/?type=ws&encryption=none&flow=&host=free.sahanwickramasinghe.me&path=%2F#hamedvpns%3A%3A%F0%9F%87%B1%F0%9F%87%B0
