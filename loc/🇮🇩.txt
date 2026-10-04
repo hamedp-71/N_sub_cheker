@@ -1,0 +1,11 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.30.76.28:31094/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.sg&fp=firefox&security=reality&pbk=BTVKTYNHnuv3850vXEU15GVgfp5S0Dz20jueg-FSgAQ&sid=c761f990d786f2#hamedvpns%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://3977434d-6a9b-4858-8ced-80326ba5e367@103.172.197.2:29172/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=aws.amazon.com&fp=chrome&security=reality&pbk=pff94OJwuKXnF7_3SJ8KKJuAN4GJtInBlR-kg-4mwzQ&sid=#hamedvpns%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.30.76.197:31094/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.sg&fp=firefox&security=reality&pbk=BTVKTYNHnuv3850vXEU15GVgfp5S0Dz20jueg-FSgAQ&sid=c761f990d786f2#hamedvpns%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.214.173.39:31094/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.sg&fp=firefox&security=reality&pbk=BTVKTYNHnuv3850vXEU15GVgfp5S0Dz20jueg-FSgAQ&sid=c761f990d786f2#hamedvpns%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://f8c9d2a1-da40-4f90-b671-11772a0b13d6@103.172.197.3:16006/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=ll7JTP628PuBMZJvx6fuhGSmCRSURnReAetmhCEL8GU&sid=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.214.173.198:31094/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.sg&fp=firefox&security=reality&pbk=BTVKTYNHnuv3850vXEU15GVgfp5S0Dz20jueg-FSgAQ&sid=c761f990d786f2#hamedvpns%3A%3A%F0%9F%87%AE%F0%9F%87%A9
+vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.140:31094/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.sg&fp=firefox&security=reality&pbk=BTVKTYNHnuv3850vXEU15GVgfp5S0Dz20jueg-FSgAQ&sid=c761f990d786f2#hamedvpns%3A%3A%F0%9F%87%AE%F0%9F%87%A9

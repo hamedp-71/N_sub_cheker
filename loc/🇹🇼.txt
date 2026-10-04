@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443/?type=ws&encryption=none&flow=&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%BC

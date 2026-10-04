@@ -1,0 +1,6 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@196.245.52.146:25535/?type=tcp&encryption=none&flow=&sni=www.microsoft.com&fp=firefox&security=reality&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&sid=7642ce57308852e7#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
+vless://c379d8e4-c67d-42ec-a3ed-ca99d1ad0546@es2.h1cloud.net:25535/?type=tcp&encryption=none&flow=&sni=www.microsoft.com&fp=firefox&security=reality&pbk=Jh7CocBJSA55VZcLfXwXwoQ_Hi5pV-L1vv1SY-IrSh4&sid=7642ce57308852e7#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
