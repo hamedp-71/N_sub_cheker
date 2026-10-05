@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://efb0a3fe-af52-45c5-b397-1a6866d88d67@tight-recipe-11ad.252-068.workers.dev:8880/?type=ws&encryption=none&flow=&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
-vless://f9a53aa5-774e-4556-b2b7-d8b57b423b97@yellow-breeze-989b.348-9b8.workers.dev:8880/?type=ws&encryption=none&flow=&path=%2Fpyip%3DProxyIP.KR.CMLiussss.net#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
+vless://81c4547b-e5d8-4af8-baf0-91c5c0c05a9b@icn-a-02.auuas.com:1891/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.npmjs.com&fp=edge&security=reality&pbk=2olNWILpuviXx_Nr30JZc5tpt3MgtWda7jLGwAOxPxY&sid=8378f267#hamedvpns%3A%3A%F0%9F%87%B0%F0%9F%87%B7
