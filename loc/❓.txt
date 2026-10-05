@@ -2,18 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://69ac162b-1643-4acb-9f49-09d8b0fad609@milan.adaspoloandco.com:8443/?type=ws&encryption=none&flow=&path=%2FRoBeRt&security=tls&sni=milan.adaspoloandco.com&fp=chrome#hamedvpns%3A%3A%E2%9D%93
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&flow=&sni=yahoo.com&alpn=http%2F1.1&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#hamedvpns%3A%3A%E2%9D%93
-vless://8be461cb-a0df-47cf-bc0d-4d9e6a22fa74@104.21.3.219:443/?type=ws&encryption=none&flow=&host=ccs2g.pai50288.uk&path=%2Fpai50288&security=tls&sni=ccs2g.pai50288.uk&fp=chrome#hamedvpns%3A%3A%E2%9D%93
-vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.80:2053/?type=ws&encryption=none&flow=&host=wss.zazazuza.ru&path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&sni=wss.zazazuza.ru&alpn=http%2F1.1&fp=chrome#hamedvpns%3A%3A%E2%9D%93
-vless://e3fb01b6-69b4-41d7-babf-696d992de194@104.21.93.52:2052/?type=ws&encryption=none&flow=&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#hamedvpns%3A%3A%E2%9D%93
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.17.44.17:8080/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=%2Fsg-melbi&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
+vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@104.21.65.43:2052/?type=ws&encryption=none&flow=&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#hamedvpns%3A%3A%E2%9D%93
 vless://e3fb01b6-69b4-41d7-babf-696d992de194@172.67.181.232:2052/?type=ws&encryption=none&flow=&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#hamedvpns%3A%3A%E2%9D%93
-vless://9ef61079-6f7d-4911-9608-943da85d8e6f@178.83.46.125:2053/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%E2%9D%93
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@103.214.173.198:31094/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.sg&fp=firefox&security=reality&pbk=BTVKTYNHnuv3850vXEU15GVgfp5S0Dz20jueg-FSgAQ&sid=c761f990d786f2#hamedvpns%3A%3A%E2%9D%93
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@45.153.130.140:31094/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.lamer.com.sg&fp=firefox&security=reality&pbk=BTVKTYNHnuv3850vXEU15GVgfp5S0Dz20jueg-FSgAQ&sid=c761f990d786f2#hamedvpns%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiIxMDQuMTcuNzcuNzciLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiNjA0NDE1NDgtYjY4ZS00M2IyLTgxOTEtZTNiODg0YmU0YjNjIiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiL2xNbnNaVU40LyIsInBjcyI6IiIsInBvcnQiOiI4NDQzIiwicHMiOiJoYW1lZHZwbnM6OuKdkyIsInNjeSI6ImF1dG8iLCJzbmkiOiJ2MnJheTEuZG96YXBwLnh5eiIsInRscyI6InRscyIsInR5cGUiOiJ3cyIsInYiOiIyIiwidmNuIjoiIn0
-vmess://eyJhZGQiOiIyMTYuMTA2LjE4My4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiYWtzYWkub3JnIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvbGlua3Z3cyIsInBjcyI6IiIsInBvcnQiOiI0NDMiLCJwcyI6ImhhbWVkdnBuczo64p2TIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiIiLCJ2IjoiMiIsInZjbiI6IiJ9
-vmess://eyJhZGQiOiIyMTYuMTA2LjE4My4zNSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjIyMzI0IiwicHMiOiJoYW1lZHZwbnM6OuKdkyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiIiwidiI6IjIiLCJ2Y24iOiIifQ
-vless://aaec4e42-a095-44b6-a239-f16d234a0798@137.74.16.237:443?security=reality&encryption=none&pbk=7LSzvilTVKGMtBDuKGeMrLtlhY7tQf5YcG566dEgO0I&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.icloud.com&sid=b390e0a721d242b0#hamedvpns%3A%3A%E2%9D%93
-vless://a00d89f6-ab7e-4e30-a5e5-54c701d62c93@178.236.16.98:35728?security=reality&encryption=none&pbk=vhUFNoFcvtZAVMo8y5K5eU2V43m5q6yjmWIhp5RkFng&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=69a2#hamedvpns%3A%3A%E2%9D%93
-vless://2f6e2b17-4d5e-4a12-8979-f53fdd347580@staging.lastilhame.monster:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=FjcEZNQ8t5E4R04_11T6ghsOutdqwKKrelkuadakoQg&sid=5c8a8e6c615b&sni=www.mozilla.org#hamedvpns%3A%3A%E2%9D%93
+vless://e3fb01b6-69b4-41d7-babf-696d992de194@undef.network:2052/?type=ws&encryption=none&flow=&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#hamedvpns%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#hamedvpns%3A%3A%E2%9D%93
