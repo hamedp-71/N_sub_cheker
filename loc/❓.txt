@@ -2,19 +2,22 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://87fd990d-ca93-440a-bbd4-e8281c4a0910@31.77.168.192:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=d3-de1.cloud-cdn.xyz&fp=chrome&security=reality&pbk=SPyieysl8w1lo950icthB72kn_ElyJXkpCdKqmnjGEY&sid=494afdc75f8c2fa8#hamedvpns%3A%3A%E2%9D%93
+vless://6e05822a-e9da-4135-a9db-71aa07a944af@sub.merky.top:443/?type=ws&encryption=none&flow=&host=sub.merky.top&path=%2Fmerky-connect%2Fde6%2F&security=tls&sni=sub.merky.top&fp=chrome#hamedvpns%3A%3A%E2%9D%93
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=chrome&security=reality&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#hamedvpns%3A%3A%E2%9D%93
+vless://47d9b534-8a0a-4bd2-90f1-1d6ade14427e@150.241.101.80:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.net&fp=chrome&security=reality&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%E2%9D%93
+vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=firefox&security=reality&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&sid=e692a8250d2e2fd0#hamedvpns%3A%3A%E2%9D%93
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yahoo.com&fp=ios&security=reality&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a#hamedvpns%3A%3A%E2%9D%93
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.35.86:8080/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=%2Fsg-melbi&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
-vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.0.181:8080/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=%2Fsg-melbi&packetEncoding=xudp#hamedvpns%3A%3A%E2%9D%93
 vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747/?type=tcp&encryption=none&flow=&sni=yahoo.com&alpn=http%2F1.1&fp=chrome&security=reality&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&sid=2001#hamedvpns%3A%3A%E2%9D%93
-vless://57beeeb0-03fc-4fc9-94da-7604488a7134@apinbxs.zalolink.com:44988/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.tesla.com&fp=ios&security=reality&pbk=f6Tj8-uvWsLv3V-lGLuPciArp5oKqUImBg-U7-WJ-0A&sid=bb82c8#hamedvpns%3A%3A%E2%9D%93
-vless://7d47ff30-74b2-47c7-b5bd-b06ef8b8f80e@104.21.71.21:8080/?type=ws&encryption=none&flow=&host=spring-flower-3254.magicnight101.workers.dev#hamedvpns%3A%3A%E2%9D%93
-vless://aa5d861a-7799-41a7-bdf4-7a6414cf98fd@104.21.65.43:2052/?type=ws&encryption=none&flow=&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#hamedvpns%3A%3A%E2%9D%93
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@104.129.164.30:8880/?type=ws&encryption=none&flow=&host=vms.lifetime40.workers.dev&path=%2F#hamedvpns%3A%3A%E2%9D%93
+vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.0.181:2082/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#hamedvpns%3A%3A%E2%9D%93
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.80:2053/?type=ws&encryption=none&flow=&host=wss.zazazuza.ru&path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&sni=wss.zazazuza.ru&alpn=http%2F1.1&fp=chrome#hamedvpns%3A%3A%E2%9D%93
+vless://6c713691-3ca2-0008-ad25-113d1bed6b03@89.125.96.91:2053/?type=ws&encryption=none&flow=&host=wss.zazazuza.ru&path=%2Fvpn-wss%2Ffluxor%2F59011%2F&security=tls&sni=wss.zazazuza.ru&alpn=http%2F1.1&fp=chrome#hamedvpns%3A%3A%E2%9D%93
+vless://e3fb01b6-69b4-41d7-babf-696d992de194@undef.network:2052/?type=ws&encryption=none&flow=&host=uwu.blueknightnet.qzz.io&path=%2F%40BlueKnight_net--%40BlueKnight_net#hamedvpns%3A%3A%E2%9D%93
 vless://d342d11e-d224-4463-b982-532309285094@188.164.248.216:443/?type=ws&encryption=none&flow=&host=ccc.010304.xyz&path=%2F&security=tls&sni=ccc.010304.xyz&fp=android#hamedvpns%3A%3A%E2%9D%93
-vless://b18d5990-96eb-4587-a386-7f8ef7591e6a@2.26.231.218:2063/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=rusbid.de&fp=firefox&security=reality&pbk=MMpt_jWc4J3oySBdf5sPDVRkiWlZmOObth6A1scM9BM&sid=#hamedvpns%3A%3A%E2%9D%93
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@8.217.110.53:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=chrome&security=reality&pbk=wet3gh-OtTXd6G20ic3hdldK4wEbwtI1WGr4bvXtVmQ&sid=3467b2ee#hamedvpns%3A%3A%E2%9D%93
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.75:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#hamedvpns%3A%3A%E2%9D%93
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#hamedvpns%3A%3A%E2%9D%93
+vless://5e3f974b-06fc-4555-907a-6681391b7c17@186.246.19.79:40443?security=reality&encryption=none&pbk=oc9uweln_cqyaJnlRMnhhhKrGNP7RrYOsuYtaIOIQDE&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=deepl.com&sid=2bc0#hamedvpns%3A%3A%E2%9D%93
 trojan://humanity@www.calmlunch.com:443?security=tls&type=ws&sni=www.calmlunch.com&path=/assignment&host=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
 trojan://humanity@188.114.96.3:443?security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#hamedvpns%3A%3A%E2%9D%93
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@51.158.206.12:23576/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=fuck.rkn&fp=chrome&security=reality&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01#hamedvpns%3A%3A%E2%9D%93
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&type=ws#hamedvpns%3A%3A%E2%9D%93
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@188.114.98.0:443?path=%2Fassignment&security=tls&alpn=null&insecure=1&host=www.calmlunch.com&type=ws&allowInsecure=1&sni=www.calmlunch.com#hamedvpns%3A%3A%E2%9D%93
