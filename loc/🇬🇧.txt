@@ -4,5 +4,6 @@
 
 vless://dbb78c94-9f87-4d7d-b945-2000b60352fd@57.129.132.223:80/?type=ws&encryption=none&flow=&path=%2Fvless%2F#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://8e790f25-1d71-4601-9fb0-d503931dcfca@51.89.194.151:2053/?type=tcp&encryption=none&flow=&sni=www.apple.com&fp=chrome&security=reality&pbk=xPEBx4wUmwAAv4ikUALNBf5wH6TRhyeQ0Q2pcNELsV0&sid=d051f678212f9d54#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 vless://9e20b04d-5a81-4e16-b421-01e502f0aac6@57.129.132.223:80?path=%2Fvless%2F&security=&encryption=none&host=google.com&type=ws#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhHQDk0LjE1Ni4yNTAuMTQ4OjcwMDE=#hamedvpns%3A%3A%F0%9F%87%AC%F0%9F%87%A7
