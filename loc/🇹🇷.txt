@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://5744e593-1cc8-48fa-b8ca-57cd494fe35b@eu02.123450908.xyz:2052/?type=ws&encryption=none&flow=&host=eu02.123450908.xyz&path=%2Frain1226&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%BF
+vless://9ef61079-6f7d-4911-9608-943da85d8e6f@test.keoplentuio.xyz:2053/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7

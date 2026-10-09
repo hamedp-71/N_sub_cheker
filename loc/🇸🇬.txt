@@ -4,8 +4,8 @@
 
 vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=firefox&security=reality&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&sid=e692a8250d2e2fd0#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@139.162.27.96:443/?type=tcp&encryption=none&flow=&security=tls&sni=aka.ms&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443/?type=ws&encryption=none&flow=&host=primelinelk.me&path=%2Fxprolk-primeline&security=tls&sni=primelinelk.me&fp=ios#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443/?type=ws&encryption=none&flow=&host=primelinelk.me&path=%2Fxprolk-primeline&security=tls&sni=primelinelk.me&fp=edge#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
+vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443/?type=ws&encryption=none&flow=&host=primelinelk.me&path=%2Fxprolk-primeline&security=tls&sni=primelinelk.me&fp=ios#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443/?type=ws&encryption=none&flow=&host=primelinelk.me&path=%2Fxprolk-primeline&security=tls&sni=primelinelk.me&fp=qq#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://9d9a048b-3aea-4b3e-b106-1106bf301feb@54.251.9.130:24146/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.intel.com&fp=ios&security=reality&pbk=VeluC9A7XDurAWQNgXKShS2SJSgoK79QHFgiAMYrvGo&sid=7205d9079521832c#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://ba9ba1d3-19c8-4792-9d3f-ddd2cdcc2e65@support.zoom.us:8443/?type=ws&encryption=none&flow=&host=primelinelk.me&path=%2Fxprolk-primeline&security=tls&sni=primelinelk.me&fp=firefox#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
