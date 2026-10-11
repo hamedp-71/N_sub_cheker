@@ -942,9 +942,9 @@ vless://7b188eea-b08f-42c2-bac7-d3b0e74218b8@147.182.212.232:56565/?type=tcp&enc
 
 vless://4d017db2-7655-4276-9557-e2ec25b04ee7@server.slavkiti.monster:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.tradingview.com&fp=chrome&pbk=J-dv-HrWfQ_IOoyutv0Kg-rO8QwoRwc02dS1dS_tblk&sid=ee1716767f9b&type=tcp&headerType=none#hamedvpns
 
-vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedvpns
-
 trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&type=ws#hamedvpns
+
+vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?encryption=none&type=ws&path=%2Fvless%2F&security=none#hamedvpns
 
 vless://7d74eae4-8a06-4306-a923-ad686f30bf26@57.129.41.216:80?type=ws&path=%2Fvless%2F#hamedvpns
 
