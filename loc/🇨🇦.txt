@@ -4,4 +4,4 @@
 
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080/?type=tcp&encryption=none&flow=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vmess://eyJhZGQiOiIyMy4xNjIuMjAwLjE5OCIsInBvcnQiOiIxODAwMCIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ2IjoiMiIsInBzIjoiaGFtZWR2cG5zOjrwn4eo8J+HpiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwic25pIjoiIiwidHlwZSI6Im5vbmUiLCJzZXJ2ZXJQb3J0IjowLCJuYXRpb24iOiIifQ
+vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?security=reality&encryption=none&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f98843107912e782#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
