@@ -4,6 +4,4 @@
 
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080/?type=tcp&encryption=none&flow=#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://6bceb548-d9b6-461f-8e37-a5a7fbcdc2c8@milo.rubinaz.xyz:8080/?type=tcp&encryption=none&flow=&packetEncoding=xudp#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.22:443/?type=ws&encryption=none&flow=&host=brightlux.forum&path=%2Fraccoonwsvless&security=tls&sni=brightlux.forum&alpn=http%2F1.1&fp=chrome#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
-vless://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.22:443/?type=ws&encryption=none&flow=&host=brightlux.forum&path=%2Fraccoonwsvless&security=tls&sni=brightlux.forum&alpn=http%2F1.1#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
 vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?security=reality&encryption=none&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=f98843107912e782#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%A6
