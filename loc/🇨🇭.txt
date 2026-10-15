@@ -2,5 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://d54a7512-dda3-4218-8ae7-c591d300fd7c@45.133.151.186:25393/?type=tcp&encryption=none&flow=&sni=www.samsung.com&fp=firefox&security=reality&pbk=04F4vhrx_H_SHsrsVw1eCpwlysu4kL3hTl9GAr00XkI&sid=bcc707a7148e4a0c#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD
 vless://318c935d-c195-41d3-99ad-9bbcfdab3386@ch.srv.vbuste.ru:444/?type=grpc&encryption=none&flow=&sni=ch.srv.vbuste.ru&fp=firefox&security=reality&pbk=0-or5ogGhYbBgsVSrSC2Fhxyp2BN97Y9pqIdg61Qd08&sid=4be4110078ebed4a#hamedvpns%3A%3A%F0%9F%87%A8%F0%9F%87%AD
