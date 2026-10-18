@@ -2,8 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@sg.fasti.win:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sg.fasti.win&fp=chrome&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://a16bd0e2-ff2e-4e4c-a955-0c684255a065@67.159.52.81:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sg.fasti.win&fp=chrome&security=reality&pbk=-YTGWg5DjsLDyaDfr1D83kiUK22LVcrK3yC53lqqigs&sid=feedbacc#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://2d1ad594-80a4-4bfb-87a6-038e39701f51@146.235.16.130:19825/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=sg2-8sb.6121999.dpdns.org&fp=chrome&security=reality&pbk=GvvkY8xYb9QjvwvzYq_uNC4tOGd0DCxRnz6770-xgkI&sid=6ba85179e30d4fc2#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
 vless://f1178fbe-1420-4eef-b087-4f33b32b4a19@139.162.27.96:443/?type=tcp&encryption=none&flow=&security=tls&sni=aka.ms&alpn=h2%2Chttp%2F1.1&allowInsecure=1&fp=chrome#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
-vless://2a6c617d-98e4-49c3-95ab-76f02fcf0150@46.137.202.178:12512?security=reality&encryption=none&pbk=sO0RBMr_l8TLtZaYBX8n3NdI9AtaugUqJpCR1szNsyA&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.intel.com&sid=e692a8250d2e2fd0#hamedvpns%3A%3A%F0%9F%87%B8%F0%9F%87%AC
