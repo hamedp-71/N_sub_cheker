@@ -2,6 +2,19 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=firefox&security=reality&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99#hamedvpns%3A%3A%E2%9D%93
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.35.86:2082/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@194.60.86.88:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#hamedvpns%3A%3A%E2%9D%93
+vless://75113671-63e3-452d-87d3-261a37e8b472@107.181.151.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.mozilla.org&fp=chrome&security=reality&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=baf023e1026a#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@164.92.223.252:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@31.57.190.71:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&alpn=v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus--v2rayNplus&insecure=0&host=www.volumeroot.com&fp=safari&type=ws&allowInsecure=0&sni=www.volumeroot.com#hamedvpns%3A%3A%E2%9D%93
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@167.172.61.197:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@188.42.145.180:443?path=%2Fassignment&security=tls&insecure=0&fp=ios&type=ws&allowInsecure=0&sni=www.volumeroot.com#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@46.101.143.59:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@185.156.172.196:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@46.101.110.34:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#hamedvpns%3A%3A%E2%9D%93
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@157.230.29.88:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.volumerOot.coM.&fp=unsafe&type=ws&allowInsecure=0&sni=wWw.Volumeroot.cOm.#hamedvpns%3A%3A%E2%9D%93
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#hamedvpns%3A%3A%E2%9D%93
+trojan://humanity@209.38.109.222:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#hamedvpns%3A%3A%E2%9D%93
