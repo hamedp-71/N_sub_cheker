@@ -2,17 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://e01fcb68-3112-49da-b85d-dffb799cfc9b@156.246.88.125:26518/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=github.com&fp=firefox&security=reality&pbk=1fa6iCY7vhoQyKu91FeaK04FN-mr1qeHnrtdyLZ79mk&sid=6caead99#hamedvpns%3A%3A%E2%9D%93
+vless://75113671-63e3-452d-87d3-261a37e8b472@107.181.151.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.mozilla.org&fp=chrome&security=reality&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=baf023e1026a#hamedvpns%3A%3A%E2%9D%93
 vless://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.35.86:2082/?type=ws&encryption=none&flow=&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@139.28.240.24:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@153.92.127.26:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@178.128.45.156:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiIxNDUuMjM5LjU1LjIxMCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiZ29vZ2xlLndoYXRzYXBwLnNuYXBwLnRvcm9iLmJhc2FsYW0uZm9ydHJlc3Nob3N0LmlyLiIsImlkIjoiMDY3ZmNkNjMtYjIxNS00YWJkLTg1MjktYWU5MjlhOTk3MWE5IiwiaW5zZWN1cmUiOiIwIiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBjcyI6IiIsInBvcnQiOiI4MCIsInBzIjoiaGFtZWR2cG5zOjrinZMiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoibm9uZSIsInR5cGUiOiItLS0iLCJ2IjoiMiIsInZjbiI6IiJ9
-trojan://humanity@95.85.32.57:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@161.35.192.122:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@77.239.121.232:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@31.57.190.34:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@95.85.54.197:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
-trojan://humanity@209.38.99.120:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#hamedvpns%3A%3A%E2%9D%93
-vmess://eyJhZGQiOiI0Ny4yNDQuMTIwLjE5NyIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiNDcuMjQ0LjEyMC4xOTciLCJpZCI6IjQ1YjgzNTE5LTljNGYtNDA1Mi1hMTFiLTAyZTAxN2I2MzZkNCIsImluc2VjdXJlIjoiMSIsIm5ldCI6IndzIiwicGF0aCI6Ii9hcmtpP2VkPTIwNDgiLCJwb3J0IjoiMzY3MDMiLCJwcyI6ImhhbWVkdnBuczo64p2TIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
+trojan://humanity@57.128.183.108:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#hamedvpns%3A%3A%E2%9D%93
