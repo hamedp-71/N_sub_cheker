@@ -2,4 +2,6 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://928e6cce-8ced-4243-9a48-a6642edd09b0@47.238.210.5:13779/?type=tcp&encryption=none&flow=&sni=tesla.com&fp=chrome&security=reality&pbk=llTyp52oRXnJmQ3I9UUrmlwbMA79B-wLCRHCu-8dLGg&sid=af1bdd293097b664#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://fe40f32a-b03d-4ada-8bee-00f41b766098@122.10.117.1:11674/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=apple.com&fp=firefox&security=reality&pbk=F-yU1O5Q00eeyUdst7ZGDsgo4xS5mrdNwg0UcfsrVQs&sid=d889b977#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@152.175.6.229:31884/?type=tcp&encryption=none&flow=&security=tls&sni=hk010.zestapp778.com&fp=firefox#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@165.154.63.139:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=firefox&security=reality&pbk=AE81BrwMc8-kwGEIA1LhzaL03er0Qwt2V-fFy76F5jQ&sid=ca4aedd4#hamedvpns%3A%3A%F0%9F%87%AD%F0%9F%87%B0

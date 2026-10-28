@@ -2,4 +2,4 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://c1c04450-bf71-4049-ad0c-9cf6d94d9f1f@60.248.219.78:443/?type=ws&encryption=none&flow=&host=ty986gfazs.cainiaohub.xyz&path=%2F81574b6b-c9d7-44a0-b83d-dad56e8cb530&security=tls&sni=ty986gfazs.cainiaohub.xyz&allowInsecure=1#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%BC
+vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@152.32.167.33:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=firefox&security=reality&pbk=Q8QwBSGN6J-FqgDV1pYNm0VThS_xNRyQ3DPPa9YZ3j4&sid=cff998a4#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%BC
