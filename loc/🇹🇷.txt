@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://4f8493b1-9876-46c4-8ded-01cafb22cee0@83.217.9.230:43000/?type=tcp&encryption=none&flow=xtls-rprx-vision&fp=firefox&security=reality&pbk=ptE_QnAka3pXNEf8BYKpA9CHdgj4U4xXTixjYWOji0U&sid=68d2eb23#hamedvpns%3A%3A%F0%9F%87%B9%F0%9F%87%B7
