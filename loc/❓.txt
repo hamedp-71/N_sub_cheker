@@ -2,13 +2,5 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=vkvd754.okcdn.ru&fp=firefox&security=reality&pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&sid=ef1d3554c652a436#hamedvpns%3A%3A%E2%9D%93
-vless://9a0e84f8-4b58-477f-99da-5fac5a2e58e8@196.196.204.180:443/?type=tcp&encryption=none&flow=&sni=3f8efdt.fi1.h1clayd.click&fp=firefox&security=reality&pbk=1D_o1pqfVoReg9zLPKNy1wCL7aGWytbmbYPbbJGaozY&sid=023a1e6ffc32be10#hamedvpns%3A%3A%E2%9D%93
-vless://91ad30e9-ab06-4b4c-9fb9-1c2aa97d8b3a@154.26.188.52:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=firefox&security=reality&pbk=Njwb7fCl8PXKOs3owDB-gjzbmEyEewlL6JlMKwMTUQc&sid=b46b142b#hamedvpns%3A%3A%E2%9D%93
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb#hamedvpns%3A%3A%E2%9D%93
-vless://75113671-63e3-452d-87d3-261a37e8b472@107.181.151.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.mozilla.org&fp=firefox&security=reality&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=baf023e1026a#hamedvpns%3A%3A%E2%9D%93
-vless://88742d38-3f5c-4b9c-b256-7df5db8257ec@107.181.151.128:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.mozilla.org&fp=firefox&security=reality&pbk=zfsjt2A8ur0qHWIuCG7F9W4wZN3VTuL6fkTljC-9R0s&sid=8f79726c5002#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#hamedvpns%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#hamedvpns%3A%3A%E2%9D%93
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.189:8080#hamedvpns%3A%3A%E2%9D%93
-vless://18535741-e8b3-4b43-9348-785b55936751@57.129.41.216:80?security=none&type=ws&path=/vless/&host=OV-Germany1.09vpn.com#hamedvpns%3A%3A%E2%9D%93
+vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.amazon.com&fp=firefox&security=reality&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&sid=#hamedvpns%3A%3A%E2%9D%93
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?type=ws&path=%2Fvless%2F&sni=sc-thenetherlands1.09vpn.com#hamedvpns%3A%3A%E2%9D%93
