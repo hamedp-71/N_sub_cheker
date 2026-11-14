@@ -2,6 +2,8 @@
 //profile-update-interval: 1
 //subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
 
-vless://1b4b11d5-4c2d-4533-9a55-636757cdee94@195.211.98.43:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=xPnpkXu5qfwIArlHKvJsqKJnGdGbJK1tT2GzWMyLohA&sid=9c56fddf237e8eaf#hamedvpns%3A%3A%E2%9D%93
-vless://9f61cdf4-810d-4052-bbc7-2da0c8e20104@83.147.18.3:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.cloudflare.com&fp=firefox&security=reality&pbk=3iVJAIGPx6JMlhlRmfpGrHkSmLpHJ4CPvBBH7KsFrFA&sid=fd8cf7e1173f0edb#hamedvpns%3A%3A%E2%9D%93
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@172.105.39.124:7002#hamedvpns%3A%3A%E2%9D%93
+vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#hamedvpns%3A%3A%E2%9D%93
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#hamedvpns%3A%3A%E2%9D%93
+vless://40cc9b52-25b8-4cd5-8b45-715ae26e6baf@sc-thenetherlands1.09vpn.com:80?type=ws&path=%2Fvless%2F&sni=sc-thenetherlands1.09vpn.com#hamedvpns%3A%3A%E2%9D%93
+vless://7d90f043-ed7f-40c9-ac2f-352987904958@OV-Germany1.09vpn.com:80?path=%2Fvless%2F&security=none&encryption=none&type=ws#hamedvpns%3A%3A%E2%9D%93
+vless://e73df646-1f62-41bf-8c50-653497d603d0@163.172.213.174:80?encryption=none&type=ws&path=%2Fvless%2F&host=SC-TheNetherlands2.09vpn.comfreenettirThe#hamedvpns%3A%3A%E2%9D%93
