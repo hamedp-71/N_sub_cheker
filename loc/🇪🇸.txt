@@ -1,0 +1,5 @@
+//profile-title: base64:2YfZhduM2LTZhyDZgdi52KfZhCDwn5iO8J+YjvCfmI4gaGFtZWRwNzE=
+//profile-update-interval: 1
+//subscription-userinfo: upload=0; download=76235908096; total=1486058684416; expire=1887212999
+
+vless://bbbee51e-021e-4e65-ba03-bf7de175116f@194.58.60.228:443/?type=grpc&encryption=none&flow=&serviceName=livestreamcontent&sni=node43.lmdscdn.ru&fp=firefox&security=reality&pbk=PVlnR_I9tZ8hKhOHW6ySpSofhsaShcBQ_JV2-0TePVA&sid=c5548af15927b698#hamedvpns%3A%3A%F0%9F%87%AA%F0%9F%87%B8
